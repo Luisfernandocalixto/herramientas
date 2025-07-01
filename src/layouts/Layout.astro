@@ -10,20 +10,37 @@ import MainSection from "../components/MainSection.astro";
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="/tools.svg" />
     <meta name="generator" content={Astro.generator} />
-    <title>Astro Basics</title>
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Herramientas" />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="/tools.svg" />
+    <meta
+      property="og:description"
+      content="Herramientas y recursos para el desarrollo!"
+    />
+    <meta
+      name="description"
+      content="Herramientas y recursos para el desarrollo!"
+    />
+    <link
+      rel="shortcut icon"
+      href="./assets/img/selection.svg"
+      type="image/x-icon"
+    />
+
+    <title>Herramientas</title>
   </head>
   <body>
-	  
-	  <Header />
-	  <Section />
-	  <MainSection />
-	  <slot />
-	  <div
-		class="sticky inset-0 -z-10 h-screen w-full items-center px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]"
-	  >
-	  </div>
+    <Header />
+    <Section />
+    <MainSection />
+    <slot />
+    <div
+      class="sticky inset-0 -z-10 h-screen w-full items-center px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]"
+    >
+    </div>
   </body>
 </html>
 
