@@ -1,0 +1,90 @@
+[
+    {
+        "text": "api",
+        "href": "/tool/api"
+    },
+    {
+        "text": "app",
+        "href": "/tool/app"
+    },
+    {
+        "text": "code",
+        "href": "/tool/code"
+    },
+    {
+        "text": "css",
+        "href": "/tool/css"
+    },
+    {
+        "text": "data",
+        "href": "/tool/data"
+    },
+    {
+        "text": "despliegue",
+        "href": "/tool/deploy"
+    },
+    {
+        "text": "diagrama",
+        "href": "/tool/diagram"
+    },
+    {
+        "text": "documento",
+        "href": "/tool/document"
+    },
+    {
+        "text": "drive",
+        "href": "/tool/drive"
+    },
+    {
+        "text": "extension",
+        "href": "/tool/extension"
+    },
+    {
+        "text": "fuente",
+        "href": "/tool/font"
+    },
+    {
+        "text": "icons",
+        "href": "/tool/icons"
+    },
+    {
+        "text": "imagen",
+        "href": "/tool/image"
+    },
+    {
+        "text": "javascript",
+        "href": "/tool/javascript"
+    },
+    {
+        "text": "plataforma",
+        "href": "/tool/platform"
+    },
+    {
+        "text": "streaming",
+        "href": "/tool/stream"
+    },
+    {
+        "text": "svg",
+        "href": "/tool/svg"
+    },
+    {
+        "text": "tailwind",
+        "href": "/tool/tailwind"
+    },
+    {
+        "text": "traductor",
+        "href": "/tool/translate"
+    },
+    {
+        "text": "tutorial",
+        "href": "/tool/tutorial"
+    },
+    {
+        "text": "video",
+        "href": "/tool/video"
+    },
+    {
+        "text": "voz",
+        "href": "/tool/voce"
+    }
+]

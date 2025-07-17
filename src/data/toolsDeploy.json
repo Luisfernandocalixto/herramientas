@@ -1,0 +1,44 @@
+[
+{
+        "href": "https://vercel.com/new/luis-projects-31e291ee",
+        "text": "Vercel",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABJ0lEQVQ4ja2TMYrCUBCGv/cMWcRusfAAeokE7NPZCFtsbedJYuUZFlxL8Qh6hxRpArF5hWtlCCiZbZ7Lxry4sLsD08z888Ew/0A9noAIeAcOwMXmwdYiq3HGAFgCJ0Ba8mQ1A9fw5sHgfW6+Q3xLbQg9zxPf99sgSztLBBxdoslkIrPZrA1wtLOsXIJ+vy+73U7SNJXRaNQGWQHkruZ8Ppfr9SoiIovFQrTWLkCOPVOtMRwOJUkSuYUxRoIgcAEuDYDWWuI4lvtYr9fS7XadgNoKQRCIMaYBKIpCptNpYwUP2AMvAEopxuMxeZ6TZVnNKJ1OhzAM2W63lGV5K++VPcUb8KyUotfrobV2WlVEOJ/PVFUF8AG8PjTSD/llpD9b+V+e6dfv/An3+wTVwO8WqgAAAABJRU5ErkJggg==",
+        "type": "deploy"
+    },
+{
+        "href": "https://fly.io/",
+        "text": "Deploy app servers close to your users · Fly",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB+0lEQVQ4jX2TPWuTURSAn/t+xIS2SasJitogwY+qlURMtBUaEBpqhzqU0qmL+BfEwaVxcHHJ5iIugg6hWBBaQc2kppooFQltI6XaJQYJbzUfUtq8uQ5Kmo83nu2e85yHw7n3CoD4rOFVhIgJCANu/h8F4LWJcms66loX8VnDqwrxCehrJUu/S0hZw9nlshIZUPNrihCx1uaP2RQv0wu43DrfNvIc6/cSOj5C8PRwI7YflJgiINKYfb/yhnjiEb6BAzx4fBOAq5MBlCM5UqvJ5hkkEQXoqZ+l5FX6OQAzNyLougrAs7m33Ll3nUxuCSnlnkDgUhqFle0yxcovAI72e+r57zkD0zQ5ceYQle1y0xBNArvNjqZqAPzc2gPtDhuaplH4UcRus3cWaKpO4GTw7y6Sq/V88NIpMp+/UjV60FS9swBgLDSBY5+Dhfl3mGYNgMj4Be7efsJYaKIVbxc4u11MXZkhnzN4sfgBt8dFeinLWc8Izu7299AmABj0+RkfvsbD+4vs7Oxi5j0M+vxWqLUAIBwYRVTtdGl9hAOjnTAUoGxVWNvMcP6yl3NDh8lurlg2SygqEhJWRXfvQZZTGyyn1nH3eqwQBCTEXLQwIFCTVp+pau7Cv+u1iC2BOqRMRd1rppQBCU+BUiOhqXpbs4QiMG+iXJyMOr/8AbBBmWu4/64aAAAAAElFTkSuQmCC",
+        "type": "deploy"
+    },
+    {
+        "href": "https://railway.app/",
+        "text": "Railway",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACCElEQVQ4ja2TsUojURSGv7MkMsKCqXRHd28aCxvBYkBEfAkLKwtrH0AL8QmmzRusja2VlvoMNpJkyMSAopGAQW6UuedskwxqdlkW9odT3HPP+S/c//9hGpvACdADinH1xr3N38yX+Ao0gFfAoigy55w65zSKIgNsfNcYz04tXwAWx7GlaarNZjMMh0MdDofabDZDmqYax/GE6OIzSQOw9fV1y/NcbRpqZpZlmSVJMiFpTJa3AF+r1ezq6io8PDxop9MJeZ5rr9fTwWCgqhrGJKHVaoXFxUUDPLAlwE9gd3t725IkYTQaiYigqnjveXt7w8xsf39fVlZWACxNUzk4OAA4EeBWRL4fHh5avV6XoihMVWVhYYGdnR1EhOvra0vTVI6Pj1leXrabmxvW1tZkNBrdVoBvc3NzzMzM8PT0hJmhqhRFwfn5OSLC7Owsq6urHB0dcXp6ytLSEvPz83S73bgCEEKg3+9TrVYxM0SEfr9Pq9Uqz957np+fUVVEpPz9CnD38vLyYzAYUKvVNIQggMq7KVW1arXK3t6etdttut0uj4+PAtxVgEtV3b2/v5eNjQ3x3hvwBfjwEiDtdls6nY6dnZ2J9x7gspTROWd5npeafzCBatnL81ydc6WMH4yUJIlmWRbMbKL7pIKZaZZlIUkS/Wyk/2LlP4XJnHMWRZH+LUzv8U9x/gXfIYruFBaJ0AAAAABJRU5ErkJggg==",
+        "type": "deploy"
+    },
+    {
+        "href": "https://render.com/",
+        "text": "Cloud Application Hosting for Developers | Render",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABJElEQVQ4jaWSPy8FQRTFf/f9CQo0xFNRKDU+DY1CND6CXjS+jy8hkaiIQrSiEBVP3s78FGZks8HbxEkmM3N3z7lnz13oCXVJ3Wjdow8p1IF6qt6qj+qluteHPCj7uR2klF6m0+lOH5E19VVtcs6znHNKKb0XnQuA0R/dBXaBZYCIqLURkICtb4Fqt7wwKISsHgMBzIDhVzkaYBG4nWf/RE1q081AfVAnACN1HTgCroBnYBs4BA6KVgbugKZYvwbOIuJJDdTNEpTqW6tLo07VfXWsLqijlsOoh0mZby6rUT/K+eangNs/UQ1v2LIbrfqs3bWGGxF2BSjELqJM5ldU9VwCqg7qnv4iV4EBsFo+Y9h5vtLHwTtwCayXUVXbY+B+nsC/8QkGcQZS7Ry1igAAAABJRU5ErkJggg==",
+        "type": "deploy"
+    },
+    {
+        "href": "https://app.netlify.com/teams/luisfernandocalixto/overview",
+        "text": "Team overview | luisfernandocalixto | Netlify",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuElEQVQ4jZ2TvQ6CMBhFT2kVEhPjW7E4MLGzOTH4IA5Mbt2JJq74YEpiGxyUEE2B0jvfc4bvRzAWrZOV5ADwspwpitZVE064qmK1216g239bdxNvMvL8OS/4h4emUyK84AmJ8IZHJGIR7JAItE6U5AakXvCQxliySElRBsAAqZKijALAn0TGdhXQBLCNsV31GWJdr1X7uIYNsY+vxLlGX8nkIc1JvE55TLLomfponSjFEcAYTmPv/AbC7Wtar8k/mgAAAABJRU5ErkJggg==",
+        "type": "deploy"
+    },
+    {
+        "href": "https://zeabur.com/login",
+        "text": "Zeabur",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABbklEQVQ4jcXTv2pUURAG8N+59252V2KSFbVdBG18CUWJhY0oWFn4FAE7Y2GrRdDaVkJaQRDxDcS02iirEQ34B1lzs3vOsci9sNFYqTgwcObjzMw3853D/7awP8xhD7s1g91sr+XmkBv/BwzO2RiWjhxjMqWDicogvPRg95V7NSpsN04DIBeEtODknaNOXanFKbnKop6utxYTxkExl6W7uIECqYKrhHWU+gvz+iqqdtgeupYy+oQSS7PsK1gnQe3Tww+2Xke5rnTjvMG3keen33t8qUSQNjNP4l6BdIAKv9hlLOMNHmHzd0tsGM9dKzmf5cli5czKMJ04OyifDXtxNBHD12gwGnt68YW1TAjkZokKRHaXE9czugUrQ6pevLBHFh0ObQtYa3PaAu3D+JwZY5qyzrta53iQUqIIpjnq7ERfZnPaAm2P27iPuDNRbGzpHe4IE5RBnkZl/d3HZuY258/sZxX2xasHqLT6t//CDz+Kfn9x6lnjAAAAAElFTkSuQmCC",
+        "type": "deploy"
+    },
+    {
+        "href": "https://app.koyeb.com/",
+        "text": "Koyeb",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB9UlEQVQ4jaWTP0iVURjGf+85duVGXL/jHyx0kAaHSHLKrYLmaOiPYyhIEkQhrW2NJRQN5aCuiUVD0NRgYGM1RboFFQYX7+eFvHyfeZ4GT2EREvUu7/C8z3Pe8+Mc+M+yPTTf3d19DKBer78F4l8HZFk24L2/LGkMkKQ5SQ/zPP+wZ0CWZZmZjZrZVeDILl3AO0n3JC3keZ7/HlAJIZw2syngJLAvmVbSzGDqW8CSpOlGo/ECKA2gs7PzHDAL1FLgF0mzkhYAzOyimY0DvUlvAuPr6+uP29i5ZI+Z1YBNM3saY3zgvQ8xxtuJwV1Jz51zk5LOAjVJPQBt6YRtYNnMpiWtmdlEjPE8cCDpI8CipPtmtihpKnl2GHR1dfWZWW+M8QwwAfSlVTdT35/6J2DGOfcMWKvX6589QLVaPSppBhhNHL5Jeum9vwE8MbNDQD+QAackjUhabrVaH11icAwYThutSLrmnLsSYzwsaQCYNLPrwGqaGU6eHQbOudUY42szW5I0b2aDkmaB4wniKHBH0gUzG5N0wnu/svsdWK1WCzFGX6lUbpnZJUntv7w4s0LSfFmWN51z281mswHI/xgoiqJVluVWtVptAQcTi0fAGzPrl/QKmNvY2HhfFMXXP32BnxVC6AghDAEVoD2EMBRC6NjT9K/1HS656SIrBOuYAAAAAElFTkSuQmCC",
+        "type": "deploy"
+    }
+]

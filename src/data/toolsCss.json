@@ -1,0 +1,195 @@
+[
+    {
+        "href": "https://cssgradient.io/",
+        "text": "CSS Gradient — Generator, Maker, and Background",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACOklEQVQ4jW1TO2tUQRT+vjN372PuzUZsDIILIoKNnaAg7A8wXXzUFulEixSCqVLFLlXsUvgHTBftFwSL/AMRIYKJigkxarJ3753PYjZrEp0p5sGcM9/jHCIOAhAAdG4+veWq8qHzvm9V3jPvgcpvmc8GzPKXu0t33p2MISbjftq5fum5lfkj63YzKzpgkYFlATdVwrrTcLkbsixefN3bfoalBzUAWMz0OHNXzq/TpQuAUrV1I7Vh/IMU2qDRUROCUhbVwoWLl9fx+n0GiQZANrO/TGazao9qCCKQUJygI0hACRDU/vxRc2p6dub7r2WQIvzdG9Yt35ovHH1Bqwoz72VVTvo8UigLmPdildO8D9b1Mu/bUepuGzrJvJSkIhTpSGAgpIlSECGKIAWCaoKYFWlmNm8I6hOtIBgoAn+h43jHED0KgYAI0jQaSmTfAPQAkdER4WS0TqsQMzLiaRsC6NnxE51Zzx7GjKCxymNwMgBbMSsF8AR+nQLB8R0hUhSSjgB8MhgHoiOIAEmTSB6LGHWN6E2ASVBgklJBA8OoWSOaWuI4aqzFpEgFkJAoSJQgOKOGhzUU1gy/X20CWKWlDkQDMUCIloFSpCZGGwOgxpXTTu1odfvetU0DwLDzbVEabtDlKQiKajSWjQIUSTQA6KpzaTjY39jZKxcnpQy8GbYfduekegVkTZclpDMwTpoZ0yKhsdbhwcqXzx/n8OTqMJby/9rZTz10Vd63Ku/Re7Aqtsz7AbP0n3b+A/gPBduEDzOdAAAAAElFTkSuQmCC",
+        "type": "css"
+    },
+    {
+        "href": "https://github.com/hosseinnabi-ir/Glassmorphism-Analog-Clock-using-CSS-and-JavaScript/blob/Main/images/clock.png",
+        "text": "Glassmorphism-Analog-Clock-using-CSS-and-JavaScript/clock.png at Main ·\n                    hosseinnabi-ir/Glassmorphism-Analog-Clock-using-CSS-and-JavaScript",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVQ4jY3SzW7NURQF8HVub/VDU0aiZiIRow5K0viIZ2Fk4CHEUBORiERDJB7AC6ADMRMjBkjMKB0i5cql+jPZl7+btrGTnfOx9zp7nb12kgQtZTiNVbzGdvkr3MZydjPM4Qa++mu/yke2iRXMdIGtwE/9vz3G1B/mRRme4AKeVbX3eFf757iIR5W7MgKfw09sYbXu9mEBs+WHMVWxm5U7wGI/yeUk/frRN0wk2WqtbXRaNECvYoMkE0lmklwK1qvTmzheVXpjyrTRGUfxpTAvUnTg7T/d3V2tyZJ1G597SYYVm08y2628A7gV9fkkLclkL8nHJJIcSrLUWoP+DuB+a02Sk0kWCrMe3Kth+Y4POLEHg2N4WfThTrBchyu4W/uHWOoAF/EAnyr+o6Q/NUq4hWF1+CrWcGSs8sgGtV7vSjRZ0/cG58e/gf3Y6DyyVsPW0tF3Dvc7SQc7DxwoysNiO7uXzmdwDdOdu+m6Ozue/xuzv0AUmOpFBgAAAABJRU5ErkJggg==",
+        "type": "css"
+    },
+    {
+        "href": "http://mobileinputtypes.com/",
+        "text": "Mobile Input Types",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACbElEQVQ4jS3S225TRxSA4bVm1szsbdkkgRji2FREaVKEhCBFqsTD8Ep5Cx6h6kXvKvWmRUK9qQSJCIckJvEhjr339uw5rNWL9H+ETz8eHx8DAKICEBEBAGutMYZZEOEuAVDAHrYSdvHlixcAMJ1NrbHb/f7l5cXhweHR0ZFvPaJCABZQiMDNqX2zOXpFRacrIsNRl4WV1o8Go97G/VXjY4xKKREBQBBQCsz6z3l1gr/+/ke306maxlkXYrDW1lWdOWulmdkYSjlrpUJMvQL9uiK/WkzHX3Z2diUliel2ORsMdjVpEAgh+NYXhh6PhjHl05OPrtykqvHaFNP5QpNiQWD+PpkRac6cmddNDYhtiN63bdsu65ZuVj7GQMbklJRWkoVl/r+MUojIzOfjuXMupai0pqf7u5ocQo6JFULKXBTOr71zLucUYxqOhqtVXa0W1nWs0XR9Pen17sXgBRXnbJ1zzsxmU2OMUopFLi4ucs6r5W23l1q/pn9Pvqac74iIKOeMAKhQBLTWzCwsLFyWpV9/BgQyttgb9PvbWyEkrTGEaMgICACGGITBOZOZUeTmdnVy9o02NnooqbTaaBVabzSWjrTWgDIez4xxqY2azGw6Wdbe2JL+fvd+uPPw8mpa1WulMMWsFAIiIiBAymwMCfNWz1ZVdXZ6RkVRNL6d3Cz2fhg9Hg7ujkBEAGBmFjFE5+Pr3z72bOdH9fBnKgr7/NnBzWL50+H+619e+bWvm2Yym2tND7Y2y7IoC/vunw9vP+3v9YdPtmu6urr+q2l824JICqENgZnbELVWn4kQ0Vnz6et3NVmO62+VS/8BSuJ2LYBQC/sAAAAASUVORK5CYII=",
+        "type": "css"
+    },
+    {
+        "href": "https://app.haikei.app/",
+        "text": "Haikei",
+        "imgSrc": "",
+        "type": "css"
+    },
+    {
+        "href": "https://www.joshwcomeau.com/shadow-palette/",
+        "text": "CSS Shadow Palette Generator",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADl0lEQVQ4jU2TS2hcZRiG3+//z2XOTOaSmUwnM8mQtI3W1Bpoq9IibQkNXlBqRVusUCjFgpu6EXRhFgMWLztBFEQUq7QNhCBU4iL2ErSR0oaptUmwNLWlrZlkctK55Jy5nDPnfC7ags/mXb08q4fwAAKADw7uy7qEMc/nJ3RNWYDvL5ZW7S26rmuxcDBvaPLYh18cH8f/kA9XAOCB/r5PWi33VbtWk/Wmk1R1vQfMml1viKbbykpF3bdjc3/9wpXZiwD4kZkA8LsH9r4vVfWzhuO48DxZXCkxFIlUIkGWbZHP8EkI6ulMCsu2J6q3im98NzVlSQB4Z//LL0gpj9frDbfleRJCUjwWIdM0aaW6KgKajnKlSk6jiUqt4STjsQ0tjdzpuRvnFQAwAoGXKlWLLcuGzyCPGeFwG61f28P5v+a4VK5Sq+XxvcIi4tGwQsxeRyy6B8BHyuE9z4Ub9eauRtNB3XHFvYUCSyEJQnAi0Y6uTCcuTV/htmgMfekOXLl+G7VGU2zdtNEHwEoknk0sLy1lA7pG1+dv0Zb+x2hocAeNjI1jYdlER1sIR996DVLVEDV0fDsyxqZLFNBVPZPJ6Mr1pUphjSIWW56X8FstHh5+j3qf3oxXhnbi6p8zKC6biEcjSCUTLBUVy6Uyfhg/h1AoGOzv7jZEuXxNKFKlO3cXMLh7F/Vu3UZff/k9Dg9/ilQmjYGnNuLH8bM49s1JGKEgtj2zhdj3sWrVQr3dHW2iuxLxDF33hBC89819DCkwef4Cj56e4PzlPOxSGRN/XOLTZ34ne9XibLYbfWt7uOk4gtGUyujcnHNoXeaaEQxu6tuwjt2b8/zxtt3Y/2Q/6QS+mZ/F50ePUMR0WTVrpMUjfrI9SveWTVsP9JQEANxdWPpl/fpeiqngVbOIUsXksKFxMJWgQHYNKZLZhYuiXSUC+emOOBXNlZmvTpyoiBznxNn8tVPbtz87YyhCtRpVt/l4nBoGYBb+5XJxka2mDSulwQmS4zuuarSFZqf/vnUQAIsc5ZgZfHLkpyOFO7fvhAW0ll31vFrV96yyD6fqq17DM8jzkmFDW7l/v3B55sYhACUiehARCPh5cuqiVJqD8BqTiZBUkgFPxrWmTBotmYkIpSseVDTJ54yQ2Dn26+T0owDFw6I4l8uJ1MDr/5xZHh9Kp9MHOru6RjvT3VcTidTVSCQ62t4eO5A/9dvzfS++PZ97cPYB4D/u6qZV9U6TKQAAAABJRU5ErkJggg==",
+        "type": "css"
+    },
+    {
+        "href": "https://neumorphism.io/#e0e0e0",
+        "text": "Neumorphism/Soft UI CSS shadow generator",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABLUlEQVQ4jZ2SQW7CMBBF35iRiMgim6DehmXZllvQG/Uo5QxcgAUg9iCZRKKAceIuWiKcBoH6dx79/2Zsj6zX6xdjzAfwCgx4Tl/AzHs/1d/w25PBqwbARFWDbDabQ7uzqkZu7/090EFvw/1+n+FwiDGGuq4bV13XWGs5Ho9tQBq1yvOcsizZ7XaEECKniKCqGGOienMyxiAibLfbP2GAEALOOYqi6AaICFVV3btr45nP592AZ2WtxTn3fwCtX2kAVVU9vEKXogn2+/3DwPl8RkS6Ac65zh+4arlcEkIgSZKmpm1TkiQsFgtWq1UEO51OlGXJaDSKJuhcZYCiKLDWNhvZ6/XI85w0TW9tBwVmwKQNyLKMLMvuP8aPPtV7P1XVAIyB9FHi2hmYXS6X92/o+oOrWl1OigAAAABJRU5ErkJggg==",
+        "type": "css"
+    },
+    {
+        "href": "https://www.manualweb.net/html/colores-html/#google_vignette",
+        "text": "Colores HTML | Manual Web",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC4klEQVQ4jZWTPW9bZRSAn/e9r30dp/6KMQ7EbqREDUphRFAxMIH4WlgCUiUkJMTYgX+QBVQqdWHiP0RlgAGJoVJxSliQxeA0JUL5gJgEGtvxvf64H+97GNJ0KgNnOMPRsxw9euD/TQYoz0Pt4qAA78sPqyv1y825Gd+U8lkpZySu5HxXzXtSnTFS1thS1uiC9igZpYqe0blfd/vfvXer+5n5/otXPn5pde5rE/xh8nmDs5bUGiaxZTKxTGyWsctyNoYw8Tg8nnL1SoX6vHwE3Ztmtlqt13KhuXG7k97dRjmQUQJi8pRrDfxchnfefUs9eLhLp7MtvWHK9Tci/enLOgSUsVFqp5OJtLs+V15fU+OzY10pl2k2FhTiJIqm1J8pMhqWmTXL7P956oozaMRpAI2zKo0jVS1leXFlkXDwD+1ffkZhZbP1I+12m/v3f2JnZ5dXr71GsTSnoihGIQAYZ1PRIvROQ3X71ucKUJ7ncefONxhjKJcrHBwcUCgUmE6ncnJywtWawyYxgNJpEimXJjgrKKXQCjzPIwhDRIQgGOL7Ps1mk9RanDii6QSUCIAhTRGbohSInItNkgTf9xkMBjQaDZaWlmi1WqIV9Ho9xmOHs1YBosXGImn6+KPHW0SCIKBQKMji4qJsbrZkeDagWq3I6gsr4myCuETOLcSJEmfRGrRSopSw9sGa6vf7srDQVJ1Oh8pcjVKlLj/c3SI7W5NLOe3EOgeIcWnisKnECTgREPirF7t+P+be1rfOzyDFvGO+KNSL4i3VD83710qMh/1LgDKejTOIdc8/l09V0fdWG1l9ubKl55sJy29meHbWks8oMloxGsVuFI/7Z0eD3r0HaQt4ZAbBtBuGU++r68qzzjEa9QkmLphE9qR7KN2dkP3jU/Y6R/y+94j93wKOgL+B8ElM62/zyTBiea/LzvYR+w/DJ9DgaUnKOhpArePUf3V7AQFsdFAbG7BxrkkuEIB/AVssg4na3qchAAAAAElFTkSuQmCC",
+        "type": "css"
+    },
+    {
+        "href": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+        "text": "A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACcElEQVQ4jZVTz0tUURg9b97Mu/fO+yU1YwNlBIVGm0CLwAKjZW0issDWTTsJWjQZyqBgPygIN2V/QRgNLmrVIoRwUVbaqohwMaOpmL43Mzrvvvve3BYzWkYz0Flezvd95zvnu0ATyHRXTKa7Ys04kYbFmdQBX1/7UZTh4mLvyf3/3SCsRjsFZ7sFpwlU9c5GvGhNKmJIps5Dqt+U0YVZAPB9shxwAsEJfK4tbxU8u3zz6EKypb2U4C+y2Ww1CgBIpDKQGAbCUA6kRqEtDXuLJC98isCnEGUt/+Z0NrphFYcKJhtYN6lasFpvAbhbW0FKUR+gAhj01tqn/JBqASeh4CTwIiaJaCtTrkkGXZ2qjk7h6Kz624M7y/cAeQXA58AnCHzSzT06IzgNA05DwWMfXJ11OzqDY7A5R2d9k9f67gOA8rcplf72U17Z7q+UzAte2VIrJRMrhh3mk3ZusdUcyzzMvG2YggQUzjXmVygRdQM3VYqaZKKt6QaDlDuGKgAge6Hi4N6rlZJ5vbJhdXglE17Zcitliy3Zlswnba+QtO180kYhYX1ZtcxH7y6efQpFkTUFh1K3fU4eC5901KKj01WhdZU1qjoGU9d1/Zijs2lXZ3CM+GEo8smJ3MvM9gpVGeWBTyA4DQWnI/PljR4viPt1x6ObVOOmstrjmHQkUCNhLTglsn1Ike+FB6Klcz7k8a/7cq/nAGD6zJE2x6BwDYoVi7aNZW/kAQwdn3iVi6jVQ2yXMbndQHmOEPg48ac5rkn21PNG0Yi3br2/v3RuFsDsjlP+FxxGPrkG++kYNCjasZlGvKZIp8dj6fHxpt/5F3FiEAQkJRrxAAAAAElFTkSuQmCC",
+        "type": "css"
+    },
+    {
+        "href": "https://flexboxfroggy.com/#es",
+        "text": "Flexbox Froggy - Un juego para aprender CSS flexbox",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB7UlEQVQ4jc2SQUsbYRCG35lvd6NVCSm1FmppIbnmUGwpBC+iUDC5xmN/gBfx1NsePNm7+AP6G4LQQxBBPNVSEC/SQ5oqbqDtgklMst9+Mz1YY9Ecein0gYGBl5d3Zhjgv6J6XC2Ecbi1dra+iirMjQCzdra+GsbhVvW4WvjTQ8PuI/yNBxsfzIFZCJ5m8O3Z6dtep7sLAOOTEwtPGrPvkq8DuJLbDb+Hr/ECFgD42l8MipMegvz5YQQbWcBh0/ODPc8P9uCwaSOL88MIHoJ8MShOXvu862ZualEbSVMerz9CnMRI+gkx8TgAJGmC+HmM6VfTaFw2ZW5qUY9whOEE87VybtBpZUjVRf0IF7YNKCAiEBFAgQvbRtRvgVTdoNPKzNfKOQCgcr1c4jHz3jn+OftwpnAvO5EDA9BbFyZAU0Xv4jI+/dH6YkjuS9+98WjMX2Gf84Y0T4YRZDNgw7gDAS5x6LV7Od/QSxgPCl7xxEqTmaCpDlNVb8f/Rq9K7ZUuVpo8SNOacy6GodGmURiCcy4epGmN60s7J3C6DYYMp2W6W0Q3X2MgcLpdX9o58Sr7lWUwZSUVYSa2nQTENPKIYgXsMcSKkE/Zyn5l2bNqZgKlkoj73O52oSmggpEQA51BFyoCZlNKlD79/d7/il9FnuP8vO1JiAAAAABJRU5ErkJggg==",
+        "type": "css"
+    },
+    {
+        "href": "https://www.creativebloq.com/features/5-top-flexbox-resources",
+        "text": "5 top Flexbox resources | Creative Bloq",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABt0lEQVQ4jY2Qz0uUYRDHP7Pvbv56K7VVohYjD5YgKViBHiNEL0WBFyEkCCxQ6E/oEKUIHsQ65EXoECxJB70IghCS4EEhPYiwJzMxKV1Wt2h33/Ewu+u+bOQOPMzzfJ/5fmfmK7oY7SP6+iXJeDWlRv3VGINvH8mlaxui/ZEEqT9uyeRcdDz4IEOTfUEfWfV0ooiVJn6GAYL5DycIT99A0y3wPFj6BOufYWDc/tMpmHsHc5MggmRpgbxA5Dp0PoSjOAQc6B6A82EIR+Bg1+73n0PghOIXCJVbXp6B2IqJOCHDvkzD3lb2LT6BIEUhsL0JbjVk0gZdbITKc/A7UeRTsYAA0yNmVutdw7qeWF54D+rljfSvkAsFHo/CxBqcvWDY7ATsxOD2PTP7nx4URnkVuLUnnX59t/El4OvuXyH913LrHXBrbFcvY1h7D9Q1gJf+jwffNuDrAjS2WdFiFOJ7cLgPV1pMbH7KjC2Ywj/BcK/tmOsuAs+as94UYD4PzlQk8y8RKyp02ssUYwCH8RpVdZwXr4aTxFZvgoATSpV0UNjfuUxZxVF2OhVVdUo+W2s3dKz/o+oP9xihfb+qEiqqaQAAAABJRU5ErkJggg==",
+        "type": "css"
+    },
+    {
+        "href": "https://bashooka.com/coding/20-examples-of-ui-components-built-using-css-flexbox/",
+        "text": "20 Examples Of UI Components Built Using CSS Flexbox – Bashooka",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZElEQVQ4jWP8z8DwnwEZ/GYgDSAbgGEYFqD2H0n9b4b/TCTahwFYYCYR6wp1NPUUeUHtPxW8MGrAYDCAkSHuPyIdLGJkYIwjkBTUkJjVjAwMKAYMREJiYWBAuIIR7hB8gBHFFQCnqzDR0rVXkgAAAABJRU5ErkJggg==",
+        "type": "css"
+    },
+    {
+        "href": "https://codepen.io/rendro/pen/Vwxyjm",
+        "text": "Flexbox slider",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACM0lEQVQ4jaVTsYoiURCsfrOYCSaXqAO7hjMwLmo2mOgHKGwq6H/oLPsx/oD4EUaL66IGZiqbzCUTbTCP13XBjSJ4d8k1vKDp4nV1UQWSLyS/SLriqaqqtZaXstZSVZWk3uC+SL4IyRTADwAKQJxz8DwPAGSz2QAAms0mAPBmRgAGwE8USxxJtdYqSTrnmCQJCyCTJKFz7sLmlglBUp1zWlDker3WKIq0VqsxDEOGYcharcYoinS9XiuLG51zSlKNqooxRqy1Mp1O0Wq1pNFoyG63Q6fTQafTwW63Q6PRkFarJdPpFNZaMcaIqgpI6ul00jiO1fd9XS6XV/F6vR57vd61Xy6X9H1f4zjW0+mkJBUkOZ/PCYBBEPBwODBNUw6HQ5bLZZbLZQ6HQ6ZpysPhwCAICIDz+Zwk+UASeZ7j8fERcRwjDENUKhU8PT3h/f0dADAajRCGIbIsw2Qywff3N/I8B0k8oKhCUIgIPM8DSajqdeZ5HkTkiruUERGUSiUcj0esVivs93tst1v4vo92u412uw3f97HdbrHf77FarXA8HlEqlSAiAEk9n8/a7Xa1Xq/rYrG4itbv99nv96/9YrFgvV7Xbrer5/P5t4gXg+R5ztlsRmMMB4MBsyzjeDzmeDxmlmUcDAY0xjBJEuZ5zovh7oz08fGhzWZTq9UqgyBgEASsVqt8fn7WzWZzZ6S/Wvn19ZUiQmMM397eWPx/Z+V/hunz8xMAEEURis1/DNN/xfkXHx57acRH1gEAAAAASUVORK5CYII=",
+        "type": "css"
+    },
+    {
+        "href": "https://cssgenerator.org/box-shadow-css-generator.html",
+        "text": "Box Shadow CSS Generator",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABaUlEQVQ4jVWSMW8UMRSEv3n2HUsuEFEBkRCRUlFEokhDgfK3U1PwA0INiCgFihSliC7hzrseCu9u7lw8S5Zn3ryZp9uvYCwcAsAACLxTiWqMRMYY8pbF1jTIM2yq5l+HE5hskTf8OT2+Pnm7KL1D+9RgDymd/fh5dPfQL8g1WPb8+vDq8uLd4boMKcBC2BYCqsuL/Pr3zae/D1qSZSyWZVity+pxW1M0rdhVCuzBrvX7nXnk84rcujvkFDXFsAOwZGxMijafRJ6HtC3TPjTp7ZKNLVnCbgCBkGQhjUwAUhNsZMsGEaN7nkz06OP0CEYgISFmSbLdnLGqHAZbwCh0UkieXRcWyE33SK85val3tp61GM2h7aU9g2k5tDFDhBSh5ms1IdlgUkjjymVVnjrOr67fXN1+uydPLuxsnyWV+3XpUCULCLr15uN28+WJpDED7e4ulI73HYPJjaYPDl5yfkCdQ9g/MsX05j/bJ9UYksH54QAAAABJRU5ErkJggg==",
+        "type": "css"
+    },
+    {
+        "href": "https://css-pattern.com/",
+        "text": "CSS Pattern: Fancy backgrounds with CSS gradients",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACd0lEQVQ4jcWST0iTcRzGv9/3fX23yTZ90zYdsw01Z3vNMCIlidBmUUpE8Q4lwjDr4KHIS1CHvcciIgg6RabpIRx16ZCWSNBFD4aUG1SXzGYza7PN992799+vQykGHewQPafn8uV5+HwfgP8t3OgFQaAAAKJRngCIRBRFjMViCADA8zwJBmMYDkdNUQSMBEcRw2Fj7ZjadKRA6D82uNrfV7GwlGqTNbO00F70yuMqmVlOJkJZOVebzxvzZ7tPpxp518lcetnLWG0ZO+d5VrRt5wMEADjX3RXOKsaQbhIrMQyZYVlCIX5QVbWWZdl5SVY8Ab/Ler69DnRgwWFjwOnyg9XbtJsWL/VULqZyYxqh3zo4V2uAwSumlU7mVL2nsNh9eWRooHNq/KGylSyGnOU1C+69py5y3upBzYQxG1c+QfN1vJDT8QRj29Izcu/O1IvZWb3jYEMinVW7crJ0fHtNYM+qovuqyh0BdSVRLC+926dLabez1D/N2JwxipCfHCgLo60BFW8MJnm/u8HGYsRmoUuePp88fPvxjAFc1TSCCd8+vun4Ep98JCXf99LHQk0ry2mpV1XyfHPrkfGb19skO+Nr+ZQxvCPDw/fnYvGBQ/sbzcTXTIu7uvFa89HOJ3kpU5dZmOMKHK7sOsRMTh82CFAMjd81zWAR0aAoGgFIUtX0yl013oIzR+ohrxFi5rNoKSojvvpQx/ob+/v6KlJytl3VSRnSlpechU6sKkqbZhhuE5nXtyIXPKikDiiyVMLaiz9zvh13rXb3xF8PSRgl7JonBJD55U34bcpRAgAgCMKGGQcxHg8TMYwqEUUKIhFARHOzwf9OPwAM/Ars4TTJgwAAAABJRU5ErkJggg==",
+        "type": "css"
+    },
+    {
+        "href": "https://hypercolor.dev/",
+        "text": "Gradients for Tailwind CSS | Hypercolor",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABkUlEQVQ4jW2SsYoUQRRF76mumemZ3hkDNZM1MzAxEUQ0FDMNRdDYSFjwF4xFFPwCxcxMUz9BE0PxAwRhx+2etre76xr04PaOW9Er6p333n11+Xn3tVyhCm+sbSBXmtTsHVP8oWi011A0Qxw1PrZl2ZLY3iybUUocZwsIGQ7qLJuQkWXAUOI0YBmc7LKEmjmA69KqwiyOmbAFEE5M4vTOrcnN607JqY/Xbkxv39NsrpQEu4D7RJEvnz9bHDxBkPr88dPi4GVYnlfX/gNORtLQt25cVmm9JlurPFJKdtJopBPRWCKo6+L+peWrF9BmV66q7xSC9L9oZBnJKYVFHi/vi0Q+H+1nR4MF2EmTSfv9x+GDR4cP73ffvihGpTT8ym4H2QCLnNWSfEbIKVaEjBBsnyU6BNfN5s07H/0ykMXm0/v264VUrcmi3J0FNG399gOqKYKyePz5o/IyXJxqlcmtd0dKJsC5FY7qfsumWFJMCZutayROeWmwW9/LvQBw36vvZDMscdd8kgAxPEva1mRsVv0F623JSiSvna4AAAAASUVORK5CYII=",
+        "type": "css"
+    },
+    {
+        "href": "https://flukeout.github.io/",
+        "text": "CSS Diner - Where we feast on CSS Selectors!",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACf0lEQVQ4jXVTQUtUYRQ93/feNDM4C1eKmIZkIxRYVmaYUpFIBRqUmbkM2vYDxo2rfkELQ4RAWiRRogujVRHiIsRFhOGMDfR0tCmHccYZ3/N933da6Mig01ndezjnwuXeAxwBSUnSqsCLSrxdLgAAIYQBAO7uNkKIKCxY0EgKIVYA6JJWCEEcNQMAfb+HSr10yaTiPjTpUO1NUnn3j3lKBck6GvOeJdO6w+LCZxa+zlPltks0jfK/0MufO/Qe7FZjtP5GkoX4iko/uusXrjdp98mgcYdvm1zXSb0Ze+a7+bx/MGeD5NnDFbRSkyRZTKVc50rU+K1hsucUOdRFPmgnb9TRPQOTHLhpvN1d72DIAsmAJNkiwQEAJjf9OlCdjQu7sRFGaXB9BfzzC1oGEGyJiurFT8h9mAkAMACuaq3v2AA6YNlBANC+ByUlAQppSSAQAihgGQOQYMiCv/aTACQBWpZ1QSYSCWO0BgAEb/UjsXMCG2t/sQ0LRS1RNAI52NjcyiOZVrDaOgESgoTrusaKRCLqWlfXU9u2ZaimVhabW7A59xE5Z01k8zvIZPPI/N5CJrvHYOw5Gh4OSwswBOTs7OwLAQCJePzN6ebmQRjjGSmDKcdBdm6a6vsi4LkQTVFEevtR33ZZhIzxIWUglUotjYyMdIKkiMVidY7jLJMklTKapEcyR3KbZJGkIkl//4qZTCY9NjZ2vnRFAQBDQ/caVn4sz3iex//BGEPHcebHx8dbD1/66G+/mpjovdje/jgcDl+qqqqql1LKQqGQ9jxvaXV19W1fX987AOZYHgAIkrKsP9HR0VHb3d1dByBcLhwdHS3XVYyzXYG3pqamjsX5H7oY3kZrRQsPAAAAAElFTkSuQmCC",
+        "type": "css"
+    },
+    {
+        "href": "https://uiball.com/ldrs/",
+        "text": "LDRS — UI Ball",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACZ0lEQVQ4jWXTTWjcVRQF8N/9z2SUiCEmqPixUbqRUlAEcdFUipIqbRFBEkGLVDCVuNOFQkXFFHGhrV+4CyKohQSxfhWVSurM1JiC7UJSkVZULLpKoNFazMz8r4uZlhrP6vLuPe+cdzkvnEdmIaKUb1/KujFylOJGMsifcIA3PhSznQuzKLrkmUqXPHc36+sUu4kO5QHyS4oqlfd58gdZv7M7O1PpKT/fu6T+qFwo5ZFz8tCwi5Fz18v6H/KbF2TzjGzs7LmO6BbNe8gZ3Eq+QpwTI2Ny4QbaJeUUEWLjDtnYSHxGbhUjzUJ+0k/uo1bF7fz1CDbJheOsNijnuWIH5VEQI03KDzAtM6oMPoCztHdS2cfQBK1V4l0qH9EKzm6hOiXnByi3EYN0rmR+lGx+Kusv9vZRlUdS1h+zFtl4Qh5PWX+ot7O9sjEdsjFH3xCtRSoDtDfw9y2snOFEdtnP4fBVVL6jeohWm9pttH4piBaWye9xCn20iv/KzwaXt8kkB4haNx9qVcoV/jlJ8R7l0wxeQ3Gv2D695gnjXHYdSyNiy8+y/haGQjbuI/aTp4iDxDG8RLGHzkGqBZ1xykn6j7K6Da/THiefCrlYY/kk5V5xx2s9tSmGn2Hp167tvqDdz1fXMnoTWaf8nRM3F2L9KjlB9WXZHOkZvp/lZ4mPsZ8v1pGn2fwO0U8kOSl2tS6KcmNSNv6U374qG6d7Z3tk4/Fu/fUGuZByvi2bD6+J8kxFjHVkfSuXvElnmPY0NhHLxI9U76JviZXdYvPh85z4/3ee6OPBMWI7cXWv+xvxOYuzYlfrgiD+BdiDHZinOCrKAAAAAElFTkSuQmCC",
+        "type": "css"
+    },
+    {
+        "href": "https://watercss.kognise.dev/",
+        "text": "Water.css",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB0ElEQVQ4jZ2TP2tTYRTGf897/wUdxAiXfAY/Qxx0EOrSoeCkdawITk79AnbpGNC10UWcbME/S4UmTg4OVnAoOgRpDHqbWotJbt57HJq0sUZofeCFFw6/5/BwzhETMrMky7LLQRDMm9kloDIqtSU1vPf1crn8WlJ/zGj86XQ6lSiKFoGbwHmmawd4lOf5Upqm7UODEfwQmP0HeFzP8jy/naZp25lZPOp8UhhgNoqiRTOLlWXZjKTHQPkUBgCZmd1wzrn5/4ARlAPn5kMzq54SxIDdXPS9q4YTozqRBgWstUpstCN6XpXwuLvTQYfC/oad4O23iCefE/peSMgBh/PcH4qXX2LefQ+nGgwK2GjH9LxwAgdtJ6k5zrXWSnjw8QzLm2d504kJBIEOOoeC9zshH7ohbrR+5miGRVHUf+TuauNrXF5rJRiwl4uVrRKdnuPiuSGRMz7tBay2SvzMhQ4MstBTl5nFd9b98tZucDe3o90eJygFRiD4NRSFMYYR1C547jlJg81usOSNVU3k1ej1vdgfCuMPeDWC+0+va+AAGnPaLjwLghrQnTb7kbqCWuFZeDWn7WM1mHluSb/PFYNbKqhOnrM5moKVJGH9xbWjc/4NuLe7rK3MONMAAAAASUVORK5CYII=",
+        "type": "css"
+    },
+    {
+        "href": "https://boltcss.com/",
+        "text": "Bolt.css",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABIUlEQVQ4jaXTLUvDURQG8N/+bCJqUBgIygaC4AtG2cIMVk2CsKxV2Iew+gEEm0WEabCJRUQEX7DrkmUGYSgIFhe03Mm8/IeoT7vnOc89D+cl4zsGMY8ZLGAlxI9wgTvc4q0jyHSJ17CEB9zjES+BG8E4pjGBY+x2V65hG3k/Ix9ya51AAQfIRYl92MIONiO3uaApJKjgEu3og7lQ7TzY/+ji2kFTSVBCI8VqCaeYwl4K30ApQRWtlIRZPGMyTCBGC9UEY3iPyCGMYgBFHGI4ymljLBsemYjsRxYbuA5Ne01xAZoop8QzOMFVcBOjjGYW9R7zL2IR63hK4fOoJ7gJnY6xjDPs93A+FbQ9F2k17EIavhapE/jzKv/7mOLx/fqcPwH3oD42bOyqrQAAAABJRU5ErkJggg==",
+        "type": "css"
+    },
+    {
+        "href": "https://freesets.vercel.app/icons",
+        "text": "Icons - Freesets",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABVUlEQVQ4jZWTP4rUQRCFv+oZ3UHQXCODWTERFK+xwYariR7DI3gDvcXm4g1kTTTwH7LJormgO7szv8/kNbQDg2xB0VXd7zXVXa+KwdSWsKpqo15LcqnOAJNP/M/UpfouvtyFqy3SA+AucAN4mRjgFHgB/AG+V9XHkVRZH6sr/7XL+Ggr9WHnNqDlknvAdeACWMfn8Z5fBHM/nNbyKfaCgBafA2+At4n7vvlkx2fsq1/VjbpWf6ln6qM87Sx762C+qPudvFDfD+9TfaXeVCt+S329hTlRF20onZS4AZ4DB1VlSj0AnuWsMVirqnPgCPgGzAJaABv1jno7H7jI2SzYo6o6JwpDfapOadukHqs/1R+Jx7Mn4czmgxaMsLpMD4dKD1PFlI7Y9TMHpqpS/Tz0uds6a9cDwXwKZ7qqlH8Dp1X1YddsjJct06qTqwzT9jjvJVntGue/qftbHlAwRRIAAAAASUVORK5CYII=",
+        "type": "css"
+    },
+    {
+        "href": "https://picocss.com/",
+        "text": "Pico CSS • Minimal CSS Framework for semantic HTML",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABl0lEQVQ4jZ3TPWyNYRQH8N95b29vItJNhEgHC6PBIBIWYhNJE92rBhIMrJq8k8TUusVCfCRCdELExK2kiaU2jHZJkw4ShN77HsO9t73SUpzxPOf5P/+P50giS4VeZQr/U3ndrZy1F9LfgxTZtCtvmjDstJoyp+3b8IEXGhsC4JDCFZWOwri680r1QSb50m4Nz/Jtt/8LQFzwyCd7VL5pOxPnTKIN5tUyhZrjtjvms4M5p5aloTVqPQNzxsls2gY5p5Y5YGzLYr7TyZZ7q71UZKmIPtUg1+leMCpN4nLv9It0SeFJHLbEgNtZKpQyyGwZM+ysygFDtvqh0o03NNC2rPDad9dWtUSpGpD01zH+cTAXjKqcEqakxFfhIp72JawN9yNrGsumkUGns2Ux3+vk/HoTi0ETc9oOdQ9xNErtbGpkCuGBVEh3+zFGqKJUFUkRZM6asMUHoTDscd4wY9lKhFR5bknLiDcxrhNl75/oXq6SMOwVpgyp446228pueHHER+FE7Leyqas5635etdM/LpXN1vp3YD8BGPStU84H5g8AAAAASUVORK5CYII=",
+        "type": "css"
+    },
+    {
+        "href": "https://flatuicolors.com/",
+        "text": "Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY & PASTE",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAi0lEQVQ4jWMUPr6BgZGB4T8DAyPDW8bDDAwMDAyMDAz/nZ4UMMBA9MZLcDYTnMXwn4EYwIRQykiUViZsgozYBKGA5e2Na3COjSwfnP377RM4+/Pb7/htwAdor4Hx1xlbOOfbxlsIky7Iwtm/Fu+lo5NI1sDCdP4wnPP2OkLizVseOPvzZURcDUI/AAAHsiQdJeG7aAAAAABJRU5ErkJggg==",
+        "type": "css"
+    },
+    {
+        "href": "https://www.cssmatic.com/es/box-shadow",
+        "text": "Generator de sombras CSS | CSSmatic",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABhklEQVQ4jY2TsW4TURREZ+57xmstRIJkRYPoLCF3fAEU/AIu6NKB4CNc8Qekp417Ciq3fEAMtFA6CoqC7ey+9+5QgCh3PdLtZk4xmksAWCxkwMpms+fCAVqvV7yYbbScz8sh/l4RAM7Ovz4DbUpoD6P1J+QuVPDw8+3L6We+//jleBLH3+r66KRL7WDe5YjxDva7mz1HoycRbXfcFUxSd1ncHSR7AZJgRriL2nYP47br2qoo08y8uEj0EiTIzOjunopuY9qOr1i1bmYsXkAMAAAYje7FtyqX0XX9KqdQOyRI/el/AJJOWjVK+TQ6snXJCUkuH2jgPwDGAEgWmsdPv9f1vXeCJrkUuDuLO/pOLsup213f5NPY3H/0IOdMZJNUNFABAIk0SM4wyicxKY89MRhZXA4cQABISCGTVfz1+/bqaGJpXNV3/+6gf0iSw0JA1+6SIjcEgPmbsxe0MKX5HkA/AXCIlQs/zj+8/jTgHRYBYLFY2GoFa5rZQe+82azZNBdaLpflD/4s7EwZYDmcAAAAAElFTkSuQmCC",
+        "type": "css"
+    },
+    {
+        "href": "https://webgradients.com/",
+        "text": "Fresh Background Gradients | WebGradients.com 💎",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACdklEQVQ4jW2RPYtdZRSFn7X3e865uUlmmImjGR00BmEMTJlCrGwsTO9H8AekUOzs5xdYpbARG0kEwUIrC5GABgsbwcIUFqIQmGSSyzif59zzLou5YISsbhfrY68lsEB+43NPXtqqH2XqXbteEbQ8AZtemb9V1y8PvombX22rB0sA7/1wdCnPT243U14be6jDyNMQTZIN9Ifjj8cP+utfX5v+rbe+2F2aXlr+vlvNqyezcZBIg56qYBs0divZnDwa7/Yv55slnl36UGfy6tGj2ttupAADGGyBIGRsMEERR7vjkM7XuTPcKOtnub5/Qu2PXSKF9AQRAcZz6/SU6+4oPSbqSdYc9H7ZWNLmUKt2ZR4eWP0oMkALUwwEuDfeqdK+UESQRqHNEnLTpdlYgrWpvLNnPdiHeV0IBdQD4/smxoAmjG3XMSS10YRcBCF52qDLz4iti3ChM+Mc6vGCXBMSqFWn3wgbRyNoJNoQZdHd0kRsvSCeP2eGnYVzGFcj/X+gKEJNmILVZrgLSExKXFmHtbNiXOy6sPZpN0ZCUcTQZrgJXGT9l8a0Rby6CZnG1mnsWoWQI23TR1r3Jl24CLeB28RNiCZAI6ytiPXnYBh8Oo1koGbKoHvhkdvTjuhS80bQhmgTd0VuA9qEjYtypIyRwJgahcD1Vuz8Obt5vDf+srIabcI8sBux6AQXyyvnrVKMrREzdueymR+Nd+dZPo3taxf2Hj8c3j6c8fPycjbTSUYRajNchFJo2oVDSBlZzmTTH4w/JfnOtzd0mGB991kzixe3b71ymX8Cr2JWQqSQ2yLvzuCPv3QcGb/WWj/5/X5+cOdjzcD6F6bgLZVtEDCBAAAAAElFTkSuQmCC",
+        "type": "css"
+    },
+    {
+        "href": "https://icons8.com/preloaders/",
+        "text": "Preloaders.net - Loading GIF, SVG & APNG (AJAX loaders) generator",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACcklEQVQ4jX2TT0hUURjFz73vz8zo6DilGeGkqBWtDAwiMggR0sCFMykl5CIETVoFkTsfLWpdkDooBJEW42RRrVy4Mto4FS0i1KciEwrKjM04f968efdro/jEyd/mbu45597z3ctgozNE0nI8wiPrjda16lW1IsceM442Ivy28rlH0wNnlwFiAKM9DcN/CAQXnzrd5YPGTgxqsRe5VHxuBfHmSN9F075PPiAaXbgtSY5zlhBvGRPNlpk1ASIzFWcAu+IzPKcjgG7XcGjEASAwsnTfUXxsUnV7hzisaUbYlhSnAkBRikoVgNbSRnqjMUhKY5AUmwEIABhnrQSibGIzxST1vCXYayMZC3PZuZM3jR/CtHpmHjakTmG1roaWa/Y7CJGELmZ1vFjwq66ikKQ4JDOd+BZNqU1fH/gy3RPb3skPMwlMdVmFumIA0PZ80eE9Xn4yG/tTJbtK6gn801SvL3agcU3j0DRxyMA/Fq3iwggrDveFnJEKveur7bGZk20tCOci0+MoLrtkZhPM4Sq5ExhZub6buDfiguJAUB8OjOr9MiDNm5mk6SyrVI2/WzEuhA4Qg8YOHdcO5fMv85DiDAD8w3qL6ipqymVyr6YHqpePEh5JYFS/cWs8+sQ/Fq3avQbvDJEEogIvlhhAjAEahzYEf6V+WZblOafnBNKx9c/h/rr2QiE3g/obRiid2qhth8YEB4YIGhN5RU6TsEwiAQBZAGgJ6p6u8bW7gWe/zuwHg+zlyHtz/thb871jZKnVSG42WEmaAAAPMOiu8A0m8/oXgK4CjML9dd04aLDP+3v1swBmbWk/M4mtHQE2b//Cdv4B7CMQ2o8q5psAAAAASUVORK5CYII=",
+        "type": "css"
+    },
+    {
+        "href": "https://loading.io/css/",
+        "text": "Pure CSS Loader - Optimized Spinners for Web · Loading.io",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADUklEQVQ4jT2TS2hcZRiGn+//z5n7TCaZpulEYpQUqvSCaEtja1tLQ8GiVqMlVmwXKiJdKYWCtIJ4A6sLFS914cJSwYWXhQsFoaCUIpQmXnKxaZLGmSQlMZ0kk2QmmTPn/1y0+uxfeOF5X/n1/Dcv/PzDd6fHxyfTxlqMMSyW583BQ4d57OhLVJfmeOPlI1wbL5JKpV00nkCdo2VNtrx9155XbUcu8svIWCHteR6AACJi5MbMdTr37CeZaaIhm6X19vU0ZpNMFgtirS/z5cV4aXb2Ie/vwkQiGo2oqgqgqirGetSqiwTVeTTTxNbdB9i6GwhX5PizT2ilUhXf93V65h8863mqqiIiqoqAKqgYG8X6cUSE5VIBV1uhr69Pq5WKGGtVVcX3ffWMMTjnFG428HxfFuZKbNrcSbppHWjImfdeZ6owSiqZlFqoGvNE9CaYxfKCBEEgoQOnKgtzJbKNOR5/5hgihqsDvYyOjPDc0/s59cpTbNnYJpXqKsYYUVUxBw/10NjYQNxXkvEI27Z3cuLN98m3b0BVGeq7SG2lQvttOXwjdO24G2sMAhhjEFXVpfINgso81o+TybXyH6FTXG2RT945SWtDyKHunbjqKqc/+5GBK5PEYxFkZXlOo4ns/yHVkLHBPoZ+u8jDh58Hk6D3wvd88dG7vH3qKImox9T0PNOlRXxrseFM/2uZhiz5tjtZnivy8Vsn+Parc/zZe4nC6BWsrPL1ubOkUzE671tP1BoyzRny7c20tDbhjV0rMlEsss16GA0ZGx7iyUd2sGVzOxcuDvDlmQ/INmU5/uIB0qkYtZWA3y9dpXi9hDGCl0yldHpihMrCrPRdvqzGi8jeHRuIZZP0dO/k0a57UedIJGOUFyp8eva8Do1cF0AB5FhPl6sHNUmn01qpLElQV910V5vs3bWRzR3rEBFwjpXQ8eHnP+ng8JRkMnFFEQT1VJ34kYguV5bFGE+jUZE/Bov0/zVBxx1rOdJ9P63ta+m/NMzg1UnJZBJaD50IaBg6THOuYSkIArHWU26dIZGIEo/59F+ZZKa0BBGfwlQJEOXW3oOgLs1rsmp2PrjvZD7fUqvXAxURAJxzKBCPRbDWIqoYa296FsE5p/mWXG3fA/ec+BfRdYc5D6LAxQAAAABJRU5ErkJggg==",
+        "type": "css"
+    },
+    {
+        "href": "https://www.minimamente.com/project/magic/",
+        "text": "Magic Animations CSS3",
+        "imgSrc": "",
+        "type": "css"
+    },
+    {
+        "href": "https://getuikit.com/docs/modal",
+        "text": "Modal - UIkit",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACUUlEQVQ4jXWTsU9TURTGv3PufdQioJDSFiiLxMRB/wZhc3UwUQYmjZMuBqOJgReJob5iYoRFByYnjLsjgwsqbk7GBRHBAJLWtrzXd89xeKWlEc94zj2/e+53vgv8Jwb9Lz2jz8O5ofnDK63kihpA6fg5Oql5uFi7bqwNCDIKshBxrzc3Nm5i8XwIALimBm/IAYA98Xone2rpK8SNgmg9FlkeymXy3ovo6p9y/Hb/EX3vnMBXhg8FSI9z8vOV8e296sdCpneS2Dxlz/RL1NgBYaG+W325GwxWOAGQAKTwlVtAANsPe1exkKsBdAqEA2k4qERZ7kmX0pne2wDAGFc7HNRuDE7/yiegI2AbtPmgezHCwSVlCoi8hkZwIE0ngFWK2cUz6ZGBz4VS/VaHsO3J7M50vipOl4kgAFiUXQIAAJXfZM0QE90F/H8340MAkDHcpwSCKjElF3FTSQsHgWoZ/iyfAADQ1FehIIJokuBmKRkrGTtu7TrpIGytG4DUOSkT4Rit7YOUNhqOVC4UiuF9Odxb2vKp1ty04hUa2UDHDEUzGseGFFCC19aAeItSnoGLB9jyU3M6s1YohZMAkPMr2UIpLKZQ/0TAJLH1wCAi/dl8vlJ/EX09NroDcfeIzFmVGMQW6qL3AIa5q/ucxiHAHhS6ppE83oxS7+CTdCienTscS3XbGY3DKWaGigDEIONBxX0TjYMftQ/L8CfiTiuj84Pkg/rlLjazqjoBcbvK3lK5Wlss+2f229Zvmq0zlFp2hs8jz+Kp3JPKxVZ55Wgz7fgLNqISZYZsZqAAAAAASUVORK5CYII=",
+        "type": "css"
+    },
+    
+    {
+        "href": "https://materializecss.com/icons.html",
+        "text": "Icons - Materialize",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACSklEQVQ4ja1TTUhUYRQ9937vd8afHK3INBCdZQVBq4g2bQpaGBhNrnQjrYS2bd6qdkKLFka4yMFAVy1LF7qyICsSLReVMZTp+DfjvPl5733vtjAhJVqUZ3ngnMM93AMcNjzPY/E8FoD2OIGQeB6LCP1V/C/Y5+iJ8OBw9rRlk6Xtxi8Nt66tA0Dh8WiXa9op39JrTZnM8u8aBgDxPAaAO/eHrvLS4uto4eNLVdx+1COi/OHRE8H8/Kvqm7lZY6UwIzNv07tn7YbzbvSuW7i1fSnJbMSOG5v19d3ZF7Pp6sr3Cw2WnaoxSeLosVOV3Nezv8rabyAihhjqYqUWCLsOmYYJhDUD+XybRQTlJkJ2E0KQK9LTozA9zQBgAAB5XiwAo1LtiggwW1rCIAw5joK7fLwl7a/mhTs6IhAZcRi20sSE3uvA2Bh52u4o+1yxuH6Stz6ltEjBbU71xpVgzKlFNwO/DG2ZEEsNViuVDJvmma17Q33JUvF8ubHpPSdcR7GiB47GQ9YalEis2vGT5wDPS7EQBr4fhXEcxXX2ZEzIObbTapZKI1QNb4OxyW6mexlKLVKlDEcpglLv6MaEJsPIo1o1DYFBlr3S3N+fY1ZTsV9CrezLdhgUqCk5xQAQ+/5cVCiEWnEIxZMAEGs9Vlz74SctMyTFzwBA1yUXypvrORfQ7NofGrTeIQCQ8XE3qMadpSiKU329S0SkxfN4p70zXZ9MmijkP9PAQBkANrLZthQ7KThHvtH1yxuH99MiQgfH8kcOIO/A2P4LPwGI5RWidVKdrAAAAABJRU5ErkJggg==",
+        "type": "css"
+    },
+    {
+        "href": "https://docs.metroui.org.ua/forms.html?horizontal_form_r1=on&horizontal_form_c1=on",
+        "text": "Forms - Metro UI :: Popular HTML, CSS and JS library",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAVElEQVQ4jWP8//8/AymAhYGB4TcjI5oo6///DAwMxiuF0MTPhr9jIsl4BgaG4aCBkdRgJdkGFgYGBqNlV9FEz0VpMzAwMFxEjx8G/f+DMJQGYTwAANBVFBmVFLR3AAAAAElFTkSuQmCC",
+        "type": "css"
+    },
+    {
+        "href": "https://css.master.co/",
+        "text": "Master CSS - A Virtual CSS language with enhanced syntax.",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACW0lEQVQ4ja1TTUhUYRQ993vfe988ffm0yWZKI0jQQKTAXWlJuGsRBs5W2wUhbVwEUsyqNoURJLlKt69Fm7ahiE4bF0VEkmBgoaFjjs7fezPvfbdFTBYaEnR395x7DmdxD/C/h5mJ2TOYQXsY9mF/ER9ycMCN/H0hAvufxs+oOtWdL5ZmGjpGswCQX37S7NiyD4VokWjk8x+amisR2P/4qN1U5pywrYQuBe+Ev90DNCNUYUbWq66oXPkWMl+Ktd1ermlEzWlxstvkMBgXuprIr2WLwsK5AGq4it1hqdCVX88WDV1Ncqn4eHGy2/yVoObEX6fj5a0vHofVK5VQh6ZBFDHnCIAgaqxGzJYUkqT52j7anqJTqe/MIEkEBoCV2enBqBo8TZy9mLVNSu0WKqEwKA4AOuKwwbGkH0TexvuMB2NmEMAkEZgAYOXFtV7Xic3lS5WSNGM3bMd9FobajbRmADCEICnFTrm8czP0gymnzrSL5Urv6esv5wUAxNzjd7XVFDXET8Sk7fYXc5tTpi4Iv5DTfiGnTV0Q5Z3N59Jy+4/EE4qtpkg5x+4BAG1n7gyQEF45CKNE3FG5YvBqfWn2lhJqKdQc+5mAfKGDs00dlydcJ3Z1Yysf2Mo0WOuUUI2JMTfZKt1ki6oa9RnbckY6hxZW/d3NB+RnifwsBfnN+21DC6vCtkdCw3njJluVm2yVqrF5jPyViQ5is9NSRg4tq7NEac0AEcBvH57sAYDzo2vzNczzPGPgQqlPB77LpD/80zsfyO2VJy32cWkITmM/zmnBnmcw86HdOXR+AJuSJ+Vb2OHBAAAAAElFTkSuQmCC",
+        "type": "css"
+    },
+    {
+        "href": "https://animista.net/",
+        "text": "Animista - On-Demand CSS Animations Library",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACvklEQVQ4jWWTv0tsRxTHP+fM3Lss/kDBFfS5KKsQLEzjk0RZsLJMpyTNIyFVQHhpExu7FKkChjT+A5YJBJNORZJNodiIoMWy+OQtrlEXlF333jszKXTlvZdTHWY+35k5c75H+CDK5fInqvoFMB9CKHrvxRjzxntfsdZu7e7u/vMuL91kfn4+H0XRDyKyaq2NvPeEEB4hEVSVLMtS59wvzrnvK5VKG8B0xdbarTiOvwwhmCzLSJKELMtwzpFlGSEERMTEcfwp8PHQ0NBv9Xo9NQCTk5M/RlH0VZZleO9J05RisUipVKJQKCAiNJtNrLWEEIii6CMR6T0/P//TlMvlWWAT0K54ZWWF2dlZjo6O8N6ztraGiHBycoIxBoAQwstSqfSHAq/iOLbdmo0xLC0t0Ww2OT095fj4mOvra1ZXV+nt7cU5h/eeOI5tCOGVisiC9x4AVcU5x+bmJu12m76+PjqdDldXVwwODpLP558/9unCBQu86C4CxHHMzs4Ow8PDzM3NcX9/z8jICM6599r9pHmhH/qg0+mwvLzMxsYGURRxdnbG3d0dqv9DH18tIm9FHu2QJAljY2Osr69TrVbZ3t7m5uaGh4cHusyzgUQIIbxV7/1f3dOdcxQKBQAajQZJktDT08PAwMDzfrfcJ83fplgs/uu9/9oYoyLC7e0tU1NTlEolGo0GExMTVKtVpqenqdVq1Ot1RATnnFPV1/Lk/59yudy3WZaRpinGGGZmZlBVarUal5eXjI+P09/fT7VaRVVJ03Rjf3//tQVot9trxpiStfYzESFNUw4ODlBVjDHk83kuLi5QVfL5PEmS/N5qtb57noV6vZ6Ojo7+6r3vDSG8zOVyGkUR1lqMMagquVyOEELmvf+51Wp9c3h42HpvGruxuLg4LyKfO+cWvPdjgKjqG1WtAFt7e3uVd/n/ABm4T2QjfJR6AAAAAElFTkSuQmCC",
+        "type": "css"
+    }
+]

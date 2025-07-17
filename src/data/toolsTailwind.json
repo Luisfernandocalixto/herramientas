@@ -1,0 +1,46 @@
+[
+    {
+        "href": "https://uicolors.app/create",
+        "text": "uicolors.app/create",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABuklEQVQ4jY2Sv2tTcRTFP/f7ffWVOphQkpeYUpJGaYoFJ0U6lOwugj8IlRYpbk4OLrqIg10FFxfXDv0bSsFJWi0K/uibbSxiuvQ1eRliv9fBvhhDbXKnL5x7Duee75Fqtep9+xHfccJjgQpgOX2OFEKjPJ/Mja1ZM5qtqfBCoAiYAWQAI5BFmI+anV2byhRWgdIQxP45izDt8cc2AKqKqiIiiAgAzjkQQY7xXgyo2HSm8CxZvDQzzeLCberf9zg4iPB9n8WFW0ycz9Nut7l/7y5RdMjPxn4iYro3O6eUp4osL9UIgizOKWdGRrh54zrV+TmCIMvyUo3yVBHn9G8gAy/V0+EBAgPY/xVQBXQIeq+AQBzHWGuZKORRhfF0mlTqHIfNFurciQJe8rDG8OlLyOevIY8ePmDu2hUulEuM+j7rG29QPdmPTWcKTwFEhFYr5t32RwDyuYB6fY+Xr17zdnMbz/NQYOv9Bxr73W9ESjNXO71O3LFVay3OOZxTrDVdrK9IvwwQ/hOKMRhjuq1LyAnWQwYIjSgrQGOIwPunIcqKvTx7cSdqdnZVqAiMD1GuI4UdozyZzI2t/QbB+Zf+IzjRDQAAAABJRU5ErkJggg==",
+        "type": "tailwind"
+    },{
+        "href": "https://daisyui.com/components/badge/",
+        "text": "Tailwind Badge Component — Tailwind CSS Components ( version 4 update is here )",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB3ElEQVQ4ja2SvW4TURCFz9xd/8SWhYVQSBCVKagREQUiDRVdqg0FkRBCkBblJSweIAUCv0CooKCkMVBZMqkSpCgSQrCJxcZL8M+u9957KGLLG3kTKBhpmtE3586cuUBGkFT/UgMAN6soIrbT+X4jp3J3AGAQJx9EpJ3FzvQCQBiGdaO15jiMTnQYhvU0c+bYQRA8JUlDkn4zpt+MzVgoCIIn560Dz/OcaNDfJmnsTiOxm6DdBO1OIyFpokHvs+d5TrrnlNLKynLZzbmXAIjsvlICUADKbkMBEMdx5tfW7pXOFNjbO+oZozsALGv3LQwEFsJrqxaAtbSH7fa3/t882Eh5kPDw42jiQbfbfXauByQFgPp5HD6Pk9HkCIyTEY96x/UUc/psmWJb769jqbYMAGjtN2X17pcsbkbg6qetOeeCfeyPBpVRHA0BIF8ozi3mS7+//vrRwO2NYZqf/kRSAEGyHb9k9eKD+agA5Z5czGoDXcxjQV++dUA8BAiIcHaC1ovSYq58IK5boNZaRNR4byuu61Kb2E96C1haH0xapm4SgpvrQ1DeqmolL5VySSrl4jhLqlrJg3xzwkwfnq4gIAD4rd6jK6F6R0HNJIYAoHKO2GG07+v+6wn33+IPPvoeeQf2jywAAAAASUVORK5CYII=",
+        "type": "tailwind"
+    },
+    {
+        "href": "https://www.hyperui.dev/",
+        "text": "Free Open Source Tailwind CSS Components | HyperUI",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAA/ElEQVQ4jcVRO4qFQBDsmVEQBz+hoNFExqJXMNBEL2do5i08igbCnEBQ1BmdF8zi7rLvBY9d2Aoaiq6uaroB/g0Iob8xIl+J53mGYQghTNP0fV9KaVmWbdv7vj8ZdV13GIau6wCgrmvOeVmWTdOM4+g4zi3D97oIIcZYGIYAQCkNw5BSGgQBY+wWfAwopXTdtk0IQQgBgOu6ruuSUh7Hob217FsCIURKeZ7nuq4AgDH+ea7PhGVZOOdJkuR5Xtc1xniaJoSQ7j6/elVV8zwrpZRSbdsCQN/353m6rvvyM1EUFUWRpqmmcRxnWaZ3e5nzHhBCGOPbUtO3XX6FB8g7YVk7VMlzAAAAAElFTkSuQmCC",
+        "type": "tailwind"
+    },
+    
+    
+    {
+        "href": "https://preline.co/docs/sidebar.html#",
+        "text": "Tailwind CSS Sidebar | Preline UI, crafted with Tailwind CSS",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACZElEQVQ4jX2RP2jddRTFP+d+Xx6vtCbR/lOwQ6oSCBgMWLtlEHVI5wQsXVL/VUzBobgJgqAVWxC0Uor9MymSUXDRiigWpChENPBorYqLaUsgLbUx/r73OPgq8RU9cIfLPfdzhiP6Ne2yc+OVnaVoF/IIANZPtfr8pRtbLzGvut6u9cv9zy7dp1oOgh8H/gSu9k5bgAHQJy717Ysntv94G+CBpy5Pgt4CloXeifBi00QLoNXKJlNjxnPAXeAXL5zc9sU/gNGnl8bT8T7SZzXiSGnqFOJJzLZezGXMB7VVPi6Zh7AfDeXe7nvbv9O9079u6Ax2TgeKpsShyOZVWbuAU5K/BrC1G9hv+XxG6+VWzSOJc/Xa6mx0htuTwISTo9HUWVnjTvahWEgzk2YGxYKTfbLGo6mzTo4CE53h9mTIZY+gqwFWJKYlH1ZhFOe80JzQHM55FUYlH5aY1gArgq5c9gT2GHiRJkcsJRELmAPA0LqChjAHiFiwlDQ5Al7EHgvwRsR1h4blvNGsZe3V1q8tYafsmwSDRr/L2hAgKTH+u5F2dpYF3/Z/C76pVsEMirgicY8jl6LPpti0+kdmvA6cRdzszacUvSY8hbhWq37DfgjrXPQnra2UuHh682Kb9ozST6TyMddmb9Z80OYFoXel+giwKcxHtwFu6YeTQ8u1OJWxO2LgmNAbEsdq1AtIL0k60z21tdv6LwBAWA8jpoy/D3S8wh1yOS75nJITAP8LsMpZ7F9k353meckTlj5ca1pv/nzmzus9gBOFkY2d/yJk7hc8J7hq+as0z+zYsfnLz19Rc8vyF81ZINHF6S3XAAAAAElFTkSuQmCC",
+        "type": "tailwind"
+    },
+    {
+        "href": "https://flowbite.com/",
+        "text": "Flowbite - Build websites even faster with components on top of Tailwind CSS",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADHElEQVQ4jUWTO4jcVRjFz/fde//3/md3Nuu+1BhfK2wRRZMtAim0iKJBSSH4KIIgdukiKUQIYRQLq9hFBUG0EUIacUMQBUF8YbGFCVk0ICS6rGtms7Mz83/ex2cRNp7ycH6nOodwRz0Geum+z2QWGY6NCxwtSnk4JDIgrELwPQa4gB6VgDBACQDoNiwEkCx/JS8WA3m/qGmpiMDQANEDiIBqAV2ny1w071bvdS7slij0hPEd4eB8dWZ0TT6q1orpeHlH9Np2ozaKNrjMw2htyig6qHsMmVc6B98q61+yH9ETJgDYf6Z8udzJzzfbo0CcGLVnGdaJBqUk72P94J7QLs0ZpTSbKoqWTEtZPX/zw4lLNHN8ayqfMKtIdhGqFXhpZTgGgnZSRaTBrUhbBVKmQjqwN2FhKjNtxlqqtbsOdw+pzpF3XpUsf0NUI1K0bVq9HrDecErV57A8YOkuigTGuGZe34Gem0pEUMrYhU4er3K0eNbnLG0ni/HGlqStsYN2Lm6Ovv3n64eOIJWnwOiTm+IUE1MRalIcJbFEwlH2jh7wORAscYri2JpEHS08k08BPd744ZGzm6s39qVYf8Iz3YRcT0rpAfFIk2ZBt7mKrABEhrFKyBrAZaBkEtBLC09dO87WPA1Fj5LRSmpPaFuieYt2kpT2lv9iA8CziNMEp4lyS6Q72/MHfntdy8Sn8AQJAeIr8JAgXV3VS9b5GusailcS5DVkxOI0yGVKbCPoj9+mqnk8pn6CQiCQRgLq+7tV+eS9UI6IKlzUcFhBRVe5K/tpjx1Rv+mKIyGbL0uxDbQBlMikmbwpD+0N48fmGDk6NMQf0uAiAYD+QJ5xs/jGXa+b7Oc+YTrPyKgq/nlTZKfUYd+0r5+4W7UzTkctnDJieBzDSVoh9ITRozT7sZzoTOIcfi0Q//WeJzWSIoqZ8u2EMl4Jh07GvgvEgFN4k87emfJuyeIX8oJt0auvlMth6Dglj2Q1fK7gHeBtutJATsfT+stdhv5/823j8E+Sp7/x0uj3+rlyIywGIDSWN+vcXhoNbp3HuYXxbhYA/gNjNaTZZZbylQAAAABJRU5ErkJggg==",
+        "type": "tailwind"
+    },
+        
+    {
+        "href": "https://tremor.so/",
+        "text": "React components to build charts and dashboards",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABB0lEQVQ4jbWRoU4DQRRF753ukO4aUBUERLEYUrclJHwGnoS/IEzxCDwBg+EPkLiyroIvIGtAYMhmm+z0PUTTUKCz3UK4apJ35uS+GeCPYd2w7947MK0jlep26NbfFjEmdDk9L05AkxO4FNgkxEWhgVFsgbR1DRcKDp22Kx13FLIx288Am/tnpbFsvz44jmsFVVTuQTDk3PMYgwxQVKZMATx+abqs4rL8EFgfjybCrqrczVHpRNi1Ph5954PfmA6KK0MeA4AXbGcuyRs1WDX/JyAgs3ML3FldQHzuTLnvD8qnA1f0Ggu88FoVL1MZY1J3JeJaY0HmkpyqPQVPVfVGFRfw+hzif50PRbhUEMAs2lwAAAAASUVORK5CYII=",
+        "type": "tailwind"
+    },
+    {
+        "href": "https://daisyui.com/",
+        "text": "daisyUI — Tailwind CSS Components ( version 4 update is here )",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB3ElEQVQ4ja2SvW4TURCFz9xd/8SWhYVQSBCVKagREQUiDRVdqg0FkRBCkBblJSweIAUCv0CooKCkMVBZMqkSpCgSQrCJxcZL8M+u9957KGLLG3kTKBhpmtE3586cuUBGkFT/UgMAN6soIrbT+X4jp3J3AGAQJx9EpJ3FzvQCQBiGdaO15jiMTnQYhvU0c+bYQRA8JUlDkn4zpt+MzVgoCIIn560Dz/OcaNDfJmnsTiOxm6DdBO1OIyFpokHvs+d5TrrnlNLKynLZzbmXAIjsvlICUADKbkMBEMdx5tfW7pXOFNjbO+oZozsALGv3LQwEFsJrqxaAtbSH7fa3/t882Eh5kPDw42jiQbfbfXauByQFgPp5HD6Pk9HkCIyTEY96x/UUc/psmWJb769jqbYMAGjtN2X17pcsbkbg6qetOeeCfeyPBpVRHA0BIF8ozi3mS7+//vrRwO2NYZqf/kRSAEGyHb9k9eKD+agA5Z5czGoDXcxjQV++dUA8BAiIcHaC1ovSYq58IK5boNZaRNR4byuu61Kb2E96C1haH0xapm4SgpvrQ1DeqmolL5VySSrl4jhLqlrJg3xzwkwfnq4gIAD4rd6jK6F6R0HNJIYAoHKO2GG07+v+6wn33+IPPvoeeQf2jywAAAAASUVORK5CYII=",
+        "type": "tailwind"
+    }
+]

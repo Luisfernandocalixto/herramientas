@@ -1,0 +1,28 @@
+[
+{
+        "href": "https://turso.tech/app",
+        "text": "Turso App - Dashboard",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACy0lEQVQ4jY2STWicVRSGn/fe+81kZtLUhYqmnQq1q0ARlKBpi1rbakBRERs3JelQu3AlKIJY0A9cudGVQgRDTF3NWiUxWlG0m7agSBTBLJqZoKY0jVOnk/n57nHRTH92vvCuznnOgXNeAMpffza6Y/H00xgiTQOGqB71VKtbPupvrZW/mn1218LsQwBiejop7879aMFP1w9OfsL/UHlx9hVgsnaleCDsvH/gJb9922jWaHwwvDBTdgp7o/V+8UkYMbISgDLfjF23FJLeA5nTT5I13bahR8q6+mJw8FrsdAzT+975DrJhj28LleRyWzsjjqwZpbwzVmNUgU7XwF4PJi7RaqPCwD10u1gvi4KSxWjEaFsTJFEyiAR/n0sSrLUZJV1ytSemxs1pLF5rzYPaSoIjnwMzAddtJvI5lAQHasdrm1+aGFs5NPWMR6lrVF6tD02+UJSsTi/7yJx2CO4mmgDkXc/gXOx035JYk3Gmfnjqc9LUOUaWRJo6WdaNMbZWjhyfqz127GEzziqfk/I5YfZ97fFjY6tPVk7Ty9oma5OmjndAGELY8MLMPuf8KXLxzdi4c9kXrnyhXHgUgbW7Z7I7Np9zGwN7hL3Xxd7+63DlHIYcwgCaxfxvku3z+dJ5X1o/bth2JcEpBAc25DbyL4fB4nmM0c5g8vv102KuH45//kwa4GqgXIysOeyCtTrr1uqsY1xQZms4l5i0sj7/x799LtyI18REZouzywphxFvcs3KkchI4eSN938ydwvvMwTJpGm8fUK16JiYyyX4Fe97k3i0vfjoux7dEZOIg0fYTo0cs3cb0gwLY8HczZd/1Z12xsJPg6RcNIMuwZutiFPvrh6ZW+4y4KQF27/zMg0kh/7F1ei0cBzDA+EG5UMhamydWx0/83O/tQze19dK7qh8OJrt3xbBxec5Qz4qFSvfqRff3U280b4UB/gN1cUM0gQo/GgAAAABJRU5ErkJggg==",
+        "type": "data"
+    },
+    
+    {
+        "href": "https://sqlbolt.com/",
+        "text": "SQLBolt - Learn SQL - Introduction to SQL",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADVElEQVQ4jW2T309bdRjGn+/3HA79ddrSdnTrNlpAByubMlkNaRsVidlMnCYmizGamJj5DxijV0u88MYLL/TKxBlvvNBolpmRRqewLWGDUYYOLsbGKEVoT2kp9HcL55zv6xXIxd7r5/0kz5N8GJ5+bsB7WO1w+SSJy/VGo6w3SjmgoR3IMADEDn4d63nhbZ/H+W5X8Oigz+P2WqwWlQGSbhiNUqW2ncloq1ktnxCMflh9eF/bo7DPAXYtMvJtLBr56K0Lo+gOHoXDYYcsSwQARMSazRbyhS3cmZrD1Wt/pPObuXOLD2YeSwAw23F8IB6LXPnmq8um3+81hRDMMAza3dXZ7q4OXTfAOSeXUxWvvRoVnEuemzenK9vF7IQMAF29IVsmuyF+v3Gbx2NnudOpkjBNTgCREIxxDkmSyDRNPr+waNyZmhU2h00GABkAWtWacAe7cD0xzn4b+0uc7H+GBY50ktPpAOecmq0dFApFtrSUpnq9gTZFYRaLQvuAtTWNnT83wr784lOauDXFHj1ewfzCIgMEZM6hmwKq00lnBsMMMJnV5mCTd5PYB3R39+DJ8iqSswtsdCRGr58fgcxM/Jlcw08TaXx8MYyT3V4I4vjl6hhu3b4HpU1h+4BicRPR4efxaCmF6eQ/6Oz04VRfF8YmK1jP1eBoJ0xOz2Nubh6qakffiR5Mz/wNAOAA0NSbkDjHhx9cpDffGIXP40b63xyWiwr8vYO4/F0S+bKB4chpCGHCZm2HYRgEABIA9PWfDgjCJSEE7wkdp8jQALO6DiFbs6BU2oLCDXzy/ouwWGzQcgWavHufbxZKk1omNS4DwPJylsdjEQoc8dPPvyaY3WYhAc6jQS+5raeg6Ca78v2PYrtm4pDXjXj0rJiZffD/iJxjp1ptSK+8NGzGokOUWlnj1XKFtqpNlk+n6b2X/dRqDSEUPEZjiRtGoVCzAJztVWDPDfQWi+VWOJMtDHg6XDwQ8LP+Z0MCiovcjnaKnwkJVXVKW6UyX0ln5euJ8WKlUv6ssLGe25cpHA4rLcN+yX/Y904oFDjhsNs9qsOmKG0yKtWGaDSb1ayW1zKZjfHmjv516uG9pT2ZnmZz0O1zh5is2E0TYG3CKJdbGurrKQD1gzr/B4F9gjRLKgHfAAAAAElFTkSuQmCC",
+        "type": "data"
+    },
+    {
+        "href": "https://console.clever-cloud.com/",
+        "text": "Console - Clever Cloud",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB40lEQVQ4jX1SPWtUURA9Z9697yWbXePuGuIHGNjEGCIaIWpjatEyraK/QAjiD9DWIk0QixSmE1st/QkptNCI6wcEWYgKIjFhN2/3vXss3kaXIDnFMDOc4cwchuuTV0kqy8JeCjMEAQAJBQyAcWyJV5ADGXo9X68OnWko7TJ2EJDnTGIIgAAKSjdb3a3v9N4hy1y9Ov10WVJ86nj32w/z3tdr7eZnRhEAZXk0WvFj9Y93ljofvri8s1c+Oynh7bWbM88et5ZX4/Gx+uL15q27UaUCCBLyfPblWvny3O7rd44k8qCQVy7NxSfGyxdnfa2WnBwfXbgSlUegAFr2eyd0OsgCSQdS3d5QY+L0g3t5u31s8UZx5cTD+yAASlKelc5N/3zxCmYOCkzizkazeXsJJM0AQIIRAgAYs+2dqdVHViohBAeBpCRJICH1jQz7iaAgBImE5EBKIkkSRTwAkkaSlEBa0TlI+i9IAAZAf9c4FAXN9Yssl9S/eFBPgFlBKBpOAkhXOwop+7VtkUn7M4ULQEi7UfUIjZKcJXG6+dXVqzPPn6StLXoPiP9UFLLcV0dH5i9srazZUML1qQV1e8PTjfL8eRglGKmBxQHQ2H7/affNhnnH4r1Dmob23mEOJXFUGpb0B0rN38aqimTiAAAAAElFTkSuQmCC",
+        "type": "data"
+    },
+    {
+        "href": "#",
+        "text": "TablePlus",
+        "imgSrc": "",
+        "type": "data"
+    }
+
+]

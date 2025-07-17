@@ -1,0 +1,69 @@
+[
+
+    {
+        "href": "https://es.digitaltrends.com/computadoras/como-volver-windows-10-desde-windows-11/#:~:text=Microsoft%20ofrece%20un%20proceso%20para,plazo%20era%20de%2030%20d%C3%ADas).",
+        "text": "Cómo volver a Windows 10 después de instalar Windows 11 | Digital Trends Español",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABxklEQVQ4jUWSPWvUYRDEf7PPc5cXMUogBIUoaCF2loKFCKlsLBQbP0fAD2AXrC2sLawsbDQgIiiI+AlEVCKEREIIxksud/9nx+IuutUs7LA7syMeHxOWRIgAWaEoImjgkMKSJgCpkgY5TCIgyCTHRjCDwIiwEhDhik0CUhjLTXN931wR0rttjhLJzinHqJIiTGIU2Gapx8vbBbj8rG0OFHJquodkehJhGVmyZR2MATCTNiDTRgoqNoYmN7eA5LgjJGA0tjs6QFCneqoS27M9lk8J0azz8woZc2FeVS4VSdtjholEDdSGvnVJL+73Rh22IjzfE/DmXkkr7X7h7ut89cNlbqqBUcfuwGkWZvhXNumpi05jSGo2A9/2/ORT/jr0xvc8dzo2HlTD6vNu65BSkdgZQyGbqpDHvrqoR6v181Z7+r4dLBtks/mbnYHpgaCECs6sbkZ83cv1D93+0Heuxe6Io879wowsIQnZmIRQDbuNubJY1m4UALT+sUv77KwwTpNYE0slEA8H2EsLcX0lGgZ92ffFM+r3ePvTwxTFTKM54az9IQSmgxCC/uRVMAvxf3QCTsJXVGZwoFBCFAjSsk2KkyCB/gJTSwj95IGYZQAAAABJRU5ErkJggg==",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://futurecoder.io/",
+        "text": "futurecoder: learn python from scratch",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB8klEQVQ4jW2Sv2taURTHz73vOiq80fRJMEIzNCWuJVAQXoiTq4KDwaAP5w4hJFIUjH+BoSkBQwangjVgRjHgD3BwE4KlIElIwUkpgrHeczrc5GmTfrZzud8v33O/l21uvt/a+nBy8pUxRkTwCpfLFQqFdF2fTqeVSgWy2TQRHR3tAwDn3L7HGAMAwzC63S49k81mwedbGwxuEGfb24FljcPhAIB8Pk9EvV6vVCo1Go1gMAgAYJoBKR9vb394PG9sb0W9XpdSxmKxRURlmckcElG1WgYATdOEELlcrlqtDodDROx0OuVyuVAoeL3ehebq6jsRZTKHAOB0OhGRXhGJRBb7eTzG/f1PKR9NMwAApmmmUql+v09ExWLRsqxwOCyE+CdYIPBxOv19d9fXdV2dN5tNIopGo/YKApbQNM4YkxIRUXtGJRRCcM5ns5lQkRDR6129uDjXNBGPW+PxmDGQUqoqEXE+nyvxk4CITk8LbvdqOr1fq11zzhHx/92r9MfHn4no8vLbcneMsXa7TUTJZFI995NmZ8ck+jMY3KysuF8U12q1EDGRSNhGfH397dnZFyllPG49PPzinNsxGGNqVN7KSESjYcPwHRx8qtWuNU2TUtr2RDSZTDjno9FIjQAAGxvv9vZ2XySx8fv9lmWpj6j4C10nAEF6+6bDAAAAAElFTkSuQmCC",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://javascript30.com/",
+        "text": "JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACsElEQVQ4jQXBTWwUZRgA4Pfvm53Z6bAtYzdNrV0gZQu0tgSLjScMMSbigRMHDiYEEzmI8aAmHrypJ8K18WDiD1cPHkUhjfFilDbREDBgsN2kUNpCu7vdnZ2/9/V5cPjgSTNDQEAWAiJUVTVWUDIAQGYAMDUwAzATAEZCMHAMvYT7KXtOw6BkYENgsjSXLKdqJSMmQuEwnEQjx9Tteyenkstvbw5VtPW0yiyE0Evc9MTg9LHu5nO/NGZxHFYnmaHbd28u7F6/8qCb0LUrrbUt/88Hw2nOV89vvH++5Xn5a7P7y6uxcEmIaMZRCLOHOhe/PL704wQwzDQ6SV9OH+tfPPv43evHP/rqxNT4/qlmN0kdITIiO4Fvbk7efxSfaiZZBrdWYjD3zhsbP9+J17dqgSf/tKK3Xt1OC48AGYlLlSQNJsazjy+s/3Ev+GllLI6LucOdX/+u10IG9B4/C8fjlIkJSZAoV29yLLvx6V+EOv1S+vml/0YijQ+kT9pDznPEkqsb5FIqCrNnpsSUq/vk65fLoly+9vvRF9v1Wu5ESxUmMpA4yrf3fENHhIIojqmbVO/cH5s7MvA9uHGrsb0XPuv4YI5ZnKPmRG/134O+Q2JiYXaC7X64ONP54tK9tadyt1XP1e12PULMC2q8MDhU76w+jKNAySMRdoMsOLew8cNny4MMP1ha7Ca1Xhqsb0fjo/nmzsiFM2u/3a1vtYcrHoph5fXZR2fmNxr1vW9vHv7udrOTDNWq2u75v6w0zi20Rg8U80e2PlxaHIlMjXBm+rLZYHR4d3PX32mHUVUrDlQJyfopnp1/+MrUzve3m0+eR9WKqQHOnXivKItBBsLqB74qWJEZWAkKZvsJ5bkGlcL3oDQzMyERIQqdqYIaA2TIgoBoJYLVwhKRrJRSTQhM9X9GvT/csseQhAAAAABJRU5ErkJggg==",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://www.kaggle.com/",
+        "text": "Kaggle: Your Machine Learning and Data Science Community",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7UlEQVQ4jaWTsUrDUBiFv5MGFQcHZ8HXEAeR0IdwcHDo4ANUdJIi4pBkLB18ArGrUyV5F8FBHBw6SYcchwaHmkCuOfAP9+fc7577wy/booeizYay4kNZ8d4VEDf09oDq3wlC1RvQ9IU/Ul4cYR1QVUtfDxdBCZSW55gS/ESk46AEysoz5EdgCzHh8OuhM0BpeYE8A2LsG18N8yZfG2CnfjlG3LZdhvYZRL9wkyhf7IYCKqQJ8AmcwiDVfN7obQN8e5zcIY2AFeaSt/1RCAAAj5MXxH3ty5W9nnQBLOtaa3uVYj2vD4Pp5jzUd51/AEnMRQhojuVgAAAAAElFTkSuQmCC",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://www.google.com/search?q=dar+formato+en+visual+studio+teclas&client=opera-gx&hs=2dU&ei=GwRpZKKiDvOLur8Psq2KoAM&ved=0ahUKEwjim6LXtoT_AhXzhe4BHbKWAjQQ4dUDCA8&uact=5&oq=dar+formato+en+visual+studio+teclas&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCCEQoAE6CggAEEcQ1gQQsAM6CggAEIoFELADEEM6BQgAEIAEOgYIABAWEB5KBAhBGABQigpYyRJgzBNoAXABeACAAaIBiAGwBpIBAzAuNpgBAKABAcgBCcABAQ&sclient=gws-wiz-serp",
+        "text": "dar formato en visual studio teclas - Buscar con Google",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACIklEQVQ4jYWSS0iUURTHf/fe8RvHooE2VlT2FNqUGWmNEYUR9lhEEVJhUIsoXOQuap1Rq6KHNQt3LaPAIOxhlNTChUwLMU3NR1CklUzg6xvPd1ro2KhTHjjcA/e8/uf/hzmmqsUiEheRLhHxp/2TiDxQ1aK5+ZmFeSJSrwuYiMRVNZKuMxnFz51zu9T3GX/6iPGmRqS/F5WAUMEawuUVRI5UYjwPEWl2zlUYY8YMgIjUW2vPBkPfSV6uYbKvJ+uW3rZSojfuABAEQdw5d96oajHQqr7P8IUqpL8X43lEjp3EK4mBtfgt75l4+4po7U3cytWZPbcyjUlTidv642ipDu7foX7bh2zgs92jDhHpUlWdbNmuEw15OvqweqE7ZjboCAEFADrSjs1LkRM7NAt3+bWRebfYudFx9XguwFqbwePs9z/mT/6NLdAHMBpex28W0/C1Y1Zy05VFM75nUwiAZVGT/v5sgdcA3UurOPUrxvXOFhJD7fOmdn4LeNc5NbpkfWimv5mWZ8KXFKdfXqInOYBnc6gsPEjZ8mKssbQOtvEkMczYl0oK8z3un4lgppbYkhZS3Fp7bnD0Jxeba+lODmTFviFcxq29NeRHDUEQ1DnnqtNSjohIo3Nutx+keNz9gmf9zfQkB0ChYMkK9q2KcaLwMJFQGFV9Y4w5YIwZzyBBI2lRLcD9PVXN/SdFqlokInUi0iEiE9P+UUTuqurmufl/AKTzsFGmvUNUAAAAAElFTkSuQmCC",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://www.aprendejavascript.dev/",
+        "text": "Aprende JavaScript - Curso de JavaScript desde cero y paso a paso",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACKklEQVQ4jY2TS0iUYRSGn/PPN/M7l4aQdLAi8kIRRGlBkhDoLqMbRJsW0aI2QdAuF21dtGpTSVC0CNoURoskIZlo0wVzgjAQRcRCGEWKHOf2//93WtjQTI3oCwcOB773vOfjfQVA07sbfBs6JA7NbAJqWTROMCF9c0XRkQ7Xj+pNRK6ixADd4L0Aq6jeM0UZFG+svQdHXgDbNrO9CksIZ4w4NCvEa1YIhBwhCBT+9BUEVtE1jQlRTZl/aR2B2QWPd5NFThyNEzHC6/FVvs6V2ZUyHO+O05h0KiT8T+AImekSA/eX6drj8uxNjkcjvzjQ7vLwZZl0psCd6024YalPUH1GoaSMjRfo7HB5cCPF1HyZL7NlPF9xIwIKznoEqhBzhXO9CT7PlDg9sMDw2xzHDjaQiNU5wSoEgWKMICIIEFg435fgyD6XzHSJx6MrvJ8sMjzYQtPW0F8FjgNT82UuDmZ59WGV2QUPNyKUPOXyrSyjH/Oc7InT2xnl26LPSt4iUqVAFVKNIUTg2u0lTEi41J9kf1uE/u44d5//5Gk6h+crV04l2dlssHbNUeKn288q8kSE6EreMvPdo8EVOnaECRvBWpjPemR/BDQmQ7S2hDEhUKUg6AVT/WlbYg6H97ooYO3aTARaW8K0bQ/XzCswalnEIQdEVSGokwSrdROSU5GsY0ryCWEIWAaKQGGDKgLLCEMmz4RQibOYLlFNreeLGo+IZI36GembK/4G4hfntL8m48gAAAAASUVORK5CYII=",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://github.com/midudev/aprendiendo-react",
+        "text": "GitHub - midudev/aprendiendo-react: Curso para aprender React desde cero",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVQ4jY3SzW7NURQF8HVub/VDU0aiZiIRow5K0viIZ2Fk4CHEUBORiERDJB7AC6ADMRMjBkjMKB0i5cql+jPZl7+btrGTnfOx9zp7nb12kgQtZTiNVbzGdvkr3MZydjPM4Qa++mu/yke2iRXMdIGtwE/9vz3G1B/mRRme4AKeVbX3eFf757iIR5W7MgKfw09sYbXu9mEBs+WHMVWxm5U7wGI/yeUk/frRN0wk2WqtbXRaNECvYoMkE0lmklwK1qvTmzheVXpjyrTRGUfxpTAvUnTg7T/d3V2tyZJ1G597SYYVm08y2628A7gV9fkkLclkL8nHJJIcSrLUWoP+DuB+a02Sk0kWCrMe3Kth+Y4POLEHg2N4WfThTrBchyu4W/uHWOoAF/EAnyr+o6Q/NUq4hWF1+CrWcGSs8sgGtV7vSjRZ0/cG58e/gf3Y6DyyVsPW0tF3Dvc7SQc7DxwoysNiO7uXzmdwDdOdu+m6Ozue/xuzv0AUmOpFBgAAAABJRU5ErkJggg==",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://javascript.info/",
+        "text": "The Modern JavaScript Tutorial",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACNklEQVQ4jXWRz0tUcRTFP/f75ocz46jje4MyajMDVrvERcsoIQspIimEfmBBqxa1CtwKLtoE9Q+UEEEwLloYouhzsnBVu6KdoERRKT5NTGfmvfdt4YzN6Hg2X+653PO99xzYgwAy3dLRMxlPWVXcIbwzu07Pkmiu1Kr8akBTLPyOhsMvFpLp3jJXgQDYVvqJr9WZ8zh/Rv/P7qFC2InMfdvKLudJNubAmIIwwJyZeWgnM0tTtDblwKgZzkGourbNzIjdkh6s6kdsK/N03kqdrHCfIAiIAEzGU1Y0GLjdoAJdRa803ud8+zJDWyxkRvoN4dS2u/tyYOPnMsCseexBWFS24JNz1pc/7huVb+rsllDwhgsXxC+MgNGIEZgII6sF9NLf3cKtaDj4GBFTXP38vbMyMwruIadnaIsBBKzIIxG542veKGF4bXWjO5GAfsfZrJcOgOgqZ/OxZHs+mV3/2n5c22Z2rJ7hUBuFFvB1OTIdjpg+fP/luYtK6c7qwVHw6wkAMFTmNOq6QhIlT094yOU8ycbqwSMFJsADwOBiGPlsKK5ERUwvETl3cP16AgIwF+84AfRs+e6iIKsGOCg1SB3UCOQqdTA4EBMjGlVqTLT/YdP1nonItXFoOHhGjcBQeX1R3Nzx/bdFn2GlVK+h5GpISXO6NXO23hk16+db2jMLyayeTqQvVRr5eMqat7Irc1b2FYA+KkaAHZftouffKzmlfA4MDapv68ea7/p3lee/Lv+0f8Y/DVK5xDA8WfkAAAAASUVORK5CYII=",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://www.javascript100.dev/",
+        "text": "100 proyectos de JavaScript - por @midudev",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABrElEQVQ4jb2RzUtUYRTGn3Pe28yd6x0dVCJpPpCIZFaCCG5cmwjRx6IQdCF+tSrBWrmodu102aISQQnbthGsf6CCDFpU2CwsQbyMxOXO1fk4p8Udrgpu3HRW7znv7zzn4RwKS3mcJ/hc9H9psE4mqgqAiOJHXIzr1pkyEUMEkZgHsxLRqYZY0nEYijAU2yZOUvR76Kuq8mlhFdGkTbOPvfln5WSGf2zXxmb2r9/ZW1n1mz5P3kFEVNGSNrnenYud5uOHruLAbhBqzxXr81b100ZXIWudbSntcqaVG4F+365P3Gt5+aKz4gkzqjXliIjGRZYAiOjhkV7oMA8m3VdvgmLfn3ebobHo+A7NlVnkpFgEREQE1HTxecfKUnt4pHdnvNdrvu0yxzQzlQ9k61vVZFgUxpD/V9bfBmOj6dLXbP6yWV4PiBRhKV/5lfN/ZtUrzE25AG4M2QCePmr98v4SgKvd5vZICsD9cVe9gll42NYcIlq8lggrUtppjN505qbbcjlrsD/pleX3buPWsPNkPmOIjteqqokEGZugAKEaaKOuqTTDAgQAahWt1/UfGurRITgnR0YAAAAASUVORK5CYII=",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://midu.dev/",
+        "text": "midudev 👨‍💻 | Frontend, JavaScript, React, CSS, Performance",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACp0lEQVQ4jXWTzWtUZxTGn3Pe9975yqRMzJDpDIJoEaTt3+BCaAtNaZFOcFEXBU2MNAuV0lIsvYtsFHGTSMii3XTlTEuptKXRQFfdFTdR8aMFBR0zySTRkBnv3Hnfc1y0Uj8mz+48i+ecB84PeFmq9IqHft6/si9MkTKIZHimXeZU+hAbNnGC+qNJurtdwP/JNTUYI1+Y6b6dythfOcM7QYC0ZaUnvH9tgm5ifD7AxqKgXvcvBlTVoE6+MNd9K50KfgdTRbsuAchz3mT8pv+2ecwe6XcBI1JG/b/NgV0AUUVi70AcKGBV4cigAACVsenTler0yecbEAAMzeqbYUYuE3NZEu+IYFUhRPCcM0G3g4/CH6fyYWnv95rESHbsObO84+BXiEi4eEFLQSCXyHJZut4xwQIQIihnTeAeJ+fWjtLPlB9JqXeQdmsLI/tOFSuYR6TMHKDKad4tT7wjhlGFAFAKjXExvlk5nvoc4/NBo376O792b1reOJCgtE+CEEeKr8ukhYoBGIA+a0VKhvn6Yhzc+MUBAMp7FSDtfaibHGIIPUnADAJyNDyjZRPKn5ziXRJ7R9YYuvPHur11JU8Dw6FLOmcata+/LM51x2wuvIjYx5Q1ad/2F5swh7k1RY1E3AfqfIMHjMWDpVVza2FAU9lQkk7PpnNfVN45NgoOi5wBKGfS8kR/aD40n2CCehaR8sYkXSuc33ovtLkF0/qnBCJRJSUVqPeOBkc+XQUOldZdUZnj5gM+i4gEULKISFBVs3GSll6b1dEco8ZBZo9AEgCemTOOTAsT1FsGopceWRkAUCePas08/oyuJo3b7wuZv02YDTmVzfhu534XyXkAwPhfAWpq+rPwDKaIZPDdE0P5wcLHAJmk7X9a/S1a3g6mPuqL7rY4PwUelCOj+7zjCwAAAABJRU5ErkJggg==",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://es.vip-cdkdeals.com/microsoft-windows-10-pro-oem-cd-key-global-one.html",
+        "text": "Buy MS Windows 10 Pro OEM CD-KEY GLOBAL-Lifetime at vip-cdkdeals.com",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABkklEQVQ4jYXST2tTQRQF8N/kPVAi1oWCFIX6B7H+wYU760pEXImrIqJfQ3Cna9d+CiEfwJWCC0W0og0Vmqg1UrFUJKYQm5pkXGSeeY1Cz+beM3PvmTN3hu2o7MD/i6LoLh4jJD6N53u43ObBCk9b1N5zc1IgT/EeIqqJX0Hcy8U1Giusf+L7T+JHrsE8WQXD1PAs5WcTn0V3g1ebVHs87HH0F+0ht+EMsSywlOyfTvwUWuj1yTOqs2x0eBmYgfsMy0P6hrV0MpzDGxiQofKEPNCJpeEWSTG4dyUHR5IrkSzSvUQ/cCywOSmQpfgaJ7EP+7EYCYGtjENNbhzkfKrzaNz3V+gW1nEVHcxE8gZLX4irxBb1D5xIzkLRGFNcwG9cxw+sYhCY2qIWufCVueM00r1jPiHwGW3MJ7F+QJNdqB/mRaSSrhXL1gt0sYwDeJvW8jB66t1p+pUwPnCbQDGQZQxQLzYC/ThyMyy5/UegwGISayY+jExXmBrrjZGX8kGKNcwZ/cJC4E5Mn6pUtyPCziX8AcX9fSK2clU1AAAAAElFTkSuQmCC",
+        "type": "tutorial"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "href": "https://www.dropzone.dev/",
+        "text": "Dropzone.js",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACd0lEQVQ4jW2TS2iVVxDHf3PveXzRpkI2AReKIDdpS0oDluKuIBgxGquChYAWuop00S4TxZ3SrVBsFXSl+EB8IGpswHYTkC5KSC2loYvGosu8fLQm98wcF9935YbmwDDncJj//P/zkPoRvRBNPvUGXksLBj6V3hn/emXWq0ysz1x++FDmaDvyzrDN+EyjFewNQuVXAZb3xWBy/N6kfN8CqEWDmCpTKBK5UG4WKvtdlt7QlN7YlANBuRWVDSHlM59/rKffMth40Ga80agyv3Amh367Lw9Y4xz8JO8Olq96lU6vjFyYlnOy5bMKQMnBZHBqXMa3D+SusGLfRpVd3shB8wNH7dj1RzL/xUd5MGTuBmXehK3SO2QzPtEIyu1ff6zt3z6Quzpe5ylvbGrTjjd50rlC/w+PZeGrD/KdoOwNykgtNqFQiCqXANb/Z6eisqlD+SkkaRRZGlHl5yKxOWdOAsTExagQlJ0uGoQEtSZ/AESVgWBQMxm58Yv8BfDlh/loNP70xi6AdcbvLoE3NruiWbWuxosSgHeDgjqetorXCdRTKQUgroDL5dvFSmPRLD+LBN6EjhW6gGdf9+Qev8zZai7GAXymL5QMnrjYhlxJwCvUlaffvJfbh2o2KieqJIe9glMmSgCD+nIFkJj2Sr+3txO45JTxYBwf+0cWvuvOQy6xxytzdeVaJUHwFYOzj2XHWkMEcKY773XGpaq1o4eXZNEVSUqKTbaN9uVXACzBhirIJ7rrmfeDciQo+3zZvtPDz+U8tBXRZ27xulqeGkhLu61aqAWXGBt+KedarFxMTHrD/W8bc7nSPvHKG38HZSLAlUMvZb5d1htBqS1sGnPM5QAAAABJRU5ErkJggg==",
+        "type": "javascript"
+    },
+    {
+        "href": "https://spoiled.vercel.app/",
+        "text": "`spoiled` animated spoilers in React",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABYElEQVQ4jaXTT0tVURQF8N879z0zKjMUHVSDSkcRSIOaFs0ig0CaCEFEn6Fx0KA+gBNnTv0AIigiDRSCpg0cFEFRSGIFWv59TdaFx8NAcMPhbvbZf9Ze6x5OaI2cdr7ilw6/jh92+PXdf5sex3rq5Ev4gsto4SPu4DQ+4UZypvEAT/Aar6CJFcziKm5hCvcxhFX0p8EiHiX+HDtoVxjFMHqxlibf8D0DfuMU5nAXmzjAPqqCMbxM8Ay2UIXInazyK03OZc0q+cMlZDzLrgd4l8mC6hB/07AHu4m30C54j4uB9hRvMRCZ9nP68TPFYxnSwucSpxfrGMcy/iS+m8l7uIeFoPuKDawXXMmUH5hI0WqH3gXbIXcpkk+Gr8GCvkBuYjBFa7iN8yGx4CEe40K4WsH1BmZwDW9wM4oM4AXmw00bI/gQlbaC+GwNsdn9nx7XGkf49SOpuh5MI5LqyjuZ/QPv1FFp6x976gAAAABJRU5ErkJggg==",
+        "type": "javascript"
+    },
+    {
+        "href": "https://split.js.org",
+        "text": "Split.js - Split-Grid",
+        "imgSrc": "",
+        "type": "javascript"
+    },
+    {
+        "href": "https://jsfiddle.net/echfvat5/",
+        "text": "Edit fiddle - JSFiddle - Code Playground",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACi0lEQVQ4jY2TTUhUYRSG3/PdO3d+nL8mdcYxpDYV5iaCaleQLYIWQozYRmjhIolqpsxMokv0I5UzIYIQlIEJZQQFRhAtDGtRUG3btCruDOSMM/dajnPnfqeFjQqB+a4+zsdzeDnnPYT1pLMAINAKBgB0QgLE6zL/1XLTFalr3oTElAASwFNyACCWKR0REvtY0zRh23lmdco4R98BppoTWmZXCwCwaagQ8rpdYwy2CXgLoeQheQfAhxn0MJv0T9YYqkGBO2Z9HckEgSyQ6CBHzhh9odG1dqO3rUZFxaSs2ndzfZGXgC5o+aO4TVGVMQJmwdzCJOaNpP8iEqwsW/okEN9D0KlSP2xu1wjDhhk4Bp1sAEBzxrocS1u9G51jc9qcCN9c3LoyRCbezVU5CgCxtHVA1dzdbC+ZC2XnamkgPN80bKaUgK/V+bX4MZsM3JNEcz539UQRuEJNafMSEcWNkj8V8RYaPZr6QEK7IajaBuZD0pGTQoi9rHkeC3tpUHL10W8PzfjK4j4gXwsCtRsV/wB0qrhd7jZAfM0lvTPG2cCow/hAiug3UsEL2VPaZ4edJ0TK/lJveN4UgZMEpZPiaXPaSAWPQtdFOHQm6GNlQkC8cQTvRBVfWLAtwF2AeAGSHTaJaz+L/nfQScbT5jTFM+ZsuWIfL/Rv/gEADbcWYpqLe6TkXNYKjEOnajRTbFeF6yBL55WRDL4HgLrrC9GQTz6jaLrUpRJ1s+IZLBesbwXkytB3VQBgS5q9ZXtOnetvsGobiIzkgy7WWhRHDknGFK1EVrh6wA5YwiFiFQCI4YCImVkBgZjJIbCAUBRUnXHjfPA5rY1xZCQf/H8KIiicJnP1BIB/LmxD+sv8AWPVHepeoPYgAAAAAElFTkSuQmCC",
+        "type": "javascript"
+    },
+    {
+        "href": "https://www.lightgalleryjs.com/demos/thumbnails/",
+        "text": "JavaScript gallery with thumbnails. - lightGallery",
+        "imgSrc": "",
+        "type": "javascript"
+    }
+]

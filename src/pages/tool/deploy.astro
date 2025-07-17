@@ -1,0 +1,13 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import ContenCards from "../../components/ContenCards.astro";
+import tools from "../../data/toolsDeploy.json";
+import ToolCard from "../../components/ToolCard.astro";
+const allTools = tools;
+---
+
+<Layout>
+  <ContenCards>
+    {allTools.map((tool) => <ToolCard {...tool} />)}
+  </ContenCards>
+</Layout>

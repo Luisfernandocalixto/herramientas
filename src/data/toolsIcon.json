@@ -1,0 +1,50 @@
+[
+    {
+        "href": "https://materialdesignicons.com/",
+        "text": "Material Design Icons",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACPElEQVQ4jWWSS2sTYRiFn29M0qSZSJum1Yg3ai1eVoKgrdhdFcGF6EqhgptCd3WlP0AQN7pz0YKCK8ULFFx4wUoXilQX3dSKDb2lGGwNtTaZpPky7+diJum0PTDMDDPnec95ZxS+7nMz9pfIOTAdAgguVQQN/lmo4gIqs0rk3XMelABCNcAK4RvRndF7zfub41jgYgKH4GLQ4rK0kC9W/jm3gIcACqCf/nATiVdd/d0Xz9+9ABjUDgsFGEBEMMYb9OL2CO+Hx17HMZeHGNIhgFFGm3rpbY21NBJLxpCqMDuRpbBSJBINs+/4HuxkHAA7FadMqfUDn5uA5RBAnnzaoZQQ5Y1Zdyo8GnyGLmuidgN2Ms7AUB+JlI1RijI6sUY+DSxbAIKEqogSPIDBoNc1PX2nuXrnEj+/zfBr+nf9mcFVBgltWmLVX1RNSik+Pv7E15EJOk4cZHd7K94wg8uGAgCDBACC4ejZw/RcO0W6s41Ei+0n8D7xJoAGXKQOsCyLXQdSHOk+RGdXO0FtJNDbE9QqNMQjDAxfJxwNsVUSeC8A0GhcslM5MuOzKKVAKTAGY7zYKO96YSqHi2yv4FBk/O0E379M+7+XZ/S27k0WY1hdXaOE4xcIVChQMOmeJGeunERkI2INBAZlWYy9HCfz5ofZksBxypRzmcn5Y6rR8irUbTWIlyAzOUeF9ZzGcYIJFnPMPXGzUpnJzrRtNvpm/96lsvSH+afAItTbAmADe8OEY9tWH5BGl3xzAeA/BgkRwVhMMqkAAAAASUVORK5CYII=",
+        "type": "icons"
+    },
+    {
+        "href": "https://oblador.github.io/react-native-vector-icons/",
+        "text": "react-native-vector-icons directory",
+        "imgSrc": "",
+        "type": "icons"
+    },
+    {
+        "href": "https://boxicons.com/",
+        "text": "Boxicons : Premium web friendly icons for free",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACAUlEQVQ4jZWSPWhTURTH//cjry9pm5eP2oCYDNouthgq+NFB3JwdBDfdRBHT0lE6xKkFLQHXIraomzi6dFI6VEhiKQpFapSKg0Gr9CXNx3v3HAdtSm0S6n+63P///s453CPQQWc2viZ925pkyzqLeuPRampwoV1O/Hsxtr55FL12xhDd1P2Ow54HoRWoWl0WQky/TR551RZwrlRKNHT4DpO5pcLhmHG3wY0GIP5EVNgB+x6Y6Imu1+4VhlMfW4BUuTyhdXA6IvSA2d7/sCVmQCnoSBTkuhUmk9M2ZhWfyA6dL1VflhN9ofcxCTYEy+eDwwkBEIG8JvRgwoLxL2KnsSARjfWPL3/C4u0XyM2+xrFvFXyP2vC0hOC96kIp6PgAIKVvfm49RtUdKQ4lNwSPzaUhsQpDgFtHJR7C/JVRLF4+iS2nB5EdH4GwA991jZLyqYJ+kE/F3rUaawGYAcFAk4BqE5+H43h4/TSWLhyvaxLPpaT7xWRi7cA37gOA95y6DwR6sTYauZt+dm2m077oTgZsDSiNUytffnTMAJAgyDb79Lc/AI4d6Apoaq5BBgDZNdcZMFOofCD2pgzwC7oPEPL/AFlkSeWnch5zmow3D6EAFTo8YPcQLExuqkLmRo3kOLO/BB0CVBBg9BwKsKtQMbMi8xOXDPtXjam9MQrr3QC/AaMu0T2iI/9vAAAAAElFTkSuQmCC",
+        "type": "icons"
+    },
+    {
+        "href": "https://iconos8.es/",
+        "text": "Iconos Gratis, Ilustraciones Clipart, Fotos y Música",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACVElEQVQ4jXWTP4iUVxTFf/e+9zmzM+uaaAgxmtkEEysLwUJLDQkkkELEBLFKJ1iEFHbWdhaprK1sAsYiQkAQBRsLO//ARrbQYEIQMevszLd+791jMeuGxPVUr7jvXs65v2ujK4eP2xY/p057QA5gmLGJhDR7WbXGl8vLejYD53FblGokTyTc/v0AVZVkjmFUhQUhKdzc9yY4nzHbpTYiudtqN7VptDJhAtyMbc1WVroxXRTmm4H63rOwQG0E2EfZILsZ427K5x8c1KEd+202NTGtLReXf+Ho7i/4eLiLq09u2r2V3zXnfQsLA5SF5JZstU505P2DdurTExuea1T2DEd8t/g1AN9/cozjt36wBy8equd9E4EbZpJw3MZlSheFSWnpohAKvh19RYnKtLRs723jmw8PM+4mtp6LzVJfDz2Z03im8UTjmbXo+Kt9SvZE4w0AjyZ/ki2j9YX45uuaaS3W+PHOOe4+X8IxLixd4vIf11ho5qmKtzd4U5ti8fYGr8t73uOnA2fZ985nBOL03pMc2/0lK92YNHNPBjb8VAVdFLqogNHzhmH/PUpUuujInhgNdlJUZrkJXEhmRhCaz3M0nhnkPo1n3JyfH/1G9sRc7vNs7R9+fXKD+WagqkBIGSAUDNPArv99W5PSWihwc9p4ycXly9x6euc1SNx/8XAGEoFhZqMrRyqAO7batZuiPC6T/6JMCJkwIoMeWz8t1rbEsJljgeEbx/TuloX/HZPk/eS09bFX6hlCS2YeoaBTUVGlqFJVN8ItqgShGXguQksFzrwCX2pBllP84hoAAAAASUVORK5CYII=",
+        "type": "icons"
+    },
+    {
+        "href": "https://heroicons.com/",
+        "text": "Heroicons",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACs0lEQVQ4jX2TzWtdZRDGfzPvuffk3N7EEASXjWBRzELFnWLpQl2KIEeTtkiVuhFdmaalJHDod9JmI4qgFESbtunxIysFiVLwD9CNCkIUFEGsVmnvx7nnnPcdF9eLUaqznI9nnplnRgAyTL9KkZlrV4Wre0KGBIDV/eWqmdXza/FhADC5kqI5MJNjGRKEW9ipfYN7I/HHdjSTpwB6ZXG5qAaLS+uTW//OFYAzs72HVHTClGkntlu1MZc0HDf6vfMCNtFqHewUJSH4DRH5qA7yoznrHr2QfC7L+4u7xcIXrWaSiEJdQ+3rTzBWXllrfApwbq5+UiJeFOGxscgRgO6gXyB6f2Tmd8dRnPSr4rx5+5iQfLmw3tgazQwwf0k2gI3j6R93hmbzQY88HkfxC2VZPqIOdjp1FpCzC5da7y+syxZAlpmCGIilqTmApXzy+/m11ntlWa06UROxu9RMp0IA3y8lTc1lmA4BhkoA5Ln4kVojMB/ARG5Tk3BdBZqRG89z8RnYrZQZAmB5Lj5puLZTEPhNFf1aFAlOZwBS0P8CGMWCcJ8oEoxv1Er/2aCqCsOeBZj5HwajmAVLB1XVrzt+E4DlfZ233zhodurp3sPDTsM5/9l96Ds2233gtee8reztXoER3dqWq7rux7G8laXWzhE/WhZAtseiHPELT1wb39HQd4NZGbRx8q9LzBSycGbu5stT7farN4rBZlF0Dizmt/+0ncHJuc4dceQuTIyNPfrrze6ho5fb58BEAAwTQWxlb39xsj12vFv4H6q6nJ+ukg82v0N33VM847Rxop24ndc7xdKRi8mJ4ZGJbXumoeP0bPf5uNk8mzSjqU6v/y2CjCfJrl7pfy7r4vCRi+13RrmMnulvnU0zJJye/X3aueQlJBxQ0SoEe7PXq1/PPhz/ZXsxwJ9WR0F/KAphiwAAAABJRU5ErkJggg==",
+        "type": "icons"
+    },
+    {
+        "href": "https://hugeicons.com/",
+        "text": "Hugeicons Pro | 27,000+ Beautiful Icons",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACM0lEQVQ4jWWTu0+UURDFf2e+u+yC4MciWTFLNFEiRgqhsFAbX4UmJiaaWPAvWNv4BxgrE0srY2OiRDtNiKUNPqKYYGOwgIgmvGSVl8Desfg+lkUnuc25c86dM3NH7/1BYWFu9WJiGo7iQKx7gTwEQMQBsBz0TUkzZjwN5dpoWFhYGXb5/XpU6hLCcW2TATcQyH0HjE50rm7MpzcN55ZQyjZpFxkcEBnZt2EJUOrRbwecPm9iCHAXq8trzM+uEGOd7koH7XtLSJbnZFIyjgQXReWwcNydLxPfefHsI6W2FszE79oal68NMTBYRVheouNQDHhWkvJia4srvHw+zpXrQ/QN9OCIqck5Rh6O0V1pZ3+1c5fFsO3ZPfLp3TRvXk+yuLDMxIdpPo9/y7y72NjaYuTRGGfOH2Pw5CEsyWSCPJcioSNtZfztFOtrG8xMLdIc7k5LMXD20gBKABcSmDda71R7y+xNixkhZv1wdzxm4yiVChw+WkF5PjiW8bPuW8HorqTZndiZm7JT7tpDCLaDN75XDiSJ0dPbSWOszX8Cp/dgFxbCLmvmTSlJYpw+109PtYskERaEJcISo9JT5tSFfgphJx8Hjc7eW0fkxgVEakvr/FpapV73XFh0pG2knSVkzTXpT3Dnq8TxfFHARVpuIy238n8IGjshBJMWTHdwao1eiH+610TGIdsDzH1J0t2QdNee+M90KUZuOF7FVUAx28L8nUw34hhm2oT4I7oet+w78eovOPfdkTA4ebAAAAAASUVORK5CYII=",
+        "type": "icons"
+    },
+    {
+        "href": "https://tabler.io/icons",
+        "text": "Tabler Icons: 5200+ free vector icons for web design - Tabler: Free and Open-Source HTML Dashboard\n                    Template",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACdklEQVQ4jX2Tz2vcVRTFP+d+f3QmTaNEDXVQwiyaForiRqiYtBsXblxYNy4qEnclrvpjJfgXNLgQ7cqIILgTcelCiGkpiArqJrXQIsHSKAkm1Exnvt/vOy4mM6YiXrjwuO/de8859z6xb92l1dONs0XBCeQOZhpo71/3ENtYdw3rmZqP73xw5hsAAcyeX7uAWBYCeRT+DzNYGANc+vXDhWV1l1ZPJ8cqQEhVFsqaZJItSYCxR9kC3EgqbBNKZ6JxtgggqXpQpWJzd6B+nZSFZFsgDStJkgUqbFdINM4WQ/hESAzqlB3vTPjd17rqzrS1s1eThfB+ew35SbKBTMAot4Ogbsw7Z7tcemWWzy8+y0vPTLPbe7gIwIEjiE7YPDbkj7787g9VTWLmkZJPlk7ywtyj/NVv/oVEGqtspgNo2dAuMz67vsnZKz+xuTPgUBFcOXeMqXaOBEUe5CHi4QG18gNwAJMS4251Mlv3K/pVIjRE0S4zDrey8Zsc6ElM9gaJ1188yvIbxyjzYK/fcPnTW5xbOMrJpybpDRpaRXD9lx2+/nmbMg+S/SCX2AYmbfvV55+gzEP3/uyz9NFNfri9y3tvzjH35MQY6OFW5q9+3HIpJLSl2bev3Qhzql+ndLwzoZefe1xffPs7t+7tcaQ9ZHgoD0bi96tk25YUdrqRO7Ge8Kkyj2b9t73i+9t3fKSVMdXOlTzU5H7d7G8iZIEk1bbDxM1wxooEtotWGdXMVOkyDzfJBjlCzrN/XFJlUyCwWYmN9+fXsC8Ml8RFnRyGODDvkQcQxgUYEhc3rs6vjaf69PlrCxJv/f935q7Rus3KxtX5NYC/AdvnLXErheA8AAAAAElFTkSuQmCC",
+        "type": "icons"
+    },
+    {
+        "href": "https://yesicon.app/?lang=es",
+        "text": "Yesicon - Iconos Vectoriales Gratuitos, de Código Abierto y de Alta Calidad Seleccionados",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADEElEQVQ4jSXSzWsdVRjA4d97zpmZe+dONIQkTYIkxi8qblp0UT+oNFC1qAjuFLpOV7rxD3Dnx0ZQEJEupIqC4EI3LZauClqobTdV2i40qSZgbpt4c++duTNnznld5A94do8oKoLo9efvLj1YzL4jGp9taQ9HdF4UBYgGGqQfrbsVjP1lt+5/9tLF5e0DC/yxtnc8TzvnEklWvDY00RN8QBxEoA6gHYvaBGxKid8ca3X6lR9nLsutk/0lQ3IjT3rzo3boRcRqRJJZkaav2gjIIcPofsQb1BuCS4pkP5Y7vmqOGIM7k7ve/LAcemnFhV2V6VdTVr6covOCk2LNyVNnp2TutYy6RoITN4gjb9PevC/SM0Ytp/zEx+KZ1Dz0cUH3iBU7J2ILQ/qExcwY2onCFFL6KLVCa8VUhOgNp5yIrDSVl+nnMvKnnfTWEtpKia1CKmxdrNndDJRDpXjSMRxEqcYimEZqdNWp6nQgSGwyAHypxAjGCdUgsvhGxupbHUKjYIXJruqlD0p2/m4lZuYBp5FEusLe+YlMxpG931piB/zXFf9ebckfsVS7SjoFxkGxYOThEwl/nfUkuSZGgBAU96hDOrDybs5j7/UwPeHo+z0mE+X8+j7b11oE0Ki0UcUbaAziopG2ieJiR3Tx7a5wcIeVNzsM7rb4qLz8+RS9QwaNirGG/lbU4EQUaUwDe/Ss9n/1Wm0HNEKoFQ3K/duBxWMpxYIl+AO8fy9w53qrkjttRAemgQ3pZDreV739RaUI2ExQVZaPp6yupYQ24lJBI3rpq1oHQ1WyVBuVDeOtXgg4owVx60rL1Q9Lre6pGmdwmWATsM6wt636w0djbl7xmB7RizPeckF+Ptlfsp30hk3y+QEjX5Zq0zkjC8dS8gXDpFb6/0T+vOnZH6uangRNimQUxjs6aY4KwE+v772Yptm5aLPlyjSMGs+4bmkAbwTvFMkdpCmtSZnQbJZ1efqTb2YuW0Xl8J3uxonH1793JmtrYvQmdLUrOV2BjqCZ0Aj9FnOtFf3uv3K4/um3s7+Dyv+j/qTMM6lnVAAAAABJRU5ErkJggg==",
+        "type": "icons"
+    }
+]

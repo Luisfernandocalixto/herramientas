@@ -1,0 +1,86 @@
+[
+    {
+        "href": "http://acad.huetamo.tecnm.mx/ITSH/alumno/panelMateria;jsessionid=2A9B4A6FC1FD15A9838E6CC2244CA460?per=2222&gru=SCC101907A#",
+        "text": "Plataforma académica",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADEUlEQVQ4jXWSW2hUVxSG/7X3PuckM5MYHdsmAzaJUUwygUEptlJr0zaKihB8CUIFEWxB9MEbgm2hA/oggrTSQvvcFwtF21oYa/vQlxarZOIFDRpHUvEyE5LR5GQyc257rz5khNTiD+tl8X+sK+FlykJknC0ZYVSrD12Uoe/WYE8VshfdhTb5ArZ8HRAb+GJcRs5E2jH645FPfvky9f4qKR1rpQASi9/rdMp/3J9+DtACuB2AObG9vz1q7Oy9nJqYnnpFnSHGQTD2C0v2edNzq6tKhnHFHTc++/VPABB1WAGIA3iYW/dBMSi1Dbc9fDLOhpYKJc9KW71tIlO6qX57UMhefKwJbvrktszCDlqXvN6bHDr2g/3t3vQ15lhqwzcblnozdp4ZVHf5DPxuxayeyAu/8mrR3xVUC6LeetO7H54o+X51LQCgHA50yUmeC6QhggSDADQqWw2ayLSBRDFA9Z8EYisEgNcA3Hu2er0fcVAFgOulZIIaW3amX3WFr4UhYgJDg6B1aM4NH/3p3Fj50ay0KEkA1gC4fbmhpW1WOYc3ViaOrD8z+HXH4mDP52+N+DvPr7W0IaLnwxJ5pMQTHZl9Na/2WAAwAPyq54eqUhknwK/M8o0rhYah3FirTsYCiozgeZ4BQJAgh8DKisJQ1LOqjNpkArTi5DvpHWqRbC88aBgdKzc5xEwMEIgi6ViGmb+/euj8srx34ZJ0YssEgIABPcQImxDE2yHOTsdtCzM812CZ+QIMBrMCs5SW3PbG6cGtXdi0BNKEAoAkoBOERDeCj4q1ypv3d5vD3T2uPVJsMU9rtrYkMwN+FJpLpESVQ+pyQB1+QHep/gtJAK0ApgCUAGDN8YEeFvFbypGCiKFDfSefv9CHSVBf/+ZeYwkx+mnuuqrvYKoe6eZmBK6Lp34g7VicZ9joA2x4v5Syuy+zKSUNNWsj7NEwNwKABP6rcddFCwComBAM8ePw0Z+/81nviKJwlzAqRYbmbmVzeWRhADDh/5o/bbZfZYSzipS90pioFHpR2QTV0t1Tf80uNP8LF3Bhcvc0mAYAAAAASUVORK5CYII=",
+        "type":"platform"
+    },    
+    {
+        "href": "https://goodfirstissue.dev/",
+        "text": "Good First Issue: Issues for your first open-source contribution",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC3UlEQVQ4jY1SXUhTYRh+vu+csx2d25qam//bzEyzRpOC7PdGS4xCwqLoQqPIILrJuqgIw4vuLVglhEVYEf1SRBa0UgkqLMTKojJXOtdsc+p0buc7Xxe6CLLwgfe9eN/3ef+BuYI30NnMwtzIICBubjuyqyxt86o1bDBEIv7A0GwJyOxkCIWu+iuSIbEG2ZmbEvdsrxdU9IS73r6nv4nTLfJpEifgIKiuFgCOBY37Dic48rb1nXCVBTo/1qtD/i4O/vmvYikORyYAAwB5RgAAxTcaPcVXT3b/EfrbRwDAWL7WZthWfoFyZJFEraQSHuUD/pGfZy7XZdZWNiaVOysUbzAw8bz35ZQ5IyDmmJdNul8d9LlaH1MAMO7YeFbKmF8SbGuvUKOxNm2BPT/a2393gsoDUV/QTWUtIl99reG3niYiCVTrLCykyQY9AFAAEkkxOtXhkTej1x9+CrfcagYlKs1N+4q+Ph9JMQyDqZjo/nJn6MHTB2PPXrnY8AgjksgAQAQQUz3eaxpHQZ3l6N4aaYG1jA39pEp7Tw8AyBZTsTIaJqEn3V4AgjbLYiKCQCGINJ4A7NuP9yzVNCilm6sQiSkjTa0rA4/cbwAAOtmqhiOj4x5PPwCmDvoCYIyxsbGx+AjQOAqqqV4X5QrrhRLr1a0vcRpXL7cDgJiUYFcnpz4ACBsrV5s0K5buFLLNomhO24qioiQRAGIfv7yTy0rXSdb03YQKRmmRVaJZltehjpflRCPlRft/XAIADREXCxoxP+x+cYvEYnlJem0OdDab2Xb7dNBybP+J+G2zm45ftN4790ECnEtun+LpNZVr/nqaGYgMkIleN08usjuTa7dki6npOZLVvAHf+j35zUcaFW/gubflfgc4JyCEg3MKXCdANQchKgGAjIYD9bKz8BALhBQ2HhnWCopHn2sqjfpD373nb24Jdr7zzDwd/1cnAJCcur1qIYAETKus+JL/h1/tvR0zUlvDuwAAAABJRU5ErkJggg==",
+        "type":"platform"
+    },
+    
+    {
+        "href": "https://www.oracle.com/lad/a/ocom/docs/sp-ebook-manual-del-estudiante-oracle.pdf",
+        "text": "https://www.oracle.com/lad/a/ocom/docs/sp-ebook-manual-del-estudiante-oracle.pdf",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABY0lEQVQ4jdWSPUibYRSFn/NWC1Jda0nVoSDUuUMRhBaTqJubSTO5ulad6lZwa3ESh3ZwMjWLboX4ieCk4KCLg6P6RV0KHVpJYo5DNUL8aaZCz3LvcM+55/7Afw9dJ0fZdBLXJoVeI7fdWW39Nt5C4VNXvhjVBeJM6oPFR0DCJ0Zn4Fu9hJ8aPQMsPJPIR7OKM+khy98FP6s1j3cvR6u6zf5jAFR6lxy1tQh0cOHh4OBpQJYmepajlfvIV3adWIpWBBOAeKSpgOk3nCdKlUKzi4sPfhSAc+z+ALQGu8LGxkWzAq92dqpAFak1AHuWOo6yqTfNChyPJd8C7cBuwMxfzff1MJfu/Rv5LJfuDUFfAExtQQbF2dQSkDGUBevGp43LNEio0zAoeIyVT3wr5loE9suBXGl/cxvpPTCim/+qQzfx2Pbn530Dc6JoNXaJs0Nd5Ur5yV32a6Hl14vC2uFDp/73uATHPIig4KAFegAAAABJRU5ErkJggg==",
+        "type":"platform"
+    },
+        {
+        "href": "https://app.aluracursos.com/formacion-desarrollo-personal-grupo5-one",
+        "text": "Formación Desarrollo Personal G5 - ONE | Alura Latam - Cursos online de tecnologia",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABlElEQVQ4jWNUNLVlIAWwoPH//fv3+88fZiZmBkaGv3//srKwMDExIStA4fz69SspJure+ROPzh19dPbogwsnMlISvn37jqyGWVBaHs6xt7HqbqxmZGSYu2LNuas3DHQ0bUyMbtx7cP/BQ0ZGRnQnMTIyhvj7sjIweMamXLl6jeH//9kLF5/ctt7XxWn3vgOsLCzoGv7//59dXJ7x7x87GxsrC8vfv3+ZmZj/MzD8Y/iP0w+srKzsbGxfvn7l4eHJTU85tGXN1z94Q+nPnz/urs6tlaViAnwMDAxvP3/l5OZG04Big5qK8qzOZjEBvjXbd9sHRxs7unMxoalH9XRidOQfBoaU/PI9Bw6ys7Px8vGiK0ezgZmZmYWB4dbdO+zsbP///4eEDBMDIy4N/6/euPH1H8Oy2dN0tDT1dHRWzZv57R/D1dt3mJEimxE5Lf348XPD4rlm+jpwkTOXr3pHxHNzc2HXwMDA8PXbNwF+fnFRMQZGhlevX79//56Hh+f///84NcADABKVmFLoqRXqG2xKIQAAsxiRYpdQPasAAAAASUVORK5CYII=",
+        "type":"platform"
+    },
+    {
+        "href": "http://localhost/Simple%20CRUD%20Firebase%20Realtime%20DB/Administrador/admin.php#carouselExampleCaptions",
+        "text": "Previous",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADMUlEQVQ4jW2SS2hUdxTGv/O/r2QmN3cyN5nGxjSDkQYfSKRpoS0lhr6okFm1G4O1JRVUlGoirroQS+uiuCkU+nRhH5RaaClxIW1R0AYZiJXEtFhTWmiciSaZR5KZuXPv//8/XZiIgmf1Lc53fh+cj/DgEAA+ffrDtskb2VeLpfJz0Jq8ROL39LpNX4+MvHMLDzHc0wzG4dE9+5dWCu8zpKdZSIMM1iwtIlFPtjzy3uDLX5wcGCAFgAFA3E8ePfbmsSAqf2TZ9vRiyXvqzKfnGrrW/RTTkp40hf0zc3Dix3Ovn2LmB+ACAI5/cHTbWwcGef+RXd8DLHiha9Ov57vf3f6s1Xd3jcWhkaGP9x7M8PGTR15Y84q7l5gmr145nJvLhXt3PzNauvX4SB0tZ6UWQ8m2+GevvdF6akeGNuwb/upofi5fmJj4bfTCBTbX6Gp8HA1BUO0vL6tftqfHvFDab5OAEoQFIq5pxTsSrv/t52c7bWLjBynlQE8PbABaAEA6DTJNM8mMWej5kMAVQcxaa0dpWFrzigK13JyebfQ8PwdiZ2rqS1pLQNeuQYVh9J9B6gk09ahImdcDZf5lWtZ1L25cTbjWpBenS8O7eitzt2d7mFHz/d0MgEwAvHMn1YcPDJ7J5XInzl/ZuP7Ffv9iGEat3d35laHM0s2Y7cJrXir4HXsSjvPN84mE98nYGAIATAAyANb7vj/R4sdfsU0R9PV1xVxXeJXlO+Vs9k/d8Wjj+I2ZSrVcjj+dak/ZC3dKi8VisQZgjgBsBbAFQHn1t3HXdZt7ezfGmeXi5ctTAJADEAOQADC/qgmAfX8TYZrmS1JKBjCdSiW3NDcnw5mZmQUALoA8gK2WhfkoQvZhVQaADQAcAHUADQA804QBQEiJAoCm1QR/34MCwObNsG031U8WdRrgTqX4MWEYJTDPM1AncE1rVA2LSqzBgapRxVma/fciAhMAlNO6jZkyYU39A62yUSS+U1VZCQJZjXLLgd3hOkTEliVcxzEdso2GWDnZDRT+IABob0+k6yXSxUAvJxuNptAIg9YmMy6VtohlRTt2G4W6akYiCok0MxMA5Eul3P9nQmryRIZr8QAAAABJRU5ErkJggg==",
+        "type":"platform"
+    },
+    {
+        "href": "https://cdnjs.com/libraries/font-awesome",
+        "text": "font-awesome - Libraries - cdnjs - The #1 free and open source CDN built to make life easier for\n                    developers",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACL0lEQVQ4jbWTP2gTURzHv+/dFRt7kdMg2pI6uBRbdSi1acVSR4Wqi6ccIQGhUoeAU/e3dm+nCnJmuOTuhiIW7SQFQVtIsWCcpGIdXDS1Oc9Tkns/B5Oa9A8O4nf8/b7v8X6f3/cB/0GMBDgBrK1GxNFe2yv6mwEAEe3vIYADwHOjX/ucu2R9uDs60ewVi8Vri4uL1tzcnAYAQgje7HEAcAwoDJDr6fPJvsSx5bpkWYpk0DRFURTU6/VsT0/P8vz8fFIIIR3HUX7PBnAGyLeZobNHuzqfguPQVhhe6X9YWiOANd5L+Xx+UNO0ZwB++r5/NZvNvhFCcM4AuTE5PJY4EltlDNWKHw41DnMGEAASQvBMJrNWrVaHGGO+ruurtm2PCSEk+3hv5LLK1CeRpOXtytfMgFuuOAaUWy6iVkaGYSiu60azs7OJ7u7uR4qijBPRBGcR79U61K4fkSwPuOUKABgu5G7IjuNIAMjlcl9qtVo5Fot1SSl7QQB7Nzk67d8fp82piwsvrvfFAUA0ALdSn5mZiXuet7C0tESFQmEafxgBG5Opm50dHQ6A9a1v4Y2BfGmzFaJlWafi8fhjzvm5MAxvm6bp7ayRDCinH6x4299rFwg4eTx++PX7OyOpJkTbtlO6rq8DOBEEwbBpmp5hGMrOBcxFRAaUM9ZK6ZMfDiqcvWIqJXfCwnlSVdWXQRAMptPpkuM4iuu6bZCxe+6D1JrCfUWNcO2pE7ED/8G/6Beaxe4UXMycaAAAAABJRU5ErkJggg==",
+        "type":"platform"
+    },
+    {
+        "href": "https://www.frontendmentor.io/home",
+        "text": "Frontend Mentor | Front-end coding challenges using a real-life workflow",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABLUlEQVQ4jZVSu07DQBDcWTtYQkoi8ShSgERBAx9AxR/wkTQ0/AgVkaJIGEEFCESIIEFJbOP4bijOPkdOQdhq96TZmZ05kJT/lDZmhyfpmz8AABrzRgwASiTZYNN1GSIyzfJRkrkXB3ZNCfAyWIEnP/nrPAWgqi+zJFkWDlMzuAXqFQNRoJ9ZfnX//DRLAoXnV3/rIsnjx7GqlgpFWkA3alnSrHhVM4RhcNN/m3ynAIyxubGdqHVx1Dvd6WjpQmWDtdYYQ/LuYXx5PUizpSHnRUGyMNats7ZssGqRqt4O34fx6OR4/6DX3tvdDsOAQoh4o+Avdlep4muaDuKPxSI/PzvstrespWodV80AgCK0VK3TJQWgCJqA1Yx9gMDaTxEJG7+oSrT20WfcZNiwfgEKdPhlbQ4xJAAAAABJRU5ErkJggg==",
+        "type":"platform"
+    },{
+        "href": "https://sonner.emilkowal.ski/",
+        "text": "Sonner",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABTklEQVQ4jZ2TzYrqQBCFv0pMhJCFuslC1JVPct9k7nPNe2UhiEHwh9BCBENip2tWCROTGa73wIGmqrr69KluKcvyj4h8AhveQ6aqH1KW5QFYv7m5xUEej4f+52YAJs45RKQXVFUulwu32w2A+XxOkiSjdXK/3/U1kWUZzjmWyyUAx+MRz/PYbDaDBp6q4pzraK0lz3NWqxW+7+P7Puv1mjzPsdbinNO2VlWZqPYtqOu6k/o953kedV0znU57cgceVFWFiPDaWESoqoowDIdX+E5jDFEU8RqPoghjzCA+aRcAz+eT/X7PdrvFGNNTEIYhu92OJEkIgqBT2fOgKAriOOZ0Oo2NnDiOKYqCxWLRHSrX63UwRgBrbfcOZrMZQRAMakY9aOmcI01T0jQdzbeU8/k8quBf0HpwUNV3f2KLzGua5q+qZr/J/IGHpmk+vgC0CDl37gvQKQAAAABJRU5ErkJggg==",
+        "type": "plataform"
+    },
+{
+        "href": "https://satid.sat.gob.mx/",
+        "text": "SAT ID",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC2ElEQVQ4jW2TTWhcZRSGn/N9d+69M0MnyTSZ5gfGgraCiqJNWhQXtbZB1FZwZenGlairLiYBLYQREcQMNCBEwY0b6a6CuqlCiaGIaYo/FWpqN1IwTtNkIjFzJ3Pv3O+4yBg0+q7fczg/7yP8S1UDVQfA2HuDmV4GAZKEOnOT9f94AGG3jp0/RpB7XdDDGkUDpA7JBXfVpVeJW7PMv3H5n/ZuAxUQ5ZnZaWy2AkDzTx66r4g18OPPdQgD0A50khpzkxN/TyI7xeOz0+T2ViTe6Gi0xdTLh80D+4uocyzdXuOtj+acBBa1oUe7WWP+zQlQMSDK8fePEvZUJIkS3eqYQw+O2Efu7ZeXpr4wp6c+M4cOlOTh+4ettmIjSZRgbIUn3z4KogYAP38W46sYERLk4FBB568vC+ttZTPRi1/fkp5cRklVwAmgiJ4F8Djyzj5sZhSXgBGDEc3nfXlurKyyFYsXGLKhp0u3VwUrinMGbYPqKE9USx7Z3BBii6Ai4gGWg+WinBgrc2KsvHPsvkLAtws3MX5AmiYCFCEd9gAwBlRRFHyf1t11bnx4gUajiTrHwFCRzU4fWEFdCi7d/l8CHq3od/pMA2OHVWMlDGnW1/j1yiXqjZa4TofonpK2Hz8ORlRdDJqCSoN2uOyxcO4Opy5cI1s4ZVJcutGyI6OP6bPnxg0bze0Finvll4vfO5pXxPRk0hSxqLvG9erK9grx5gxB4QVnfCVM9csf7kipv1ebCYI68ukNvXT5G4EtdXGiiC/YYKabxG6QTn4yTWGkgut0SBTWl42Jf0NXfkKXl6C35OgpQWaPh+fXWJyZALpBomr4/MwE0WqNtSXP3vzYs1ffNa88+od57fkDxmbE2HzWQ52HmBqL5ycB02Vgl8pPPU0cvRqGwZEXT473t5OUT79aXHXBngXCfR/w3cz/wbQL56oa5qZLrNwaJEpgYH+dxWoXZwywg/NfxCE9XxYu+NAAAAAASUVORK5CYII=",
+        "type": "plataform"
+    },{
+        "href": "https://mvnrepository.com/",
+        "text": "Maven Repository: Search/Browse/Explore",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiklEQVQ4jWNgoBAwMjAwMEiUXPtPlGJGRhT+825NRhZsEiS74PzNx0S5AB0YqsuSbzMKkCy9/h8bHxeNzGbCpYlYy5jwSTIwMDAs27ALQwxZHRO6JDooPiqLVx5uwPNuTUZkmoGBgaHX+jEKjc7G6XRsgYWPTRGgOCGxMDAwMHjN+UK2CwjGAs0BAH7IQNBDq+6OAAAAAElFTkSuQmCC",
+        "type":"platform"
+    },
+    {
+        "href": "https://new.email/sign-in",
+        "text": "Sign in | new.email by Resend",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACCklEQVQ4jXVTO0+UQRS9d3YhmhhcCY2Va2ev0hgKtCb8JQr/grEwNlaGVuMPsKM1QRqihfEBQT52ZV73MccCvnUh66lmcs+ZO2fuGaJr2NlB6NcARgBuzO3Ddf4V7O7uDoiIplk31Nr7Kn4o6p/N/VXX5fEFB4OFYuCiMI1ly9wFAKo6xAAAUPPvMcqjee68OBAR5aybopaKqMUizQFYA2KuEHWo+emfrE+v2AHAREQpybp6O1NzdwCp6kkq9SAVOUhFfzqAqgZzj9NYt2daAJxzHov50SWhVbG3Mca7AJb297E8BdaK+Aszb6WqVzFLSZ/MLJzn+gYAiphmsZPJBKuL3ihX+SJqDgC56gciogBgJTBveKM2HA6GaO336Sml3lrvl5kdRL+WhoOgDSDgAYCVMJlMBkQUGv0TjMeLhgQmIiYiCsQgIiciC6PRqCPiT0uB2cydA98homVmBoBw2R3MDAatqrc2CBQa4yMzJyIiilEeilotom7mLRd7CeB23/74+PhWrvpczF3UUdSPui7fIyKejTHGum3mqarBGpBK/Zaq7KUqe6nIV2uAqEHNz1KS9fkIzEJxfp6fiXon6khF0CNXRRUzUUs56+bCf9HHczKJj6v5DwAQayjiAADzVqexbC2M8vVDznK+b+6vRf2giB+atXfTy+D0H+6/mL8agJtd140W1Xr8Be5ZFK1laIN+AAAAAElFTkSuQmCC",
+        "type":"platform"
+    },
+    {
+        "href": "https://toolfolio.io/",
+        "text": "Toolfolio - All the Tools You Need in One Place",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABdUlEQVQ4jbVSMYrCUBCd//MlsVILY5MqoAcIqNjrEWxsAlpEQfAUIhbBwl68gZWFYBD0AmJhoWiRRg0YDVEIkny3SAi7Issu7L5qmJk3j5k3AP8N9CaFUBg8n88wppR+acIY/1rBHykIAsuyj8cjGo1SShmGAQCMsa7r9/sdEEIIoXK53Gq1fM5gMJjP59Pp1Lbt0+m02+3W67VhGNVqFQAIAHAcpyhKoVCglPb7fdd1AaDT6SSTyev1WqvVJEnyPI9l2YDgOE69Xh8Oh91u17Isx3EIIZqmAUClUslms8fjMZVKhccIEIvFxuPxfr9frVaTySQSiTQajdvtNpvNcrncdrttNpuBQiaTyefzpmlqmiaKYiKR2Gw2xWJRVdXlcinL8uVy8Q8QEEqlUq/XO5/PnufZtg0AhJDFYtFut0ejka7rgiCE/iAAiMfjPM+7rsswjG+IZVmHw+GzRel02jAM0zS/8whj/LroS83H274f/sFf4ANZLaBVYLJS1QAAAABJRU5ErkJggg==",
+        "type":"platform"
+    },
+    {
+        "href": "https://ui.aceternity.com/",
+        "text": "Aceternity UI",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABfElEQVQ4ja1TsWoCQRScvRPRCIoEbQxYKWglgmAjYuUHaGFv45doedhHRKxtBcEiaKuNrZbHlYc2K6fnTYpoYswdGpIHr9nZN7tv3jzgI9IABgBMALyT5vluGlfFbw8U3ubbhWRwDQghfkMyUAG8AngCgEwmg06ng3w+j0AgACklpJQgCY94AQDnwlgul6nrOh3H4eFw4GazYb/fZ61WYywWc/uBg+sDVVWZSqVYr9epaRoXiwX3+z1t2+ZyuWSr1WI4HL4lce9PCMFoNMpKpcJut0td13k8Htnr9W5J7oslhGA2m+VsNqNlWaxWq5+Y4qXOdYRCIeRyOSQSCex2O5im+Q33fDkej7PRaHAymdCyLBqGwWazSUVRvFuIRCIslUpst9tcrVa0bZvb7ZbD4ZCFQsHNJ19jTCaTnE6nlFLydDpxvV5T0zQWi0X6/X7XMfrO3n6+9COlxGg0wng8xnw+h2EYcBzHSx7zh5WDwSB9Pt/DVv6XZfrTOr8DO2s4GgPdaIgAAAAASUVORK5CYII=",
+        "type":"platform"
+    },
+    {
+        "href": "http://localhost/",
+        "text": "Laragon",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACzElEQVQ4jT2TO4hdZRSFv7XPuXMf8zagYmFMijSKkEhiFJkuhQGLGDAYhigWgpWtUUsloghCiBYxCFqm0Ag+uiBBwSIOKlgpqOkU4kzuzJw795x/L4sZLdbXrbU3e7PUnT/wIdJzmQ5JGIQFAv6jMQLM/4hQ4nJF7fmDtgFkIpCLsHHU4PRuTIhsd71VbbCxAzvDJmFvwvY6SBPqmYma9UIWyBTNRlFvtlV/NNXkTqGUAKWRamlvqXZSqhMvb/nRc5V7w4hfvtwsn78xCnfWM+9u+eGTsxhY+2ybL94cOrNWhGurEs06Wnmx6U6+tlgnVG7bPH5uFMRGTMadj6/uq9qmgJxPvLCQWcZce33IYLEKnKLqT6ujZ0oP2x+t/tNdeHwSO5utj60u5MpLS4Gn3cWnNssHp1uVLusjpyr6CyZb1QIbcDcVCPWGuN1W/vVbp8V7KyLIP9a2/efaiH33owhjbIQs6lRFdE3PP3+9o/2PiGcvDvXpq1u+fHbO2UnCbidzKKo4/PR6USzr12+7mGzMeLjoEMaKjLsP7P78+qVp3ri87GzFYH6s/twm8/c09AaZv98cCIq7iSAFUMtF7o06P3C0A+ybV42lOHtpGodWZpwlGP+9yYXHGt/6cTa6nakfPFF3o+Wka+vaBOREbsZVZSsPHs+YXb4dh1aWHFWiKLF036IfenJDda+j6i2y02yRHSioLVmlm/F3H0939h+hPvPesk12IuL6pXG5fUucfmug56/clUAL1DeuFCabNcMl1+Fi9+elH64O6uBOHDsrDebc/fSV/M37Q6ZNL8Q4Dp+SbMratfT3n8zSn5dcrOkrBxPZEGIyJureDgrnTjNgOA8KaO6gujcVwt10xsMF2G2QakEH6hknwwUSBrJhdmhcAGC0hHHfADPDxEmIsJlGVH4nggaDnJC2vXcFe09FZJq0ydztfNCE/Pa/fO6fkxV8POkAAAAASUVORK5CYII=",
+        "type":"platform"
+    }
+
+]

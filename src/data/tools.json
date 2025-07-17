@@ -1,761 +1,103 @@
 [
     {
-        "href": "https://vercel.com/new/luis-projects-31e291ee",
-        "text": "Vercel",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABJ0lEQVQ4ja2TMYrCUBCGv/cMWcRusfAAeokE7NPZCFtsbedJYuUZFlxL8Qh6hxRpArF5hWtlCCiZbZ7Lxry4sLsD08z888Ew/0A9noAIeAcOwMXmwdYiq3HGAFgCJ0Ba8mQ1A9fw5sHgfW6+Q3xLbQg9zxPf99sgSztLBBxdoslkIrPZrA1wtLOsXIJ+vy+73U7SNJXRaNQGWQHkruZ8Ppfr9SoiIovFQrTWLkCOPVOtMRwOJUkSuYUxRoIgcAEuDYDWWuI4lvtYr9fS7XadgNoKQRCIMaYBKIpCptNpYwUP2AMvAEopxuMxeZ6TZVnNKJ1OhzAM2W63lGV5K++VPcUb8KyUotfrobV2WlVEOJ/PVFUF8AG8PjTSD/llpD9b+V+e6dfv/An3+wTVwO8WqgAAAABJRU5ErkJggg=="
+        "href": "https://www.animefenix.com/",
+        "text": "Ver\n                                anime online - AnimeFénix",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACMElEQVQ4jZWRzW9MYRSHn/O+05nbj+nM1LTpJ1GSbtAFlj4SIULtxN5SYiml/gebho3YWBCxsBUsSCwkNI22OiQNlSJV+qntzJ177/seGxqqkva3fHLOc87JEX5Fe3s7iOPvUipFALp/z2m87wMzRG7lDuWgHuwBVNtRfSVDb98AiB7puYEzO3HswOplMrwAdxbkAolMUzXXSHuPygCOXlTKGF3E+ucgS6LHevqJGAAiCskwVhVHI8a3EtuvVO04Vlvx7KVq5giNo0bTBL4NlYeiJ3a1kGYMoUAhmsbiWbSrxLaIxQPLoDV4CVFiVLpRYqyOsFxz3sjj998oJFfprEzSElm2RUs0uloyPkvGNVKXtBH4InWJpSlSOsJa2kNHsToqz959TAHQoQ9IR3ny8UUMRbJJlukgYNUqRgGqGCzFKEM2mSU095gPbgHI2hcGmzpprlxH9DCxTDGT+cTnoJFyKsTjaUj2sT0UCtEwc0G/XJov/SUA0Ee2DydHMTpOWSZ4nTvEj1Q9iZ2kOTxId6WNfHSfPndXBAVI/SnAuSdkGUVYkJMs6xXZQb0/jvoPdEWD5OM2GtzI7+Z/BHKKKjC1Bmp9iGE3RldoWLktZyixLmY9WDtHEXJxlaxbJlBYKDRsVJfaCAJwkxSB8+C/oDKPTxWApc0LakmjKPgyaIh1ydY26KLKnPMoCSozrFZmtyaoUCCd5DBmApGXco5w0wJ9SgqHocaN4d0Kaab/N+cndvz2Qpp6XLQAAAAASUVORK5CYII=",
+        "type": ""
     },
     {
-        "href": "https://elibro.net/es/ereader/huetamo/217150",
-        "text": "E Libro",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACDklEQVQ4jZ2Sv09TURTHP/f2UfJea0K1tGgixEIwIXFpQxisJsR/gTLorBuT6eL0QsJGiCFhxcaxcdNBpjroIDjRQJQ6YHxR+RUNj5baV+5xgCI0aTR8k7Oc+z3ne885X0UHCGhAtaWNAulUcyG0KwDwI5mMJIeG7uE4oFSAiKLZjHJwsKZWVtb+2fUD9H+NRFb9SKQhjiO/HefoezS6/dm28wDu8XidUYQQ0LUB0wJmD95lIQZY7dxWQuVyOQ1QLBYNSgkQxOEbQBf8egs//3sPpZPG2zAlID68bucJKAFtAVIqlfoqnyr3m6bpJBKJF+MTEx//8s7WnFMVQPTi4mJqeXn5zfr6+tVyuVyrbGwsPZubu3XC02fIp8oA1UwmfZjJjFue5z0WkZsDNwZmbNve397a6v/i+4+AKaN1CGNa322NEBIw1dXVqYZSI1a9Xh8Mh8O7nucNK6VCQRBMqyAoAxhjDgEx5x3YBAiC4HoVatr3/fdKqctjY2MLs7OzT1KplJ+MxRLiutErsdggoGzL6pb5+V7J5/vEda9JOv3Asqw7Gqoqm83GRkdHn8fj8WHHtivezo7dt7Q083Bz82moXh+hVtMSDjfo6dkFFCJdulrttWo1duHl6WkmJydvO45zqVAolASCV3BXgzkCEzo+lwVgwDQg6Aa9D3udvHEhaNd1Tz3ugpYOceZN/QG3gNXlY+zNogAAAABJRU5ErkJggg=="
+        "href": "https://www.codinground.com/speech-recognition/",
+        "text": "Python:\n                                La guía completa para el reconocimiento de voz - Coding Ground",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADNUlEQVQ4jV2TbUjddRTHz1Wvuu0as+bjNY2rM3Uu3abNh+ZsKq3Yi0BmExUqGoT4skFPr9qbgkFTKdakoWzZdE8FujWittKFY3sRyY3Q+dykrqh0r3rv9f//nU8vui7r++YcDud7+HL4fkVEBHBIBMFg8AC2/eVCIDAzcP+eDarAjDGmBziwsbeZszFwGWPaFV0HaD7xLnsP1xMOrbMJQaAd2LaZ6AASVPUGwPLSitbWNVjiiDZF5Wn6YHpUVdUAqKpGDl0HEh6pMMZ0APj/Wgm/1vqKKTwYR12jm4xdsdp/9YICjI56N1SEI/W0iIhY1lqlqgmH1gN2R2+zqT62Vfe/4NboeKeWlNawtLhER+dZdW5N1q5zX2hEiQ2ELMuqEDDnAdreesNKy3WqMz4FkRj2l9Wwshrg1OkuRFwUZSfjKdzN5ZvfK4AxijGmR0CXBwZvqiM6wUQ5k1UkXp+rqsXv9/Nxx2eU5GznZKOHDxo9WlxcoInZ+Xr9m2sbP5kRgG87Wjm872kVSSJnZzE+3wLdFy4i6bk8X5jMkVI3mTnP8ISniMy8p6h5OVd7+3tRxY4REXPx9mz0D96HUnwoSk60vS5JSTtkeOiOOP6ck1v+x6Wt9U3pfqeNnycmHHNj04TXVhHiJBDwEyWwEEjLI7gurC2HsYPrCEjti7USW5AvH3adks6P3pe793+R4e5uEpemZXxySkZ/G5PJmdl5Qe2vzvT2IRJlOVwZWn60haBtMT49w8kzZwEYHxnm7YMlHM/PoCApRSV+h/XJ5z1gzHmxsA5NTUyG97a8amfVN5iEwn1a9VK9eu/d1ZBvnoG+PpqKdmlZaqrufDJH3TnFpv/KNTvihcqIG825Ia8XiU0Mi7jMkSw3x/fkU51XoM6Y7ZqY4mF3WTUNTU1mZOSnMIBlWe2brexiLfjdjaE7pOftUU+8yxLZYuIec2tVdZ3WH20wJaUVdn//Jf2HbA/6fD4X4HiUqD9gW5Jop/fXsWNXvx7ccvvWjzL/cJ6szHTJ9ngcLc2NUlH+rGXb9qeLizHvpaY6Vv8TqH97qwa1L4dCwakHE5PW3NzvFjALesmyrMr/c/4GhLliDkm+Ny4AAAAASUVORK5CYII=",
+        "type": ""
     },
     {
-        "href": "https://www.ilovepdf.com/es",
-        "text": "iLovePDF | Herramientas PDF online gratis",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACVklEQVQ4jY2TO2tUURSF19rn3puHOkFRRnzFQJzEScxEW7EQGxv9CWLUwspG1EKiRLBQFEsLQcVGUAvBRyNIsBC08ZEUvmGMMcGAISo6c+eesyySkRjiY8Opzt6LtTbfBgAIIOYpAZz9N19fBAAEVO4pbnOG3YCtovS2Rn+RT188BICRQmFl+upVM4HXAoxAqAsQAEZ61x9uYHQqMcJLiEikCmnV+32cmBq01hX3k0JH0+TV69vb03R4tgg/lDq2msX3KJkHaiAdJB+TSQpMIcvGGpubO5deuoIvd+6Uxw4d2dkJDQkkgRABUV9CuoqUAYhnXLlUkpEtzrmWapb5Wpwod/BQq759vfVygDsJPBNgRsNaSIEkAQiSQIokJakWQgDpVK26QKrlaP+a/Iljt4aBEoEQBYXnsGhLCMETIElIAsiZB0IQ4pgGwMcJWvoHViOKbr47f34XR0vFjaA9cMTCTMoIOP1SAQWApBp6SsCiRYT3gXGS5dJqMvH40WkCwGip2Bc7dwGSS6d34TAjQkwnC5UK5LNgJHNmNllNbzQ15fo4Y1blns4diXNnGmmF70FeEEHaNEGSzEKjmcukGshzle7Fx9suD1ZYJ4yAhrrb8ktc88nYcW8tSAKmEwC+ySyqSkOVWnagbfjFYJ2j2Zj+gmOkp3ggieysDzIP+AVm8Q8fbn+36p51T95MzKVxLvsGAO9Lxf3jG7v9500b9LG36+6zfH4BAFwD3Hx381vVm0Z6uy6M9XaPj7W3L6u7/OdwPZsAfioWl5e7Ojb/6RL/u/42/BOE6RCtuVZPJwAAAABJRU5ErkJggg=="
+        "href": "https://pypi.org/project/pyttsx3/",
+        "text": "pyttsx3\n                                · PyPI",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACO0lEQVQ4jX1TTWsUQRB91R/TvbNJNtGA5OBNvARPkn8gOYigKB6852+FgCAED0oM5EcEcnVF2Li6JCabjJtkdzKZne4uDzOzbha1oA7VVa/q1SuamFkAABEFVLa/v39/ZWXlRRybDYBsnudvB4PLj6urq5/rmho3bbLT6Tzp9082B4Pk2PsxO5ezczkzO768HPw6P+9/6Ha7L/f29hZqELXb7cdLS611a+0bY8wja2N4P4ZzzjMz1QOllFJrC2aHq6vh9yzL3ydJskPfDjsnrcWFe1EUQSkVADAAwcy36AkhwMwhhMDOOQkIStPrgWo2GzGBi9FwWBAJL6VUxlqltdJ/9g0Yj8fjonCeSHhjrGg0GjqKjFAh+CBEpK01mpnZB1+ko6EjErmxxhAJLgpXGGPF3FystNYWAAGAcw6KSFApKjMzCyVVpKQCM4d0NMpai3fl/HwrJqKJHgBCeTgiVYvJDBARuFyeiUhEWmtjjK7AoZpMzIy64eSWVf9aOQLAoWQVpt5RNZ8ECrdtmibN+GweFYOS8mziPzZdy6LSwjMjzBT8E1ytFYQQQnjvQ7PZVNYaSUS1wuXeZVx7AOABgIgkAFkURa6Go2zdFcfPjYlex834YaNhkWUZQmDPIWCqgaxppGn6Jc/z7SRJdibcdnd3487X9rOjox/bpydHZzfXV3zW/+lCKG+RZdnpxcXFu16v93Rra8vWOPrbdz44OHiwvHznlSDaaM4t3HjvN7vd7qe1tbXDiRgV7je/80IOZpe6HgAAAABJRU5ErkJggg==",
+        "type": ""
     },
     {
-        "href": "https://transform.tools/",
-        "text": "Transform",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACPUlEQVQ4jZ2TT0iUURTFf/e9NzpOCspUQwuhAgM30aZa1ATaImg/rVq2kDTctEkCR4iiVYIW0aJN7dy3igYsXAjVJggKKpFcGCb+ySa/73unxcxouuzCgcfjnnfPu/dcYydkYGJaJ/BcR1wm4SgAOb5hvCDjESP2aScXcABU5cDElIbwzAGjpPQBAQjN8yieOaY0BKYGB4yqHFWLTOsWee6yCYgUw2FYQxxCRIxAJ1BnjBG7R1WukfBQAzheuW1SGSY1le0LM6IJxTYCkUGGreaoyBOZMEMxAUWcd8gbtgcOKcPFBMwQkQkq8sakzlqO1/qNP1WCr+uwtobhAbVKAykcKqJSB3xYBjrISCmHkKec1smdLpHNX5V/8Na0sIpZ2H3ADGIC/Yfh2knof0r8vEXO5Sm7WKf3YBeavIjuz1tc3oLiAdTTBj3tDXS3QbETfVmD6XfoySXUlUdxm94QI7R7KARY2oA/EeoBJJojaAgxg19J4/5cL+Q8ECGEAovfV7GbNezlFblnH01LG5j5vRNQhh3vQZU+uTPPTT83sZBncbeJW/jBY/D+B6yuYIRGBVp2S+BICfV1w+wCWIFMCWWjIs8FapbjvNbJaMMHjyTcvi/ENMVIyawLr4Q3zDLgmLGMyLiEuTyYI6YRy4TSJjKhNGLmia4dJAzHODOWOapyjFqNjLFYICjiiWRoxwU0jZwp4mOBQMYYw1bbtXJrH6Y0ROAOUCRpEhtGMnIArJBymxv2uMWxf/r8X+v8F4HbFRT9u0vUAAAAAElFTkSuQmCC"
+        "href": "https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio",
+        "text": "Archived:\n                                Python Extension Packages for Windows - Christoph Gohlke",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB3UlEQVQ4jX2TsWsUURDGf9/bvdvkYhI4UohgKWkUsbIyoI3YKNHSTrEXexHBQrTRVhEhWggi2NgLIihYKP4DVmIRIYnn3e1d9n0Wb+8uGyHbzOy8x8z3Zn4jrr2oMCYgDAgOtNR+xAjlWAYZR3B960BLnSkYm5xgYYMQiim96lJTuzfuqQSEAvZM2vRzw2h/fOLaBKTZjYlECyykCBhXeapugcMsq0RDQTuMyVQhmblsiKs2VBkrnS0YtQmKFGHUUJBxav0OASg7ennpMS0Mznh24Qkffxzn7ZUH3DvzmuWFHkcXtrh1+h1vvq9Ba0yagmY9ObK4rSKrLAc6Ranba6/YHnV88ukjloo+54994fChHRFlyTiKHINk7MBoN2O1+5OyKhAwjhmhft9CPiIoNnstCNOm5WMefrroy6ufuX92g+dfz/nu+6vuzv/l242brJ/4wO/+Ir96S04ICAzi+kZFlAlRjOeYL3q0QsXOYAlCmsJKZ4fNP13UHtJWRelWIjFYOZ6MMaDWkEFVMNgVapcJPsRmfxmKEsdA6SyNVEl5PkVUYIf6MCa/hk7ZbpK8l0QnUpsgif+a1ORPzTOJnFgvE/UyyYm2CXn7/5nG6mXSnmWifttBdlLdaZn+AVRW7fQu+tgGAAAAAElFTkSuQmCC",
+        "type": ""
     },
     {
-        "href": "https://fakeyou.com/",
-        "text": "FakeYou. Deep Fake Text to Speech.",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACkUlEQVQ4jX2TTWhcVRzFz31vOhmSiNSkGkNpUly5Mt24EUqKLv2gyKCbQl0ULd2VltpAYxddVQRBUmzAuFIkEQklpSCixk8MlpGYpMXGaNuYTDLTyUQyX++9+/+5SGJTEzybC/eee+7hx/9KWwS4jfVxzL4Bnty6v8UXaCcBDkhhNsa6zv7vhZ1SiaLjAPwy6a1YnBiG9EZwsOHLJPAaEG4PKZUejmGRQtHHJ05iheLat7B78/wPyBiMUa0tA6ntr3t/HCA50x9Fz2eNet1iuEC1upfJ27vr8AWNiHhwaOYU+ZZtDWowwWLe4jPnYv/1dwYYQANWatgcAO9/kMSn+35sp/DQg+Tr9Sc8RFQqWJIYgI9jzHvPnXn4bY7GYqHOkWOWvHfpE0GI5AJJ64Sbmp4OYJc1N8vC0OE9LpWSC4LApqYtPnvOl5b+DnWgx4Vd+3Jyzuv8+VCbMPC+DzBbW4solQFo/PATVl7FqlWz10/Y3U+/tKWp+Zjc9z2b7QNJSJLMWpFcw3s+frOP8sqK0kmieOCyaGpy7uWXHIm5n2/+dVU9z0xKcs65+wMSpVJVF8VkqrVdn1ukru5ujUU1pY8ekSoVePa5aCbew/To+IRzst7e3nATYihJVZJXaDSw/gs+P/KZHew9ZK3pNDempgGorJk//OJp9rXvf2ED/IPTmc/nH20klCkWE3K/GkDuq3GbHr1i3vBJnPDh0Ee31a3Mjn9Akv6cLb3NvzLPf1VapfDGqWOSNJzNhpKU0joNADc2eP2t0r2Ors69bdnHOjOBJM3cnBFe8kmopdnCrXu/13OSlB0ZMUly2+pIGhy4fvSRtpZXOzqanyqvllpvzc4tzN9dvvbOu5cvSrmFrd5/AAoJCfh+cszgAAAAAElFTkSuQmCC"
+        "href": "https://futurecoder.io/course/#BasicTerminology",
+        "text": "Futurecoder",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB8klEQVQ4jW2Sv2taURTHz73vOiq80fRJMEIzNCWuJVAQXoiTq4KDwaAP5w4hJFIUjH+BoSkBQwangjVgRjHgD3BwE4KlIElIwUkpgrHeczrc5GmTfrZzud8v33O/l21uvt/a+nBy8pUxRkTwCpfLFQqFdF2fTqeVSgWy2TQRHR3tAwDn3L7HGAMAwzC63S49k81mwedbGwxuEGfb24FljcPhAIB8Pk9EvV6vVCo1Go1gMAgAYJoBKR9vb394PG9sb0W9XpdSxmKxRURlmckcElG1WgYATdOEELlcrlqtDodDROx0OuVyuVAoeL3ehebq6jsRZTKHAOB0OhGRXhGJRBb7eTzG/f1PKR9NMwAApmmmUql+v09ExWLRsqxwOCyE+CdYIPBxOv19d9fXdV2dN5tNIopGo/YKApbQNM4YkxIRUXtGJRRCcM5ns5lQkRDR6129uDjXNBGPW+PxmDGQUqoqEXE+nyvxk4CITk8LbvdqOr1fq11zzhHx/92r9MfHn4no8vLbcneMsXa7TUTJZFI995NmZ8ck+jMY3KysuF8U12q1EDGRSNhGfH397dnZFyllPG49PPzinNsxGGNqVN7KSESjYcPwHRx8qtWuNU2TUtr2RDSZTDjno9FIjQAAGxvv9vZ2XySx8fv9lmWpj6j4C10nAEF6+6bDAAAAAElFTkSuQmCC",
+        "type": ""
     },
     {
-        "href": "https://es.digitaltrends.com/computadoras/como-volver-windows-10-desde-windows-11/#:~:text=Microsoft%20ofrece%20un%20proceso%20para,plazo%20era%20de%2030%20d%C3%ADas).",
-        "text": "Cómo volver a Windows 10 después de instalar Windows 11 | Digital Trends Español",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABxklEQVQ4jUWSPWvUYRDEf7PPc5cXMUogBIUoaCF2loKFCKlsLBQbP0fAD2AXrC2sLawsbDQgIiiI+AlEVCKEREIIxksud/9nx+IuutUs7LA7syMeHxOWRIgAWaEoImjgkMKSJgCpkgY5TCIgyCTHRjCDwIiwEhDhik0CUhjLTXN931wR0rttjhLJzinHqJIiTGIU2Gapx8vbBbj8rG0OFHJquodkehJhGVmyZR2MATCTNiDTRgoqNoYmN7eA5LgjJGA0tjs6QFCneqoS27M9lk8J0azz8woZc2FeVS4VSdtjholEDdSGvnVJL+73Rh22IjzfE/DmXkkr7X7h7ut89cNlbqqBUcfuwGkWZvhXNumpi05jSGo2A9/2/ORT/jr0xvc8dzo2HlTD6vNu65BSkdgZQyGbqpDHvrqoR6v181Z7+r4dLBtks/mbnYHpgaCECs6sbkZ83cv1D93+0Heuxe6Io879wowsIQnZmIRQDbuNubJY1m4UALT+sUv77KwwTpNYE0slEA8H2EsLcX0lGgZ92ffFM+r3ePvTwxTFTKM54az9IQSmgxCC/uRVMAvxf3QCTsJXVGZwoFBCFAjSsk2KkyCB/gJTSwj95IGYZQAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "http://acad.huetamo.tecnm.mx/ITSH/alumno/panelMateria;jsessionid=2A9B4A6FC1FD15A9838E6CC2244CA460?per=2222&gru=SCC101907A#",
-        "text": "Plataforma académica",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADEUlEQVQ4jXWSW2hUVxSG/7X3PuckM5MYHdsmAzaJUUwygUEptlJr0zaKihB8CUIFEWxB9MEbgm2hA/oggrTSQvvcFwtF21oYa/vQlxarZOIFDRpHUvEyE5LR5GQyc257rz5khNTiD+tl8X+sK+FlykJknC0ZYVSrD12Uoe/WYE8VshfdhTb5ArZ8HRAb+GJcRs5E2jH645FPfvky9f4qKR1rpQASi9/rdMp/3J9+DtACuB2AObG9vz1q7Oy9nJqYnnpFnSHGQTD2C0v2edNzq6tKhnHFHTc++/VPABB1WAGIA3iYW/dBMSi1Dbc9fDLOhpYKJc9KW71tIlO6qX57UMhefKwJbvrktszCDlqXvN6bHDr2g/3t3vQ15lhqwzcblnozdp4ZVHf5DPxuxayeyAu/8mrR3xVUC6LeetO7H54o+X51LQCgHA50yUmeC6QhggSDADQqWw2ayLSBRDFA9Z8EYisEgNcA3Hu2er0fcVAFgOulZIIaW3amX3WFr4UhYgJDg6B1aM4NH/3p3Fj50ay0KEkA1gC4fbmhpW1WOYc3ViaOrD8z+HXH4mDP52+N+DvPr7W0IaLnwxJ5pMQTHZl9Na/2WAAwAPyq54eqUhknwK/M8o0rhYah3FirTsYCiozgeZ4BQJAgh8DKisJQ1LOqjNpkArTi5DvpHWqRbC88aBgdKzc5xEwMEIgi6ViGmb+/euj8srx34ZJ0YssEgIABPcQImxDE2yHOTsdtCzM812CZ+QIMBrMCs5SW3PbG6cGtXdi0BNKEAoAkoBOERDeCj4q1ypv3d5vD3T2uPVJsMU9rtrYkMwN+FJpLpESVQ+pyQB1+QHep/gtJAK0ApgCUAGDN8YEeFvFbypGCiKFDfSefv9CHSVBf/+ZeYwkx+mnuuqrvYKoe6eZmBK6Lp34g7VicZ9joA2x4v5Syuy+zKSUNNWsj7NEwNwKABP6rcddFCwComBAM8ePw0Z+/81nviKJwlzAqRYbmbmVzeWRhADDh/5o/bbZfZYSzipS90pioFHpR2QTV0t1Tf80uNP8LF3Bhcvc0mAYAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://materialdesignicons.com/",
-        "text": "Material Design Icons",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACPElEQVQ4jWWSS2sTYRiFn29M0qSZSJum1Yg3ai1eVoKgrdhdFcGF6EqhgptCd3WlP0AQN7pz0YKCK8ULFFx4wUoXilQX3dSKDb2lGGwNtTaZpPky7+diJum0PTDMDDPnec95ZxS+7nMz9pfIOTAdAgguVQQN/lmo4gIqs0rk3XMelABCNcAK4RvRndF7zfub41jgYgKH4GLQ4rK0kC9W/jm3gIcACqCf/nATiVdd/d0Xz9+9ABjUDgsFGEBEMMYb9OL2CO+Hx17HMZeHGNIhgFFGm3rpbY21NBJLxpCqMDuRpbBSJBINs+/4HuxkHAA7FadMqfUDn5uA5RBAnnzaoZQQ5Y1Zdyo8GnyGLmuidgN2Ms7AUB+JlI1RijI6sUY+DSxbAIKEqogSPIDBoNc1PX2nuXrnEj+/zfBr+nf9mcFVBgltWmLVX1RNSik+Pv7E15EJOk4cZHd7K94wg8uGAgCDBACC4ejZw/RcO0W6s41Ei+0n8D7xJoAGXKQOsCyLXQdSHOk+RGdXO0FtJNDbE9QqNMQjDAxfJxwNsVUSeC8A0GhcslM5MuOzKKVAKTAGY7zYKO96YSqHi2yv4FBk/O0E379M+7+XZ/S27k0WY1hdXaOE4xcIVChQMOmeJGeunERkI2INBAZlWYy9HCfz5ofZksBxypRzmcn5Y6rR8irUbTWIlyAzOUeF9ZzGcYIJFnPMPXGzUpnJzrRtNvpm/96lsvSH+afAItTbAmADe8OEY9tWH5BGl3xzAeA/BgkRwVhMMqkAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://oblador.github.io/react-native-vector-icons/",
-        "text": "react-native-vector-icons directory",
-        "imgSrc": "http://127.0.0.1:5500/video/null"
-    },
-    {
-        "href": "https://cssgradient.io/",
-        "text": "CSS Gradient — Generator, Maker, and Background",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACOklEQVQ4jW1TO2tUQRT+vjN372PuzUZsDIILIoKNnaAg7A8wXXzUFulEixSCqVLFLlXsUvgHTBftFwSL/AMRIYKJigkxarJ3753PYjZrEp0p5sGcM9/jHCIOAhAAdG4+veWq8qHzvm9V3jPvgcpvmc8GzPKXu0t33p2MISbjftq5fum5lfkj63YzKzpgkYFlATdVwrrTcLkbsixefN3bfoalBzUAWMz0OHNXzq/TpQuAUrV1I7Vh/IMU2qDRUROCUhbVwoWLl9fx+n0GiQZANrO/TGazao9qCCKQUJygI0hACRDU/vxRc2p6dub7r2WQIvzdG9Yt35ovHH1Bqwoz72VVTvo8UigLmPdildO8D9b1Mu/bUepuGzrJvJSkIhTpSGAgpIlSECGKIAWCaoKYFWlmNm8I6hOtIBgoAn+h43jHED0KgYAI0jQaSmTfAPQAkdER4WS0TqsQMzLiaRsC6NnxE51Zzx7GjKCxymNwMgBbMSsF8AR+nQLB8R0hUhSSjgB8MhgHoiOIAEmTSB6LGHWN6E2ASVBgklJBA8OoWSOaWuI4aqzFpEgFkJAoSJQgOKOGhzUU1gy/X20CWKWlDkQDMUCIloFSpCZGGwOgxpXTTu1odfvetU0DwLDzbVEabtDlKQiKajSWjQIUSTQA6KpzaTjY39jZKxcnpQy8GbYfduekegVkTZclpDMwTpoZ0yKhsdbhwcqXzx/n8OTqMJby/9rZTz10Vd63Ku/Re7Aqtsz7AbP0n3b+A/gPBduEDzOdAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://futurecoder.io/",
-        "text": "futurecoder: learn python from scratch",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB8klEQVQ4jW2Sv2taURTHz73vOiq80fRJMEIzNCWuJVAQXoiTq4KDwaAP5w4hJFIUjH+BoSkBQwangjVgRjHgD3BwE4KlIElIwUkpgrHeczrc5GmTfrZzud8v33O/l21uvt/a+nBy8pUxRkTwCpfLFQqFdF2fTqeVSgWy2TQRHR3tAwDn3L7HGAMAwzC63S49k81mwedbGwxuEGfb24FljcPhAIB8Pk9EvV6vVCo1Go1gMAgAYJoBKR9vb394PG9sb0W9XpdSxmKxRURlmckcElG1WgYATdOEELlcrlqtDodDROx0OuVyuVAoeL3ehebq6jsRZTKHAOB0OhGRXhGJRBb7eTzG/f1PKR9NMwAApmmmUql+v09ExWLRsqxwOCyE+CdYIPBxOv19d9fXdV2dN5tNIopGo/YKApbQNM4YkxIRUXtGJRRCcM5ns5lQkRDR6129uDjXNBGPW+PxmDGQUqoqEXE+nyvxk4CITk8LbvdqOr1fq11zzhHx/92r9MfHn4no8vLbcneMsXa7TUTJZFI995NmZ8ck+jMY3KysuF8U12q1EDGRSNhGfH397dnZFyllPG49PPzinNsxGGNqVN7KSESjYcPwHRx8qtWuNU2TUtr2RDSZTDjno9FIjQAAGxvv9vZ2XySx8fv9lmWpj6j4C10nAEF6+6bDAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://jakearchibald.github.io/svgomg/",
-        "text": "SVGOMG - SVGO's Missing GUI",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABV0lEQVQ4jXWST08UQRDFf6+6HXfYEAICeyEc8WD0y5j4MT1rwpGPQDgYb5qY3bhANIp/pvt5mNlhNmCnUodOvV/Vq25xfkl/bCRs/nck7PygWqR4pNqmVmAi6Bl3P7lZE6PGIGxy5tkCjYIeH8Hf36y+kNJW51podzhcwDjSoBEKcn4gECkjUfsOo1EZb2I66ngpYmBsFGgSj1nP94ApadxBnyeIQZCFvHEiOvCI2AZlIhK8fXlyttN0JmpR9+L1u4ur1Y2acDWKARQJnFkvZc6a0+fz2bB1aO9+cPtVTxvbVOPK3j7rJTiz/Gzz68+r4nmxAwvVb9dcr9w8oVTalv1DUrD8BMqkDIQiSUCAJBQYzVrvHbC7i4JaISEyRrja1e5qFSQFKXF07KMFEZQCBQmMyYjOvHl/MUvhwYQ+NnOO57Yp5f5BhrUK0Ifb71sfO6dp0ZBt4B8bpbnpC7cOygAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://react-svgr.com/playground/",
-        "text": "SVGR Playground - SVGR",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADJklEQVQ4jV2TbWxTZRTH/8+9T192225td1lYd7v7PO14USGMSATlrVvIEjTKJw0GgyTEYawmfiAjfNtIMGaRyBcwZglDMMYoBNgIb/E1ShRIBqiNiLCWss7JGFvX7t6t9N6HD+5O6PlyTn455+ScnP+RUWGapjWFQiFPPp8vVvAGRVFqi8XixOOcPOYFY+xNAJsAmISQwXQ63QlAcM73CCE4AB+A3kwmcwqABMCmsw0EAA+AV0qlUruiDBdg68lYTP9MggQb9kA4fKfr/n1dI4R8AOA0AOuJ0Z9/RgvHuX4EgNthaiR+Vm2If/N/VkSJcf3o6kVqwCGyAEgXgKHRSdPlVze++pSVurplRrltz+tJRAu5Z+vMewZV24c7Jn8aNGjktzH/spuZoRMA0AlIxAm278Tm3b/U7WptKNwMey1tZIrmWyPGGa8E+fXvGja8qE+qbdHC0J/jVXxFnXnwdhpfvNwPQ/51BxYsXomekBtGXyZw/etbNUrv77V31q0yjr/UUmqrieDpxsjU2be+ajR//McvuQj6E5rpkxV0vL0SaQwkcfLyDqxzdorHWMqtxjcbu+k++yRE6QyEvVfu0+ob32CcX3fyLiWx8Oq7OE8JgVuWMTp3VwLht6fKfz3QJNf4C5iW3fAWBohUzsmyVOOZvdYMgDEAHpJ6B80mwd4gRV/yYr3xx4h3zYRFp9fmc5+38eD7VR7qP5IyP7kSCreqtERY9Uz22MbhiREDWwjBfgIA329DUAti26VRb/uCwPS1C9lq/XwukPsykfvWLIGeG/Wt98n2/AC1/j42GGzpXn3v07sPcHTNIQzTTkBqOYwJAPu16Pyl7zX/27N9yWS5P13d1XsruNZDrYcjRRr4cNV4x4GUa/rnIR/VPxLdABGiE9KcRJ5bHKjlnB0GEo46EaxvOhGKxE8DwpE8YowdWr5IjThvMNfh8o2CARC/pv3gAoAmzl+bp5RFrde2F8b1reK/AmoDwbtjKMzK/8ln4rqeFISsIISUAQjLsnZls9kZznm3EKKKECKEEKlMJvOxU4NKY4ytZ4w1V/JoNLqEMZao5I8AUFwmGKomLioAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://goodfirstissue.dev/",
-        "text": "Good First Issue: Issues for your first open-source contribution",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC3UlEQVQ4jY1SXUhTYRh+vu+csx2d25qam//bzEyzRpOC7PdGS4xCwqLoQqPIILrJuqgIw4vuLVglhEVYEf1SRBa0UgkqLMTKojJXOtdsc+p0buc7Xxe6CLLwgfe9eN/3ef+BuYI30NnMwtzIICBubjuyqyxt86o1bDBEIv7A0GwJyOxkCIWu+iuSIbEG2ZmbEvdsrxdU9IS73r6nv4nTLfJpEifgIKiuFgCOBY37Dic48rb1nXCVBTo/1qtD/i4O/vmvYikORyYAAwB5RgAAxTcaPcVXT3b/EfrbRwDAWL7WZthWfoFyZJFEraQSHuUD/pGfZy7XZdZWNiaVOysUbzAw8bz35ZQ5IyDmmJdNul8d9LlaH1MAMO7YeFbKmF8SbGuvUKOxNm2BPT/a2393gsoDUV/QTWUtIl99reG3niYiCVTrLCykyQY9AFAAEkkxOtXhkTej1x9+CrfcagYlKs1N+4q+Ph9JMQyDqZjo/nJn6MHTB2PPXrnY8AgjksgAQAQQUz3eaxpHQZ3l6N4aaYG1jA39pEp7Tw8AyBZTsTIaJqEn3V4AgjbLYiKCQCGINJ4A7NuP9yzVNCilm6sQiSkjTa0rA4/cbwAAOtmqhiOj4x5PPwCmDvoCYIyxsbGx+AjQOAqqqV4X5QrrhRLr1a0vcRpXL7cDgJiUYFcnpz4ACBsrV5s0K5buFLLNomhO24qioiQRAGIfv7yTy0rXSdb03YQKRmmRVaJZltehjpflRCPlRft/XAIADREXCxoxP+x+cYvEYnlJem0OdDab2Xb7dNBybP+J+G2zm45ftN4790ECnEtun+LpNZVr/nqaGYgMkIleN08usjuTa7dki6npOZLVvAHf+j35zUcaFW/gubflfgc4JyCEg3MKXCdANQchKgGAjIYD9bKz8BALhBQ2HhnWCopHn2sqjfpD373nb24Jdr7zzDwd/1cnAJCcur1qIYAETKus+JL/h1/tvR0zUlvDuwAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://www.svgviewer.dev/s/39292/tiktok",
-        "text": "Tiktok SVG Vector by iconoir - SVG Viewer",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABeElEQVQ4jY2STSisURjHf895x4zrY8JolIuUul2SspcFVrp2PlJ2NlYScuuWunVXrCQrNSsrJStLWchCliKliJSFvBJXM8PM+1jQO3feOdw5q/N8/H/n/68jx0OEWxrjf8QwjhKjmCO46pE4u7qZl9R0fEGEuaKEgaPKoqRn47e2l5MZZf0kxV1aGfwWoSnqWJ1Ieiauwb6nMLB5z/bFMwCxL4b9sWorxPiX9n6c7gkAzu+zvhjATXpsnKatMUI+oLED0zsFoTCVW0uUGHjxcos1EbECTH4pOP2/qP8xxe+uCkrep33NYUZaSz93EIT8BMbalvj7rLRUOYjdgA2Qg3wFsjvL9hV7hEKI0zPp11JVh9TWg+RkHzjIhwB4e6tQEX3rlpajycdiAAHIwRoY44vzIxR8p0KI6RxGH9y8SQjBRYllD7cgk/rUi95dBrluSD0SIszp9RGZ66P/J/oX6JFwRhuedquj5RExfAfKilIKriorZ1c3869cgnWeZEvUMgAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://app.clipchamp.com/editor/3f6f9c15-01e6-4a42-8d58-2b320a199436/export",
-        "text": "Colecciones de plantillas personales | Clipchamp",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACmUlEQVQ4jWWTvYpdZRSGn/V9e++zz8xASGEMMoVKEB0VEU0jFopE9ALOFCqChUI6KwtB3APp9AK8AoszV6CN0zmQIGkiiVFJISYkakjO/9nfWq9FMorj07zV8y4WrGX8hy6N2LE7rz1iBwevF47xxZs/nxpo85koi1sff/fkNQA7EqGL48In564+1lp+qbL0ciNeabCnN6zdVlne2MyT597/9oVZ9bAgADv/1q9PpWwv1h6vNtjZWtoZpHZraDU5epKvIRY6WZ14vF/ZWeCgAnjv7eufbtbtO1ZWZzbS5mCQ8j9CijU5wYY11LkmfOkl5lcx3QQwdaSPLl2/VnPyDOu7UQs1IhpIDWYDpVtVxE8N6WL2crixrn/44PCJG0drmsbjfPH2G5e8tM+vlgsRygowIYSa2m62bf7l9r2YLmcR7moozYnlevXNu1892lXsjuL015M0qJs8XxR3N/MiIsLcjRT1ttFst0BCFBXqash6+ccp0F5Fh61LmClY9xAhyQUyCOFeVKLXYlVYr0HCPZSTuA9YtXtl3z47fY6oxWwhwsPWvZjOwYtwdysuJhPRr8AdEpFnKyVA1Xg8isMv72qdgukyUAmmK/H7n0EUo7goBSIMd+EFDDHvBUDFHmZbsmRGNpAZOUFlRpiBgSWjxAPBLCGMDEaHJev27a85TIuY9OJe/yCXEgsFC4l5BLMIpi7uRzDxYFIkOlR13UiXf7vj2cJnK3lfglJEcSgOfXmYDqVACbkCVn0EQPqcPcLZEm1W1I3RZlObTcNMDLOpzWiYTcNstJkYNMZGjkhbAJV1XVz48Pz3xRcLj5UXV+pd9u9EKCF6B3eTi5ByFnEZTHZ0kuPROP/47EjHP/J/dHtcGe3Y/v6uA/wNQkCm94+iUWgAAAAASUVORK5CYII="
+        "href": "https://morioh.com/p/b92efb23a40d",
+        "text": "Cómo\n                                Integrar Componentes De React Native En Aplicaciones Nativas",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABkElEQVQ4jX3Tz4vNURgG8Odeis0dkvEHkDRyhQVZkcTG2M6MIpvZTWThbxjKX2ExWcxkLSmTla0UhVmwERs198aMufdjcc83x7g89e17znve5z3PeX8kBWihXe134Q3eYbqyt9FKDeyo1l0sYwEzRhgWW3ccpzFM4h6++42LuFvte1jE5HbyNaxVjn18wgaO4HGxD8p/DXMNuVMIyu0/cBNH8QivcLzkY4jN6pJOO0krST/JVpLdSV4nWU4yleRhkm75Lie5nWSQRJKNJNpJhknaSXYmWUoyn2S2OC6W829JziRZSbJZAtxotVq9YG+RfgsnitQaA7zEFazgM85iFvuDfTiHq+X9TzCNp1XSGjzHYTzAFiaaRM5XSZzCHM6XAC9wqSg4jWfF9ws6TRXWS8SfRnU/WEhwAddxAO+LbRNfMdEE6FUHQ3zEKawW2V3cMeqLptH66IxrpObdqzhU1K0XdQ0+YOZfrdyvHO/jZEXuFZ+/WnncMA0LacGoZEs49r9h2j7O03hb5O6p7H+M8y/jfqSUQ1Pg9wAAAABJRU5ErkJggg==",
+        "type": ""
     },
     {
         "href": "https://javascript30.com/",
-        "text": "JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACsElEQVQ4jQXBTWwUZRgA4Pfvm53Z6bAtYzdNrV0gZQu0tgSLjScMMSbigRMHDiYEEzmI8aAmHrypJ8K18WDiD1cPHkUhjfFilDbREDBgsN2kUNpCu7vdnZ2/9/V5cPjgSTNDQEAWAiJUVTVWUDIAQGYAMDUwAzATAEZCMHAMvYT7KXtOw6BkYENgsjSXLKdqJSMmQuEwnEQjx9Tteyenkstvbw5VtPW0yiyE0Evc9MTg9LHu5nO/NGZxHFYnmaHbd28u7F6/8qCb0LUrrbUt/88Hw2nOV89vvH++5Xn5a7P7y6uxcEmIaMZRCLOHOhe/PL704wQwzDQ6SV9OH+tfPPv43evHP/rqxNT4/qlmN0kdITIiO4Fvbk7efxSfaiZZBrdWYjD3zhsbP9+J17dqgSf/tKK3Xt1OC48AGYlLlSQNJsazjy+s/3Ev+GllLI6LucOdX/+u10IG9B4/C8fjlIkJSZAoV29yLLvx6V+EOv1S+vml/0YijQ+kT9pDznPEkqsb5FIqCrNnpsSUq/vk65fLoly+9vvRF9v1Wu5ESxUmMpA4yrf3fENHhIIojqmbVO/cH5s7MvA9uHGrsb0XPuv4YI5ZnKPmRG/134O+Q2JiYXaC7X64ONP54tK9tadyt1XP1e12PULMC2q8MDhU76w+jKNAySMRdoMsOLew8cNny4MMP1ha7Ca1Xhqsb0fjo/nmzsiFM2u/3a1vtYcrHoph5fXZR2fmNxr1vW9vHv7udrOTDNWq2u75v6w0zi20Rg8U80e2PlxaHIlMjXBm+rLZYHR4d3PX32mHUVUrDlQJyfopnp1/+MrUzve3m0+eR9WKqQHOnXivKItBBsLqB74qWJEZWAkKZvsJ5bkGlcL3oDQzMyERIQqdqYIaA2TIgoBoJYLVwhKRrJRSTQhM9X9GvT/csseQhAAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://www.kaggle.com/",
-        "text": "Kaggle: Your Machine Learning and Data Science Community",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7UlEQVQ4jaWTsUrDUBiFv5MGFQcHZ8HXEAeR0IdwcHDo4ANUdJIi4pBkLB18ArGrUyV5F8FBHBw6SYcchwaHmkCuOfAP9+fc7577wy/booeizYay4kNZ8d4VEDf09oDq3wlC1RvQ9IU/Ul4cYR1QVUtfDxdBCZSW55gS/ESk46AEysoz5EdgCzHh8OuhM0BpeYE8A2LsG18N8yZfG2CnfjlG3LZdhvYZRL9wkyhf7IYCKqQJ8AmcwiDVfN7obQN8e5zcIY2AFeaSt/1RCAAAj5MXxH3ty5W9nnQBLOtaa3uVYj2vD4Pp5jzUd51/AEnMRQhojuVgAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://www.oracle.com/lad/a/ocom/docs/sp-ebook-manual-del-estudiante-oracle.pdf",
-        "text": "https://www.oracle.com/lad/a/ocom/docs/sp-ebook-manual-del-estudiante-oracle.pdf",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABY0lEQVQ4jdWSPUibYRSFn/NWC1Jda0nVoSDUuUMRhBaTqJubSTO5ulad6lZwa3ESh3ZwMjWLboX4ieCk4KCLg6P6RV0KHVpJYo5DNUL8aaZCz3LvcM+55/7Afw9dJ0fZdBLXJoVeI7fdWW39Nt5C4VNXvhjVBeJM6oPFR0DCJ0Zn4Fu9hJ8aPQMsPJPIR7OKM+khy98FP6s1j3cvR6u6zf5jAFR6lxy1tQh0cOHh4OBpQJYmepajlfvIV3adWIpWBBOAeKSpgOk3nCdKlUKzi4sPfhSAc+z+ALQGu8LGxkWzAq92dqpAFak1AHuWOo6yqTfNChyPJd8C7cBuwMxfzff1MJfu/Rv5LJfuDUFfAExtQQbF2dQSkDGUBevGp43LNEio0zAoeIyVT3wr5loE9suBXGl/cxvpPTCim/+qQzfx2Pbn530Dc6JoNXaJs0Nd5Ur5yV32a6Hl14vC2uFDp/73uATHPIig4KAFegAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://github.com/hosseinnabi-ir/Glassmorphism-Analog-Clock-using-CSS-and-JavaScript/blob/Main/images/clock.png",
-        "text": "Glassmorphism-Analog-Clock-using-CSS-and-JavaScript/clock.png at Main ·\n                    hosseinnabi-ir/Glassmorphism-Analog-Clock-using-CSS-and-JavaScript",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVQ4jY3SzW7NURQF8HVub/VDU0aiZiIRow5K0viIZ2Fk4CHEUBORiERDJB7AC6ADMRMjBkjMKB0i5cql+jPZl7+btrGTnfOx9zp7nb12kgQtZTiNVbzGdvkr3MZydjPM4Qa++mu/yke2iRXMdIGtwE/9vz3G1B/mRRme4AKeVbX3eFf757iIR5W7MgKfw09sYbXu9mEBs+WHMVWxm5U7wGI/yeUk/frRN0wk2WqtbXRaNECvYoMkE0lmklwK1qvTmzheVXpjyrTRGUfxpTAvUnTg7T/d3V2tyZJ1G597SYYVm08y2628A7gV9fkkLclkL8nHJJIcSrLUWoP+DuB+a02Sk0kWCrMe3Kth+Y4POLEHg2N4WfThTrBchyu4W/uHWOoAF/EAnyr+o6Q/NUq4hWF1+CrWcGSs8sgGtV7vSjRZ0/cG58e/gf3Y6DyyVsPW0tF3Dvc7SQc7DxwoysNiO7uXzmdwDdOdu+m6Ozue/xuzv0AUmOpFBgAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://app.aluracursos.com/formacion-desarrollo-personal-grupo5-one",
-        "text": "Formación Desarrollo Personal G5 - ONE | Alura Latam - Cursos online de tecnologia",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABlElEQVQ4jWNUNLVlIAWwoPH//fv3+88fZiZmBkaGv3//srKwMDExIStA4fz69SspJure+ROPzh19dPbogwsnMlISvn37jqyGWVBaHs6xt7HqbqxmZGSYu2LNuas3DHQ0bUyMbtx7cP/BQ0ZGRnQnMTIyhvj7sjIweMamXLl6jeH//9kLF5/ctt7XxWn3vgOsLCzoGv7//59dXJ7x7x87GxsrC8vfv3+ZmZj/MzD8Y/iP0w+srKzsbGxfvn7l4eHJTU85tGXN1z94Q+nPnz/urs6tlaViAnwMDAxvP3/l5OZG04Big5qK8qzOZjEBvjXbd9sHRxs7unMxoalH9XRidOQfBoaU/PI9Bw6ys7Px8vGiK0ezgZmZmYWB4dbdO+zsbP///4eEDBMDIy4N/6/euPH1H8Oy2dN0tDT1dHRWzZv57R/D1dt3mJEimxE5Lf348XPD4rlm+jpwkTOXr3pHxHNzc2HXwMDA8PXbNwF+fnFRMQZGhlevX79//56Hh+f///84NcADABKVmFLoqRXqG2xKIQAAsxiRYpdQPasAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://www.google.com/search?q=dar+formato+en+visual+studio+teclas&client=opera-gx&hs=2dU&ei=GwRpZKKiDvOLur8Psq2KoAM&ved=0ahUKEwjim6LXtoT_AhXzhe4BHbKWAjQQ4dUDCA8&uact=5&oq=dar+formato+en+visual+studio+teclas&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCCEQoAE6CggAEEcQ1gQQsAM6CggAEIoFELADEEM6BQgAEIAEOgYIABAWEB5KBAhBGABQigpYyRJgzBNoAXABeACAAaIBiAGwBpIBAzAuNpgBAKABAcgBCcABAQ&sclient=gws-wiz-serp",
-        "text": "dar formato en visual studio teclas - Buscar con Google",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACIklEQVQ4jYWSS0iUURTHf/fe8RvHooE2VlT2FNqUGWmNEYUR9lhEEVJhUIsoXOQuap1Rq6KHNQt3LaPAIOxhlNTChUwLMU3NR1CklUzg6xvPd1ro2KhTHjjcA/e8/uf/hzmmqsUiEheRLhHxp/2TiDxQ1aK5+ZmFeSJSrwuYiMRVNZKuMxnFz51zu9T3GX/6iPGmRqS/F5WAUMEawuUVRI5UYjwPEWl2zlUYY8YMgIjUW2vPBkPfSV6uYbKvJ+uW3rZSojfuABAEQdw5d96oajHQqr7P8IUqpL8X43lEjp3EK4mBtfgt75l4+4po7U3cytWZPbcyjUlTidv642ipDu7foX7bh2zgs92jDhHpUlWdbNmuEw15OvqweqE7ZjboCAEFADrSjs1LkRM7NAt3+bWRebfYudFx9XguwFqbwePs9z/mT/6NLdAHMBpex28W0/C1Y1Zy05VFM75nUwiAZVGT/v5sgdcA3UurOPUrxvXOFhJD7fOmdn4LeNc5NbpkfWimv5mWZ8KXFKdfXqInOYBnc6gsPEjZ8mKssbQOtvEkMczYl0oK8z3un4lgppbYkhZS3Fp7bnD0Jxeba+lODmTFviFcxq29NeRHDUEQ1DnnqtNSjohIo3Nutx+keNz9gmf9zfQkB0ChYMkK9q2KcaLwMJFQGFV9Y4w5YIwZzyBBI2lRLcD9PVXN/SdFqlokInUi0iEiE9P+UUTuqurmufl/AKTzsFGmvUNUAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "http://mobileinputtypes.com/",
-        "text": "Mobile Input Types",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACbElEQVQ4jS3S225TRxSA4bVm1szsbdkkgRji2FREaVKEhCBFqsTD8Ep5Cx6h6kXvKvWmRUK9qQSJCIckJvEhjr339uw5rNWL9H+ETz8eHx8DAKICEBEBAGutMYZZEOEuAVDAHrYSdvHlixcAMJ1NrbHb/f7l5cXhweHR0ZFvPaJCABZQiMDNqX2zOXpFRacrIsNRl4WV1o8Go97G/VXjY4xKKREBQBBQCsz6z3l1gr/+/ke306maxlkXYrDW1lWdOWulmdkYSjlrpUJMvQL9uiK/WkzHX3Z2diUliel2ORsMdjVpEAgh+NYXhh6PhjHl05OPrtykqvHaFNP5QpNiQWD+PpkRac6cmddNDYhtiN63bdsu65ZuVj7GQMbklJRWkoVl/r+MUojIzOfjuXMupai0pqf7u5ocQo6JFULKXBTOr71zLucUYxqOhqtVXa0W1nWs0XR9Pen17sXgBRXnbJ1zzsxmU2OMUopFLi4ucs6r5W23l1q/pn9Pvqac74iIKOeMAKhQBLTWzCwsLFyWpV9/BgQyttgb9PvbWyEkrTGEaMgICACGGITBOZOZUeTmdnVy9o02NnooqbTaaBVabzSWjrTWgDIez4xxqY2azGw6Wdbe2JL+fvd+uPPw8mpa1WulMMWsFAIiIiBAymwMCfNWz1ZVdXZ6RkVRNL6d3Cz2fhg9Hg7ujkBEAGBmFjFE5+Pr3z72bOdH9fBnKgr7/NnBzWL50+H+619e+bWvm2Yym2tND7Y2y7IoC/vunw9vP+3v9YdPtmu6urr+q2l824JICqENgZnbELVWn4kQ0Vnz6et3NVmO62+VS/8BSuJ2LYBQC/sAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://app.haikei.app/",
-        "text": "Haikei",
-        "imgSrc": "http://127.0.0.1:5500/video/null"
-    },
-    {
-        "href": "https://www.aprendejavascript.dev/",
-        "text": "Aprende JavaScript - Curso de JavaScript desde cero y paso a paso",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACKklEQVQ4jY2TS0iUYRSGn/PPN/M7l4aQdLAi8kIRRGlBkhDoLqMbRJsW0aI2QdAuF21dtGpTSVC0CNoURoskIZlo0wVzgjAQRcRCGEWKHOf2//93WtjQTI3oCwcOB773vOfjfQVA07sbfBs6JA7NbAJqWTROMCF9c0XRkQ7Xj+pNRK6ixADd4L0Aq6jeM0UZFG+svQdHXgDbNrO9CksIZ4w4NCvEa1YIhBwhCBT+9BUEVtE1jQlRTZl/aR2B2QWPd5NFThyNEzHC6/FVvs6V2ZUyHO+O05h0KiT8T+AImekSA/eX6drj8uxNjkcjvzjQ7vLwZZl0psCd6024YalPUH1GoaSMjRfo7HB5cCPF1HyZL7NlPF9xIwIKznoEqhBzhXO9CT7PlDg9sMDw2xzHDjaQiNU5wSoEgWKMICIIEFg435fgyD6XzHSJx6MrvJ8sMjzYQtPW0F8FjgNT82UuDmZ59WGV2QUPNyKUPOXyrSyjH/Oc7InT2xnl26LPSt4iUqVAFVKNIUTg2u0lTEi41J9kf1uE/u44d5//5Gk6h+crV04l2dlssHbNUeKn288q8kSE6EreMvPdo8EVOnaECRvBWpjPemR/BDQmQ7S2hDEhUKUg6AVT/WlbYg6H97ooYO3aTARaW8K0bQ/XzCswalnEIQdEVSGokwSrdROSU5GsY0ryCWEIWAaKQGGDKgLLCEMmz4RQibOYLlFNreeLGo+IZI36GembK/4G4hfntL8m48gAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://www.joshwcomeau.com/shadow-palette/",
-        "text": "CSS Shadow Palette Generator",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADl0lEQVQ4jU2TS2hcZRiG3+//z2XOTOaSmUwnM8mQtI3W1Bpoq9IibQkNXlBqRVusUCjFgpu6EXRhFgMWLztBFEQUq7QNhCBU4iL2ErSR0oaptUmwNLWlrZlkctK55Jy5nDPnfC7ags/mXb08q4fwAAKADw7uy7qEMc/nJ3RNWYDvL5ZW7S26rmuxcDBvaPLYh18cH8f/kA9XAOCB/r5PWi33VbtWk/Wmk1R1vQfMml1viKbbykpF3bdjc3/9wpXZiwD4kZkA8LsH9r4vVfWzhuO48DxZXCkxFIlUIkGWbZHP8EkI6ulMCsu2J6q3im98NzVlSQB4Z//LL0gpj9frDbfleRJCUjwWIdM0aaW6KgKajnKlSk6jiUqt4STjsQ0tjdzpuRvnFQAwAoGXKlWLLcuGzyCPGeFwG61f28P5v+a4VK5Sq+XxvcIi4tGwQsxeRyy6B8BHyuE9z4Ub9eauRtNB3XHFvYUCSyEJQnAi0Y6uTCcuTV/htmgMfekOXLl+G7VGU2zdtNEHwEoknk0sLy1lA7pG1+dv0Zb+x2hocAeNjI1jYdlER1sIR996DVLVEDV0fDsyxqZLFNBVPZPJ6Mr1pUphjSIWW56X8FstHh5+j3qf3oxXhnbi6p8zKC6biEcjSCUTLBUVy6Uyfhg/h1AoGOzv7jZEuXxNKFKlO3cXMLh7F/Vu3UZff/k9Dg9/ilQmjYGnNuLH8bM49s1JGKEgtj2zhdj3sWrVQr3dHW2iuxLxDF33hBC89819DCkwef4Cj56e4PzlPOxSGRN/XOLTZ34ne9XibLYbfWt7uOk4gtGUyujcnHNoXeaaEQxu6tuwjt2b8/zxtt3Y/2Q/6QS+mZ/F50ePUMR0WTVrpMUjfrI9SveWTVsP9JQEANxdWPpl/fpeiqngVbOIUsXksKFxMJWgQHYNKZLZhYuiXSUC+emOOBXNlZmvTpyoiBznxNn8tVPbtz87YyhCtRpVt/l4nBoGYBb+5XJxka2mDSulwQmS4zuuarSFZqf/vnUQAIsc5ZgZfHLkpyOFO7fvhAW0ll31vFrV96yyD6fqq17DM8jzkmFDW7l/v3B55sYhACUiehARCPh5cuqiVJqD8BqTiZBUkgFPxrWmTBotmYkIpSseVDTJ54yQ2Dn26+T0owDFw6I4l8uJ1MDr/5xZHh9Kp9MHOru6RjvT3VcTidTVSCQ62t4eO5A/9dvzfS++PZ97cPYB4D/u6qZV9U6TKQAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://neumorphism.io/#e0e0e0",
-        "text": "Neumorphism/Soft UI CSS shadow generator",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABLUlEQVQ4jZ2SQW7CMBBF35iRiMgim6DehmXZllvQG/Uo5QxcgAUg9iCZRKKAceIuWiKcBoH6dx79/2Zsj6zX6xdjzAfwCgx4Tl/AzHs/1d/w25PBqwbARFWDbDabQ7uzqkZu7/090EFvw/1+n+FwiDGGuq4bV13XWGs5Ho9tQBq1yvOcsizZ7XaEECKniKCqGGOienMyxiAibLfbP2GAEALOOYqi6AaICFVV3btr45nP592AZ2WtxTn3fwCtX2kAVVU9vEKXogn2+/3DwPl8RkS6Ac65zh+4arlcEkIgSZKmpm1TkiQsFgtWq1UEO51OlGXJaDSKJuhcZYCiKLDWNhvZ6/XI85w0TW9tBwVmwKQNyLKMLMvuP8aPPtV7P1XVAIyB9FHi2hmYXS6X92/o+oOrWl1OigAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://streams.maol.dev/0:/",
-        "text": "Midudev - /",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACFklEQVQ4jWNgoBAwYhO0jtKoytdnMkAWu3H364W6WQ/bCBrAqiJixFvpfOqw+ltmLc4/yFJ/7RLPmx2+9PEcsiATmn4m9iijCX8ZGJkrn/Iy/P+PIsc8oUJlAroeZmQOm7ViKJujajEDAwPDw18sDDqcvxnUOf7C5SVF2OUfP/9x7fytL1exeYGLt9f/GpMApzxMQJ7l98+zmm8YWJgZ2WFiz9/+fGjidlzrGQPDNxQXcATpl7PqSQYiu+jVrjvdAo/fHDfX5bOFifFysQj8YWf+sefU+0MIFwhxyvC1+dxgZGXmhin89+Xn08+N67WEGBgYbq62viYiwCoNk/vx699X3ZDTGneefn/CzMDAwMCZYDaFRVbQBNn276vO5/67/v7U9+8MP79++/fG21YY7joWZkY2GXF20VW7X69nZFWTMOMqdziJrPnP4/cnvzbstGJgYPgHFWK6sNzkmL4ajzmyOrv0c+YszMaSAciCDP8ZGOQ/xbAwRUavQBZuusDNov+NG0Upv+raAEYGHh4xvi6PW4zsLPwMDAwMQt8sGRQ/JTMQAn9/ff14tldPjYnhy5dXP3bdbGNgYGBg+sfOIP0lmKBmBgYGhodHprR9+fLyFRMDAwPDrw2XJ/378P2+xBdvBrZ/AgQ1//z08v6Dvc2TGBgYGFigYj9+Lb6cw6j5JeEVwzqCBry8sGoBAwPDD6KcSggAABbzsnj5zlzyAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://htmlcolorcodes.com/es/",
-        "text": "Códigos de Colores HTML",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACqElEQVQ4jV2TTWicZRSFn/N+M9/8J22Dxmg2cSPF+lMliBWr4KJqNwHpRhSkouhOwZVSxJXgQlwJInQpWtGViESzEH+KSGwjWMWFMTKatKktSWY6v+97XEzGoNvLOZd773OPbP8A3AkYEBhiFCEDaVS0cYooZEZiT8uKbBuwjYRtaSQB3N4ZmesTaOxysgka9y4ACZAcccikfhc++wB/u4gur+NkdP2N+J6H4NHHoVQWMUKWASQ5JZMSzjJ0sQlvvGh+XhalCi6WRqP0e9DroFvv9uCFt1SYvQliRFlmOaUEQKctTp0cmaemca8D11qjVas11Ciz+vnfbB2Y921fv6usVjFAIEUhicUP4afvxdQ0tLZxYz+ceA4/9gye2MfaV22azRm2Vpa18c7HICkNo+QYDcDLT8AvP+I8h8YkvHYaZucAGPy2yvl7nydtXiUyoDF/O4fOnkZAIATotODSOuQ5tHfQ0eN4dg76XdzrUbx5jqknH6HjFtE57d83iNvXUAgURlcSu3xHuBQYo4yGItAMYpmcUrlIqZhxGFMc3SBBpQbXzUC/h2t1+PITaK5CXqZYLnHp1zUuvL9IqNTpDgdU52bIJ2qklCjgBFkBjhyDlbO4MYmuXIRXT9I/cpyP/qiydGaJ+uYVDlaqXO1sccvCg4QQiMMhexi7HXHqKfvCsnxgmtDvsL3V5tlv9jOo1MlrZfatbXDf/CGf+OJt5Y3qLkYJUpIrVXjpTengXQ6XN+xBn6zWcGWy7mFv4O0/N109etgPn3ldpYkaTkmjD7YjIFKUQ4Z7XfTpe+i7JXb+WueVc5OUb5jh/oUHOPb0Anm5RIqRkGUG/L8wJVthDAC3W+4lUWnU9mr/lUi2zwF3/BtRG1LCIQhpjDPFYVTIApK8qw3A+X8AJj1Nh0SfQXcAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://www.manualweb.net/html/colores-html/#google_vignette",
-        "text": "Colores HTML | Manual Web",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC4klEQVQ4jZWTPW9bZRSAn/e9r30dp/6KMQ7EbqREDUphRFAxMIH4WlgCUiUkJMTYgX+QBVQqdWHiP0RlgAGJoVJxSliQxeA0JUL5gJgEGtvxvf64H+97GNJ0KgNnOMPRsxw9euD/TQYoz0Pt4qAA78sPqyv1y825Gd+U8lkpZySu5HxXzXtSnTFS1thS1uiC9igZpYqe0blfd/vfvXer+5n5/otXPn5pde5rE/xh8nmDs5bUGiaxZTKxTGyWsctyNoYw8Tg8nnL1SoX6vHwE3Ztmtlqt13KhuXG7k97dRjmQUQJi8pRrDfxchnfefUs9eLhLp7MtvWHK9Tci/enLOgSUsVFqp5OJtLs+V15fU+OzY10pl2k2FhTiJIqm1J8pMhqWmTXL7P956oozaMRpAI2zKo0jVS1leXFlkXDwD+1ffkZhZbP1I+12m/v3f2JnZ5dXr71GsTSnoihGIQAYZ1PRIvROQ3X71ucKUJ7ncefONxhjKJcrHBwcUCgUmE6ncnJywtWawyYxgNJpEimXJjgrKKXQCjzPIwhDRIQgGOL7Ps1mk9RanDii6QSUCIAhTRGbohSInItNkgTf9xkMBjQaDZaWlmi1WqIV9Ho9xmOHs1YBosXGImn6+KPHW0SCIKBQKMji4qJsbrZkeDagWq3I6gsr4myCuETOLcSJEmfRGrRSopSw9sGa6vf7srDQVJ1Oh8pcjVKlLj/c3SI7W5NLOe3EOgeIcWnisKnECTgREPirF7t+P+be1rfOzyDFvGO+KNSL4i3VD83710qMh/1LgDKejTOIdc8/l09V0fdWG1l9ubKl55sJy29meHbWks8oMloxGsVuFI/7Z0eD3r0HaQt4ZAbBtBuGU++r68qzzjEa9QkmLphE9qR7KN2dkP3jU/Y6R/y+94j93wKOgL+B8ElM62/zyTBiea/LzvYR+w/DJ9DgaUnKOhpArePUf3V7AQFsdFAbG7BxrkkuEIB/AVssg4na3qchAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://rapidapi.com/hub",
-        "text": "API Hub - Free Public & Open Rest APIs | Rapid",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAClElEQVQ4jV2TP4xUZRTFf/d+33tvGFxWA0YoNrBAAdHChECslt3EUBKIOxgqY4gFVhRCAg1jpWJhYiisaCwIM0tiCAV/QqCkoMK4SxCBBYloDGZd4O3Me9+9FDMr4G3uLc79c87JFf4f+36fgnQAYQeWRtHsMRouUy6c5Ket98EFxJfhMkg+yPvmTyDhEHgklSBiOEpcCW6PMT6lO3bh1SEKbQVxpu9+RT76BfVzqMtENgJxRIlNqBb7eL0W9Rn23nlv0DxYOti85/b7FI0bpJ4hEkBrRE6BzkGaAP2ItNQnG81J5Qzdja3lKxSAPPsEzQNuhjYc5zM64wfprP+ezsZpzL8jeyMnLRrITnb//M4rFFzw9AHWdzQrSL1fmRn/kVYnsO1GBm3F9CSpX2II2Gq0WDfQrq3Krj+bEN7CqmVBI6B0Z51yhUDb8DoiIuAAhpkNsMeHFMARBevXhGITrfmD0DZm3+0DkMXDSCzQaKCPgHtDE13Ahek71wmN7aQyAQFRAT2DyC3cJtA4RVoyGmuV3pOjdMe/BlcQiyCOzM+i2XbSc0AcNydb8TEE8D7USzXaKKn++YHuhm+YvBq5hg1FBKy+NBDTX1pbPa2p/u1Rl300D+C/UGmXyfsF16ZqEHsJ3n1rhCK/ich6rDJAcYeQC57A6wrJMjSCpTli8yLVs/PMbLqi4Mq5LYuYHCM2BdyARMjB0xzI3+RvZljt1KUR8q003j6E5tuGFMTAlbPjp6mWvqVYk4E7caVh3kXDBKm+Qsh7xCLhfo+nDz6nM3YCkDi0w8CFrhyh9WABbRwjNJrIwirObJgDPqT112a0GuFJuM2lsWf/2f96DL+y9XAH+/+4QOu3L8GFyavxNVirE5bLF2GjHEPZRMr2AAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
-        "text": "A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACcElEQVQ4jZVTz0tUURg9b97Mu/fO+yU1YwNlBIVGm0CLwAKjZW0issDWTTsJWjQZyqBgPygIN2V/QRgNLmrVIoRwUVbaqohwMaOpmL43Mzrvvvve3BYzWkYz0Flezvd95zvnu0ATyHRXTKa7Ys04kYbFmdQBX1/7UZTh4mLvyf3/3SCsRjsFZ7sFpwlU9c5GvGhNKmJIps5Dqt+U0YVZAPB9shxwAsEJfK4tbxU8u3zz6EKypb2U4C+y2Ww1CgBIpDKQGAbCUA6kRqEtDXuLJC98isCnEGUt/+Z0NrphFYcKJhtYN6lasFpvAbhbW0FKUR+gAhj01tqn/JBqASeh4CTwIiaJaCtTrkkGXZ2qjk7h6Kz624M7y/cAeQXA58AnCHzSzT06IzgNA05DwWMfXJ11OzqDY7A5R2d9k9f67gOA8rcplf72U17Z7q+UzAte2VIrJRMrhh3mk3ZusdUcyzzMvG2YggQUzjXmVygRdQM3VYqaZKKt6QaDlDuGKgAge6Hi4N6rlZJ5vbJhdXglE17Zcitliy3Zlswnba+QtO180kYhYX1ZtcxH7y6efQpFkTUFh1K3fU4eC5901KKj01WhdZU1qjoGU9d1/Zijs2lXZ3CM+GEo8smJ3MvM9gpVGeWBTyA4DQWnI/PljR4viPt1x6ObVOOmstrjmHQkUCNhLTglsn1Ike+FB6Klcz7k8a/7cq/nAGD6zJE2x6BwDYoVi7aNZW/kAQwdn3iVi6jVQ2yXMbndQHmOEPg48ac5rkn21PNG0Yi3br2/v3RuFsDsjlP+FxxGPrkG++kYNCjasZlGvKZIp8dj6fHxpt/5F3FiEAQkJRrxAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://flexboxfroggy.com/#es",
-        "text": "Flexbox Froggy - Un juego para aprender CSS flexbox",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB7UlEQVQ4jc2SQUsbYRCG35lvd6NVCSm1FmppIbnmUGwpBC+iUDC5xmN/gBfx1NsePNm7+AP6G4LQQxBBPNVSEC/SQ5oqbqDtgklMst9+Mz1YY9Ecein0gYGBl5d3Zhjgv6J6XC2Ecbi1dra+iirMjQCzdra+GsbhVvW4WvjTQ8PuI/yNBxsfzIFZCJ5m8O3Z6dtep7sLAOOTEwtPGrPvkq8DuJLbDb+Hr/ECFgD42l8MipMegvz5YQQbWcBh0/ODPc8P9uCwaSOL88MIHoJ8MShOXvu862ZualEbSVMerz9CnMRI+gkx8TgAJGmC+HmM6VfTaFw2ZW5qUY9whOEE87VybtBpZUjVRf0IF7YNKCAiEBFAgQvbRtRvgVTdoNPKzNfKOQCgcr1c4jHz3jn+OftwpnAvO5EDA9BbFyZAU0Xv4jI+/dH6YkjuS9+98WjMX2Gf84Y0T4YRZDNgw7gDAS5x6LV7Od/QSxgPCl7xxEqTmaCpDlNVb8f/Rq9K7ZUuVpo8SNOacy6GodGmURiCcy4epGmN60s7J3C6DYYMp2W6W0Q3X2MgcLpdX9o58Sr7lWUwZSUVYSa2nQTENPKIYgXsMcSKkE/Zyn5l2bNqZgKlkoj73O52oSmggpEQA51BFyoCZlNKlD79/d7/il9FnuP8vO1JiAAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout",
-        "text": "Diseño de caja flexible CSS - CSS | MDN",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACDklEQVQ4jY1STWsTURS9973Jm8xMQoREMCnpQuxa3ZRQxcYWSUhAirU/R7T+nOKypbbRjUZrW7NoCFQQ2nxAXSSRhMwM05l577qYNJa68e0OnPPuPecevJ3JERH899MAABFnmDGGiEoppRQi3oBTwfUJ4/FYhtIwDV3XiWg0GpEi0zJjsVhE46aRmLHDMFxbe14ulxzHubj4pev6xsb6k+XHw+FwOPytaRoAaIhIRIjo+342e2fz7WshBCJ+O6wXCotvNl9depf9/uD09IdhxJVSGhEREefccZyVlWKn022ft4WuA0ClUj4+akgpGefR5kTEZqallNVqpV7/4nkeYwwAV1ef7u3tM4bsagtEnAp838/lsg8e3t/Z3jVMw3Xd+fzd3NxcrfbRtKxZRADAoigdx1l6tOT7QaPxPZlI2JNJufys1+udnf00jPj1GK8mBEG1Wjk6PA6lp2kaY6xULtVqHwgkY+ymIAzDW6lUobC4vbMDAI7j5ufzCwv33u/uI8bCIIwEU9Oc88lkUiwuZ9Lpz5/qADGl1Mv1F67jnpw047phWZYQgtTUNLfMpFIqlUp9PThoNlu60Mfj0Xm7s7X1rtvtCiH6g0Gr1bJtm3NORJhJZxHR87wgCJLJJAC4ruv7vhC6aRoAYNu2EEIIES2GUVtnJYuOGJ1fSgkA0cd/yxfplFKzHCLevzBi/gGTtiuGymKkcAAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Backwards_Compatibility_of_Flexbox",
-        "text": "Compatibilidad con versiones anteriores de Flexbox - CSS | MDN",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACDklEQVQ4jY1STWsTURS9973Jm8xMQoREMCnpQuxa3ZRQxcYWSUhAirU/R7T+nOKypbbRjUZrW7NoCFQQ2nxAXSSRhMwM05l577qYNJa68e0OnPPuPecevJ3JERH899MAABFnmDGGiEoppRQi3oBTwfUJ4/FYhtIwDV3XiWg0GpEi0zJjsVhE46aRmLHDMFxbe14ulxzHubj4pev6xsb6k+XHw+FwOPytaRoAaIhIRIjo+342e2fz7WshBCJ+O6wXCotvNl9depf9/uD09IdhxJVSGhEREefccZyVlWKn022ft4WuA0ClUj4+akgpGefR5kTEZqallNVqpV7/4nkeYwwAV1ef7u3tM4bsagtEnAp838/lsg8e3t/Z3jVMw3Xd+fzd3NxcrfbRtKxZRADAoigdx1l6tOT7QaPxPZlI2JNJufys1+udnf00jPj1GK8mBEG1Wjk6PA6lp2kaY6xULtVqHwgkY+ymIAzDW6lUobC4vbMDAI7j5ufzCwv33u/uI8bCIIwEU9Oc88lkUiwuZ9Lpz5/qADGl1Mv1F67jnpw047phWZYQgtTUNLfMpFIqlUp9PThoNlu60Mfj0Xm7s7X1rtvtCiH6g0Gr1bJtm3NORJhJZxHR87wgCJLJJAC4ruv7vhC6aRoAYNu2EEIIES2GUVtnJYuOGJ1fSgkA0cd/yxfplFKzHCLevzBi/gGTtiuGymKkcAAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://www.creativebloq.com/features/5-top-flexbox-resources",
-        "text": "5 top Flexbox resources | Creative Bloq",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABt0lEQVQ4jY2Qz0uUYRDHP7Pvbv56K7VVohYjD5YgKViBHiNEL0WBFyEkCCxQ6E/oEKUIHsQ65EXoECxJB70IghCS4EEhPYiwJzMxKV1Wt2h33/Ewu+u+bOQOPMzzfJ/5fmfmK7oY7SP6+iXJeDWlRv3VGINvH8mlaxui/ZEEqT9uyeRcdDz4IEOTfUEfWfV0ooiVJn6GAYL5DycIT99A0y3wPFj6BOufYWDc/tMpmHsHc5MggmRpgbxA5Dp0PoSjOAQc6B6A82EIR+Bg1+73n0PghOIXCJVbXp6B2IqJOCHDvkzD3lb2LT6BIEUhsL0JbjVk0gZdbITKc/A7UeRTsYAA0yNmVutdw7qeWF54D+rljfSvkAsFHo/CxBqcvWDY7ATsxOD2PTP7nx4URnkVuLUnnX59t/El4OvuXyH913LrHXBrbFcvY1h7D9Q1gJf+jwffNuDrAjS2WdFiFOJ7cLgPV1pMbH7KjC2Ywj/BcK/tmOsuAs+as94UYD4PzlQk8y8RKyp02ssUYwCH8RpVdZwXr4aTxFZvgoATSpV0UNjfuUxZxVF2OhVVdUo+W2s3dKz/o+oP9xihfb+qEiqqaQAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://bashooka.com/coding/20-examples-of-ui-components-built-using-css-flexbox/",
-        "text": "20 Examples Of UI Components Built Using CSS Flexbox – Bashooka",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZElEQVQ4jWP8z8DwnwEZ/GYgDSAbgGEYFqD2H0n9b4b/TCTahwFYYCYR6wp1NPUUeUHtPxW8MGrAYDCAkSHuPyIdLGJkYIwjkBTUkJjVjAwMKAYMREJiYWBAuIIR7hB8gBHFFQCnqzDR0rVXkgAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://codepen.io/rendro/pen/Vwxyjm",
-        "text": "Flexbox slider",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACM0lEQVQ4jaVTsYoiURCsfrOYCSaXqAO7hjMwLmo2mOgHKGwq6H/oLPsx/oD4EUaL66IGZiqbzCUTbTCP13XBjSJ4d8k1vKDp4nV1UQWSLyS/SLriqaqqtZaXstZSVZWk3uC+SL4IyRTADwAKQJxz8DwPAGSz2QAAms0mAPBmRgAGwE8USxxJtdYqSTrnmCQJCyCTJKFz7sLmlglBUp1zWlDker3WKIq0VqsxDEOGYcharcYoinS9XiuLG51zSlKNqooxRqy1Mp1O0Wq1pNFoyG63Q6fTQafTwW63Q6PRkFarJdPpFNZaMcaIqgpI6ul00jiO1fd9XS6XV/F6vR57vd61Xy6X9H1f4zjW0+mkJBUkOZ/PCYBBEPBwODBNUw6HQ5bLZZbLZQ6HQ6ZpysPhwCAICIDz+Zwk+UASeZ7j8fERcRwjDENUKhU8PT3h/f0dADAajRCGIbIsw2Qywff3N/I8B0k8oKhCUIgIPM8DSajqdeZ5HkTkiruUERGUSiUcj0esVivs93tst1v4vo92u412uw3f97HdbrHf77FarXA8HlEqlSAiAEk9n8/a7Xa1Xq/rYrG4itbv99nv96/9YrFgvV7Xbrer5/P5t4gXg+R5ztlsRmMMB4MBsyzjeDzmeDxmlmUcDAY0xjBJEuZ5zovh7oz08fGhzWZTq9UqgyBgEASsVqt8fn7WzWZzZ6S/Wvn19ZUiQmMM397eWPx/Z+V/hunz8xMAEEURis1/DNN/xfkXHx57acRH1gEAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://www.onlinewebfonts.com/download/d7e8a95865396cddca89b00080d2cba6",
-        "text": "SoDo Sans SemiBold 1.002;SodoSans Fonts Free Download - OnlineWebFonts.COM",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABMElEQVQ4jaXTzWoUQRQF4M/5y4wmriXvIvgCvk4miM5OJkjAhwlkF4LixvdwFQQhRMeZ6e5x0afbIkQMzIWi6lTde+rc013sGU8yv8Sr4EHmNT6gxlt8wTUmmOMzPnVES+zujTVmGAV/TO7z4HM5hBW2OE6hJK1wgA3ukj9M7m1JMMj6+z9aneAnKvxI7qAk6Px4j6bwYJl1jdd4inHhXR8nkfSQB1N8y+3d2W1qeqZRmHfBTUYVPAuuUzOKD1XZAvzOPEzflUfGm8g6Cn4XPPxfC52CaYq7lmYFbvACX3GVVk+1hvYETZi3wdvitjpKLnCW83knvSSocJiizqRO0QbPsn+U3KYkmEXazT1vxiGahLyKorH2l+4JLvHL38e0036RbQoW2sck+wvtY9o//gCVHV4abaMF6QAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://cssgenerator.org/box-shadow-css-generator.html",
-        "text": "Box Shadow CSS Generator",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABaUlEQVQ4jVWSMW8UMRSEv3n2HUsuEFEBkRCRUlFEokhDgfK3U1PwA0INiCgFihSliC7hzrseCu9u7lw8S5Zn3ryZp9uvYCwcAsAACLxTiWqMRMYY8pbF1jTIM2yq5l+HE5hskTf8OT2+Pnm7KL1D+9RgDymd/fh5dPfQL8g1WPb8+vDq8uLd4boMKcBC2BYCqsuL/Pr3zae/D1qSZSyWZVity+pxW1M0rdhVCuzBrvX7nXnk84rcujvkFDXFsAOwZGxMijafRJ6HtC3TPjTp7ZKNLVnCbgCBkGQhjUwAUhNsZMsGEaN7nkz06OP0CEYgISFmSbLdnLGqHAZbwCh0UkieXRcWyE33SK85val3tp61GM2h7aU9g2k5tDFDhBSh5ms1IdlgUkjjymVVnjrOr67fXN1+uydPLuxsnyWV+3XpUCULCLr15uN28+WJpDED7e4ulI73HYPJjaYPDl5yfkCdQ9g/MsX05j/bJ9UYksH54QAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://tinypng.com/",
-        "text": "TinyPNG – Compress WebP, PNG and JPEG images intelligently",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC50lEQVQ4jbVSSUhUAQB9f77ZpanJaSqzTbLApbKcDCpCoZLIILq1UxJ0KAtKo1WlgjwlYXSoPBRGtJptJIatMhahZTqjTsW3UnO+3/l/1v9z5nWoGerQsXd/Kw/4XwiEQkUjur7BIHM9pJmkCEAAcNxqtVb9k6iqg2maolzxKQr9mpeqIlMdVoYikci36upqCQABcPOmjQ+bmpoSYrwpeXl5Y0ju6/8iGX29Er9Knyl9clNVZGrKELXhIZJkVVUVAXBNwSpmZGQkAsA1AGpFeXk/SSqyh/LgAKVPPfQM9NGneRlDOKCRJAtWrpABHAEAZKSn02azUfZ4qIeC1LzDNPQwo5ER+n0qA36Np09XsqKsjOQISfL5k4aaWHTT1JQUZGZlwZqUBMFkgtPpwtIly3D99m0Y4TBCoTC6nE48eNyAsrIT0HUd6ZlZa8+Wl48FAFNDY+P5aCQa1A0doxJH42ZdHTSfD22v32K8xQzrBBtKS0tQtGsHXE4nPrrdSBiVOGH5unX748vX1NQcivVMmTaN+WsL+ODhfV48f47Hjh5j6owZvHW1liT5tVdit6uTzY2P6uICJFeQUfZ0ubh3z162vnlDr3eY2QtzCIB2u50k6e54xxdPn7D9rYMVB3Y/S05OzvktoM8dMQx6Bgd/xYj8iC/vaHEw4Pexu8vFg7t38tK5M+xoaeLJowcJgCYAEITR7ZFopD8hwYRQwI9mRwtKS0pwr/4uetrfYVluLvLy8zErKxvrV6+Cq9uNC5drIYoihD9qHAZwKuz3IWzoaHvfjmZHC169fIWli+3YsnUzvLKMyspK1N64AwAQRfHvG/dKUidJGsEANa/C7s4OOjs+8LWjmdu3bWXsxhMn2mg2mymKIuNfLi4unj4zNTWpsLAQqqqirbUVwWAQFosFHln+y0iAgDmz0yAIAuICfQPf70aj0Un19fW/4plEjLOMjZMX2XOQPW8eVE3D7LQ0LJg/H5MnT8JPbLra8gg0m0gAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://fly.io/",
-        "text": "Deploy app servers close to your users · Fly",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB+0lEQVQ4jX2TPWuTURSAn/t+xIS2SasJitogwY+qlURMtBUaEBpqhzqU0qmL+BfEwaVxcHHJ5iIugg6hWBBaQc2kppooFQltI6XaJQYJbzUfUtq8uQ5Kmo83nu2e85yHw7n3CoD4rOFVhIgJCANu/h8F4LWJcms66loX8VnDqwrxCehrJUu/S0hZw9nlshIZUPNrihCx1uaP2RQv0wu43DrfNvIc6/cSOj5C8PRwI7YflJgiINKYfb/yhnjiEb6BAzx4fBOAq5MBlCM5UqvJ5hkkEQXoqZ+l5FX6OQAzNyLougrAs7m33Ll3nUxuCSnlnkDgUhqFle0yxcovAI72e+r57zkD0zQ5ceYQle1y0xBNArvNjqZqAPzc2gPtDhuaplH4UcRus3cWaKpO4GTw7y6Sq/V88NIpMp+/UjV60FS9swBgLDSBY5+Dhfl3mGYNgMj4Be7efsJYaKIVbxc4u11MXZkhnzN4sfgBt8dFeinLWc8Izu7299AmABj0+RkfvsbD+4vs7Oxi5j0M+vxWqLUAIBwYRVTtdGl9hAOjnTAUoGxVWNvMcP6yl3NDh8lurlg2SygqEhJWRXfvQZZTGyyn1nH3eqwQBCTEXLQwIFCTVp+pau7Cv+u1iC2BOqRMRd1rppQBCU+BUiOhqXpbs4QiMG+iXJyMOr/8AbBBmWu4/64aAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://railway.app/",
-        "text": "Railway",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACCElEQVQ4ja2TsUojURSGv7MkMsKCqXRHd28aCxvBYkBEfAkLKwtrH0AL8QmmzRusja2VlvoMNpJkyMSAopGAQW6UuedskwxqdlkW9odT3HPP+S/c//9hGpvACdADinH1xr3N38yX+Ao0gFfAoigy55w65zSKIgNsfNcYz04tXwAWx7GlaarNZjMMh0MdDofabDZDmqYax/GE6OIzSQOw9fV1y/NcbRpqZpZlmSVJMiFpTJa3AF+r1ezq6io8PDxop9MJeZ5rr9fTwWCgqhrGJKHVaoXFxUUDPLAlwE9gd3t725IkYTQaiYigqnjveXt7w8xsf39fVlZWACxNUzk4OAA4EeBWRL4fHh5avV6XoihMVWVhYYGdnR1EhOvra0vTVI6Pj1leXrabmxvW1tZkNBrdVoBvc3NzzMzM8PT0hJmhqhRFwfn5OSLC7Owsq6urHB0dcXp6ytLSEvPz83S73bgCEEKg3+9TrVYxM0SEfr9Pq9Uqz957np+fUVVEpPz9CnD38vLyYzAYUKvVNIQggMq7KVW1arXK3t6etdttut0uj4+PAtxVgEtV3b2/v5eNjQ3x3hvwBfjwEiDtdls6nY6dnZ2J9x7gspTROWd5npeafzCBatnL81ydc6WMH4yUJIlmWRbMbKL7pIKZaZZlIUkS/Wyk/2LlP4XJnHMWRZH+LUzv8U9x/gXfIYruFBaJ0AAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://render.com/",
-        "text": "Cloud Application Hosting for Developers | Render",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABJElEQVQ4jaWSPy8FQRTFf/f9CQo0xFNRKDU+DY1CND6CXjS+jy8hkaiIQrSiEBVP3s78FGZks8HbxEkmM3N3z7lnz13oCXVJ3Wjdow8p1IF6qt6qj+qluteHPCj7uR2klF6m0+lOH5E19VVtcs6znHNKKb0XnQuA0R/dBXaBZYCIqLURkICtb4Fqt7wwKISsHgMBzIDhVzkaYBG4nWf/RE1q081AfVAnACN1HTgCroBnYBs4BA6KVgbugKZYvwbOIuJJDdTNEpTqW6tLo07VfXWsLqijlsOoh0mZby6rUT/K+eangNs/UQ1v2LIbrfqs3bWGGxF2BSjELqJM5ldU9VwCqg7qnv4iV4EBsFo+Y9h5vtLHwTtwCayXUVXbY+B+nsC/8QkGcQZS7Ry1igAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://app.netlify.com/teams/luisfernandocalixto/overview",
-        "text": "Team overview | luisfernandocalixto | Netlify",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuElEQVQ4jZ2TvQ6CMBhFT2kVEhPjW7E4MLGzOTH4IA5Mbt2JJq74YEpiGxyUEE2B0jvfc4bvRzAWrZOV5ADwspwpitZVE064qmK1216g239bdxNvMvL8OS/4h4emUyK84AmJ8IZHJGIR7JAItE6U5AakXvCQxliySElRBsAAqZKijALAn0TGdhXQBLCNsV31GWJdr1X7uIYNsY+vxLlGX8nkIc1JvE55TLLomfponSjFEcAYTmPv/AbC7Wtar8k/mgAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://www.watermarkremover.io/es/upload",
-        "text": "Eliminar Marca de Agua - Subir Imágenes para eliminar marcas de agua translúcidas -\n                    Watermarkremover.io",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABdklEQVQ4jcWSv0tCURzFz71XnP0PtKIok7KQkLSiHEqioa2tIgjagoiiSQiJCIKGaGhQGloKDBsi6AdFELRIDREtL/8Bn0Rq9z3f+zb1MF+WU53t3nvOh/P9coH/FvvNIB+aVKYJFySHM/Rk8/OfwlqmWUXRkXcGnhle+bR+3EF1A+Rdi4qCA6wo3JTyu5zRxySV+Hx5L2CD2MO3rYp+5c19nvXDLqKE3wUA+k4wZmz11oZo122Kft5uVt+Xd3uskB4Px4zYgM0D7dKraKe+mnRjPWy9GYsRQuUO9DNfCkXh4UWh6Pvd6ncAsXTDjOUhAgBWEFUV0532SjVEsyOmORVNfWlAbw5WSvg9VsWNUMaI9+Wqw+ZMlFAQ9zx5Mm4jl7eDVFoLWhBzZVAxFiLWODQ5SjQxplRmbD+rvNpP4t3hYfGLLACYc8MqJM8zKdzQ+As7SDfaAMZmiCA5SHIwKcA0DkgBSAYmOUEKQBNZljpqqHdPf6cP/+eYGALKy9YAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://squoosh.app/",
-        "text": "Squoosh",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADFElEQVQ4jVWTT0xcVRyFv3vve28GEIZBK8MYQJpJAKud1hhjKsZU64JZoDHOyoq1MdGVbrrRpYlx4dJNVyZUEtdqMiQmtialDVbRamwbqhkRbR1iYV6ZP/DevHt/bgrBszqLc07O5lPs0/T0dMo5d9xae8qJTInIIIBSal0rtai1njPGnF9YWIh2O2rXlEqlXBzH71vnTlonWSeyF9h1RqvQN3o+CIIPK5VKbW+gVCrloig6G3eSF33lyPU4xvo65HsSujzHjlWstz2qWwG32z5Ke18GQfBWpVKpqXK5HGyG4ccGeeepxw9RfDDhiL3MoKnjadk76gRubKT54PsDhLGH75lPstnsGb21tfVcJ45PFgt53j39ChsnznDh4Bs4DNbrw/r9JBbQATfvdlGPNCBY514NG40TnrV2Fhi4XW9z69fLvNCriLav4pkEb+RJlElh4xYMP0thtMVka4nr1b/BuQFJklltRaYE0FoTZAZRDPHDzSKrjVHkzgo7Oks0cRo1dJRDjxU59fLz9Pf2ICI4kac1IjlxwvjYQ4wVxpG+EdIDeYzShP+2ubJW5Npv3dg4wiYdipMFnnniUUQEEclpAK0VP9+osrT8C/3pBtqPWVx7mDDU+M0/yCVLJLeWMX6A73scOzpBKvAB8FCqJiLDhdE8j4wXMOleWiomle4hbjaZvO9TUtWERKbxhg4D0GxvY51DKV3TRqmLoPA8Q7TdxoarHOteZDz4icC3GNNBXEI73CLeaRPHHb67ukKSWIzWixrPO+cZvXFp+TpfX/oR6X6AuXiKhdQR8sMJXV2OKFIkm//goiYr1b9YvvY72phNpdQ5fXBk5LzWej6xlo2wSXK3xmsHlnlz8Aq+crSammbSh8rkWb9T5/OvLhA22gSeN5/JZL5RADMzM4OtVuusUrw0MSAcztS5P91hJzGshj6NIIc/MMSftU3WapsYY75IBcHblUqltgfTvZH3OtbNipBV9xByuwERjFb1wPc/833/o//BtKtyuRzUG43jJMnrVmQKkdw+nC/ieXO+Ut/ux/k/3FJypUO8Bu0AAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://boxicons.com/",
-        "text": "Boxicons : Premium web friendly icons for free",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACAUlEQVQ4jZWSPWhTURTH//cjry9pm5eP2oCYDNouthgq+NFB3JwdBDfdRBHT0lE6xKkFLQHXIraomzi6dFI6VEhiKQpFapSKg0Gr9CXNx3v3HAdtSm0S6n+63P///s453CPQQWc2viZ925pkyzqLeuPRampwoV1O/Hsxtr55FL12xhDd1P2Ow54HoRWoWl0WQky/TR551RZwrlRKNHT4DpO5pcLhmHG3wY0GIP5EVNgB+x6Y6Imu1+4VhlMfW4BUuTyhdXA6IvSA2d7/sCVmQCnoSBTkuhUmk9M2ZhWfyA6dL1VflhN9ofcxCTYEy+eDwwkBEIG8JvRgwoLxL2KnsSARjfWPL3/C4u0XyM2+xrFvFXyP2vC0hOC96kIp6PgAIKVvfm49RtUdKQ4lNwSPzaUhsQpDgFtHJR7C/JVRLF4+iS2nB5EdH4GwA991jZLyqYJ+kE/F3rUaawGYAcFAk4BqE5+H43h4/TSWLhyvaxLPpaT7xWRi7cA37gOA95y6DwR6sTYauZt+dm2m077oTgZsDSiNUytffnTMAJAgyDb79Lc/AI4d6Apoaq5BBgDZNdcZMFOofCD2pgzwC7oPEPL/AFlkSeWnch5zmow3D6EAFTo8YPcQLExuqkLmRo3kOLO/BB0CVBBg9BwKsKtQMbMi8xOXDPtXjam9MQrr3QC/AaMu0T2iI/9vAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "http://localhost/Simple%20CRUD%20Firebase%20Realtime%20DB/Administrador/admin.php#carouselExampleCaptions",
-        "text": "Previous",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADMUlEQVQ4jW2SS2hUdxTGv/O/r2QmN3cyN5nGxjSDkQYfSKRpoS0lhr6okFm1G4O1JRVUlGoirroQS+uiuCkU+nRhH5RaaClxIW1R0AYZiJXEtFhTWmiciSaZR5KZuXPv//8/XZiIgmf1Lc53fh+cj/DgEAA+ffrDtskb2VeLpfJz0Jq8ROL39LpNX4+MvHMLDzHc0wzG4dE9+5dWCu8zpKdZSIMM1iwtIlFPtjzy3uDLX5wcGCAFgAFA3E8ePfbmsSAqf2TZ9vRiyXvqzKfnGrrW/RTTkp40hf0zc3Dix3Ovn2LmB+ACAI5/cHTbWwcGef+RXd8DLHiha9Ov57vf3f6s1Xd3jcWhkaGP9x7M8PGTR15Y84q7l5gmr145nJvLhXt3PzNauvX4SB0tZ6UWQ8m2+GevvdF6akeGNuwb/upofi5fmJj4bfTCBTbX6Gp8HA1BUO0vL6tftqfHvFDab5OAEoQFIq5pxTsSrv/t52c7bWLjBynlQE8PbABaAEA6DTJNM8mMWej5kMAVQcxaa0dpWFrzigK13JyebfQ8PwdiZ2rqS1pLQNeuQYVh9J9B6gk09ahImdcDZf5lWtZ1L25cTbjWpBenS8O7eitzt2d7mFHz/d0MgEwAvHMn1YcPDJ7J5XInzl/ZuP7Ffv9iGEat3d35laHM0s2Y7cJrXir4HXsSjvPN84mE98nYGAIATAAyANb7vj/R4sdfsU0R9PV1xVxXeJXlO+Vs9k/d8Wjj+I2ZSrVcjj+dak/ZC3dKi8VisQZgjgBsBbAFQHn1t3HXdZt7ezfGmeXi5ctTAJADEAOQADC/qgmAfX8TYZrmS1JKBjCdSiW3NDcnw5mZmQUALoA8gK2WhfkoQvZhVQaADQAcAHUADQA804QBQEiJAoCm1QR/34MCwObNsG031U8WdRrgTqX4MWEYJTDPM1AncE1rVA2LSqzBgapRxVma/fciAhMAlNO6jZkyYU39A62yUSS+U1VZCQJZjXLLgd3hOkTEliVcxzEdso2GWDnZDRT+IABob0+k6yXSxUAvJxuNptAIg9YmMy6VtohlRTt2G4W6akYiCok0MxMA5Eul3P9nQmryRIZr8QAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://www.remove.bg/es",
-        "text": "Quitar fondo a imagenes online y consigue fondos transparentes – remove.bg",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABKklEQVQ4jbWSz0sCcRDFPzObtIYQXcwwihAlgk4aRAfveelv7WL/QQjpoYIIDbIgoiBCkt2tbefbIcnW7CDUOw3Mr/fejLhWnVmgM1X/VYMSxUTx9OTcOBQQgpDOlR51PGC/mlTLtuCDAzfRoAQh7Z422975jUZvAKfXur1ujVpSK9tCFgxAXKtuxvGlHra8i1uNYrxvTBLDz7C1Zge7yd6mqaKAg2Eog0ASQyTFWITEGAQyDMVNaCgVbHOV3p32HyVOADIepbwrFy1+T4sWyGXd04s+DqRUcJWi9e4VKK/YMJKzvuYXXS5rn7tldGklCDnparPjPTzLxrIDrh9keck1qslOJS06ZWtEuzu2tVaZtFWm/JISvQL486OpvxzuC4afGQU/8f/P9wE9XH4SZ+FldQAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://lectortmo.com/library/manga/44055/blue-lock",
-        "text": "Blue Lock - Manga - TuMangaOnline",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC9UlEQVQ4jY2Ty2tcdRiGn+93ztxPJjNp4qRJc9eZNCAZjURBC6JFsqhgxUkXbqwgLhQ34larLhV3bqQLRRGsNAu1lQ42HUO6qIWkkWRq0FzbSadhdJK53875uVCqQhY+f8D7wfO+nwCMJZJxR3jbcfRxw5C2dstFm99EBMpVm0K5Sb3hIAJKSQn0ZdDv3fxqakHGEsm4Lfqsx2VMPHI0xDOPRhgbChKyXIhAqdpiO1vh2kqeucUct3YrCIIIi9rRr0g0kTwfCbuff316hBOPH8bvNTgIrWErW+GL77eZSe1Qrdso4VsmT8/ufzd/R/9fmi1Hn/vhtp48PatHp5Ml81i8MzjU4+fXW6V7l5SAz2vQ0+lDa00mV0NrTW+Xj/1SkwdHgpw63sunF7YD5uRYmJubRa6n8wR8Jt2HvMxcyRAMmHz8VpxmS/PGhzew/Cavnhzm2vIfBC2TQrlFtD+AGY+GiPZb1BoO94U9TIyGmLmS4bfbZZbXC9QbDlvZCp0hDxevZnnpxADRfouz32xSrjYx84U6YCH/kuVyKaL9FvNLv9NsOYwOBlndKqLRjBwJAOAyhPv7Aqj5pdx/bIuA42gejoVYWN0jvVEkHm2nWrdxmQpDCfWmQ26/wWC3D/PC1SxTj0VQ6p8Q29b0RfysZcp43Qbdh7x0htzU6jY/LuTI5KpEOjzUGjYSS1zST4yHefnZQYZ72wgH3cwt5ogNWBRKTQxD4XUr1ncq9HZ5WV4r0BXyMNTj4Z1P0sjRU0mttebYeJg3X3yA2EA73DNyMMVynY++XOXc7F1MkKIIbXM38qzvLPHaC8OcfLLvoC1SqTZZWcvz2cVtUot7OJqKCVwGnhMRdvdaiDJwHIfZ6zusrBfpCLqxHc1uvs4vWyXSG2X2Si2UEgRSJtjvgxowDXlo+qnDxI54+eDzNOdTd9kv2SgF+u96AZQISgmgfxZHvysAo4lLEx3t5pnxEevpjTs132a2Bn993EFUgZQ4zpn011M//QloLWb5apNUnAAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://ssstik.io/es",
-        "text": "Descargar videos de TikTok sin marca de agua online - Tik Tok video download",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACPklEQVQ4jUXPvY/NaRjG8eu67+f5nTln3jDeNrFjRxDjJcEqNESn02xFpd1ssdtZrUKi4C/QqiREIhIKhXipREJB2EQhYYy3mYk5Z875Pc99baHwrT/Nlyf+WoQIJwNIAOGFzQg54AW50gt8iCymgtQqKRurWCWjv0PuUwYBFVBltGpo3UlaUarIsgRAbnJ1FnDmWG/HTq9VdAKIkCW+elEe3RtOdZgrHUgIMRSZqfL4yTw3n/AzAVy3kU/uDHNDAyJqkpFCbmHilw/aOqu1QdA4McXRUCEsfhRFl0Jygcf//pyL5ZHyEDNr5rQdv/qp083eg+nq5cHzByWbal8ZkpRESxW5RKpIwLCjhcW6+RfuP5zNuLqk/qfKYfzQLkDVcqUX5sKmsiyroX7sSkqZDrQDECJAyUKWCnJhR2y/4vc9zfqer66IBMl+P/Im2360WfqOLDFkQOoUNEK7FIfm87lLE29fl7evK8nlbzGzxU7/2Z2ds4v/xIcno8lxsCilYjmEasm5vBRzu9Pcbpe08i3+ONtZP+Mry9F0CISFBPnBff/6iOOO92/qs8d1dpdv3OIRmt5g3Z69fFGunF9deLo20xMqXPIje86lytxiqrHBl7h/d2Rdzh9IJG5fH127sOqf2ukeaoWFHEo5LLVoWkVgrIPc6uaV/sf/Sgs+vDHY1pWPQUUumYJAalp5AQIOqSpTmyb07NYapd8mVUMooGSSQRBTU6CAE6UqAaWiIXrjMGkYHIuoQpaKkEMB/A8pnVAJnHSJ9QAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://cdnjs.com/libraries/font-awesome",
-        "text": "font-awesome - Libraries - cdnjs - The #1 free and open source CDN built to make life easier for\n                    developers",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACL0lEQVQ4jbWTP2gTURzHv+/dFRt7kdMg2pI6uBRbdSi1acVSR4Wqi6ccIQGhUoeAU/e3dm+nCnJmuOTuhiIW7SQFQVtIsWCcpGIdXDS1Oc9Tkns/B5Oa9A8O4nf8/b7v8X6f3/cB/0GMBDgBrK1GxNFe2yv6mwEAEe3vIYADwHOjX/ucu2R9uDs60ewVi8Vri4uL1tzcnAYAQgje7HEAcAwoDJDr6fPJvsSx5bpkWYpk0DRFURTU6/VsT0/P8vz8fFIIIR3HUX7PBnAGyLeZobNHuzqfguPQVhhe6X9YWiOANd5L+Xx+UNO0ZwB++r5/NZvNvhFCcM4AuTE5PJY4EltlDNWKHw41DnMGEAASQvBMJrNWrVaHGGO+ruurtm2PCSEk+3hv5LLK1CeRpOXtytfMgFuuOAaUWy6iVkaGYSiu60azs7OJ7u7uR4qijBPRBGcR79U61K4fkSwPuOUKABgu5G7IjuNIAMjlcl9qtVo5Fot1SSl7QQB7Nzk67d8fp82piwsvrvfFAUA0ALdSn5mZiXuet7C0tESFQmEafxgBG5Opm50dHQ6A9a1v4Y2BfGmzFaJlWafi8fhjzvm5MAxvm6bp7ayRDCinH6x4299rFwg4eTx++PX7OyOpJkTbtlO6rq8DOBEEwbBpmp5hGMrOBcxFRAaUM9ZK6ZMfDiqcvWIqJXfCwnlSVdWXQRAMptPpkuM4iuu6bZCxe+6D1JrCfUWNcO2pE7ED/8G/6Beaxe4UXMycaAAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://github.com/midudev/aprendiendo-react",
-        "text": "GitHub - midudev/aprendiendo-react: Curso para aprender React desde cero",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVQ4jY3SzW7NURQF8HVub/VDU0aiZiIRow5K0viIZ2Fk4CHEUBORiERDJB7AC6ADMRMjBkjMKB0i5cql+jPZl7+btrGTnfOx9zp7nb12kgQtZTiNVbzGdvkr3MZydjPM4Qa++mu/yke2iRXMdIGtwE/9vz3G1B/mRRme4AKeVbX3eFf757iIR5W7MgKfw09sYbXu9mEBs+WHMVWxm5U7wGI/yeUk/frRN0wk2WqtbXRaNECvYoMkE0lmklwK1qvTmzheVXpjyrTRGUfxpTAvUnTg7T/d3V2tyZJ1G597SYYVm08y2628A7gV9fkkLclkL8nHJJIcSrLUWoP+DuB+a02Sk0kWCrMe3Kth+Y4POLEHg2N4WfThTrBchyu4W/uHWOoAF/EAnyr+o6Q/NUq4hWF1+CrWcGSs8sgGtV7vSjRZ0/cG58e/gf3Y6DyyVsPW0tF3Dvc7SQc7DxwoysNiO7uXzmdwDdOdu+m6Ozue/xuzv0AUmOpFBgAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://turso.tech/app",
-        "text": "Turso App - Dashboard",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACy0lEQVQ4jY2STWicVRSGn/fe+81kZtLUhYqmnQq1q0ARlKBpi1rbakBRERs3JelQu3AlKIJY0A9cudGVQgRDTF3NWiUxWlG0m7agSBTBLJqZoKY0jVOnk/n57nHRTH92vvCuznnOgXNeAMpffza6Y/H00xgiTQOGqB71VKtbPupvrZW/mn1218LsQwBiejop7879aMFP1w9OfsL/UHlx9hVgsnaleCDsvH/gJb9922jWaHwwvDBTdgp7o/V+8UkYMbISgDLfjF23FJLeA5nTT5I13bahR8q6+mJw8FrsdAzT+975DrJhj28LleRyWzsjjqwZpbwzVmNUgU7XwF4PJi7RaqPCwD10u1gvi4KSxWjEaFsTJFEyiAR/n0sSrLUZJV1ytSemxs1pLF5rzYPaSoIjnwMzAddtJvI5lAQHasdrm1+aGFs5NPWMR6lrVF6tD02+UJSsTi/7yJx2CO4mmgDkXc/gXOx035JYk3Gmfnjqc9LUOUaWRJo6WdaNMbZWjhyfqz127GEzziqfk/I5YfZ97fFjY6tPVk7Ty9oma5OmjndAGELY8MLMPuf8KXLxzdi4c9kXrnyhXHgUgbW7Z7I7Np9zGwN7hL3Xxd7+63DlHIYcwgCaxfxvku3z+dJ5X1o/bth2JcEpBAc25DbyL4fB4nmM0c5g8vv102KuH45//kwa4GqgXIysOeyCtTrr1uqsY1xQZms4l5i0sj7/x799LtyI18REZouzywphxFvcs3KkchI4eSN938ydwvvMwTJpGm8fUK16JiYyyX4Fe97k3i0vfjoux7dEZOIg0fYTo0cs3cb0gwLY8HczZd/1Z12xsJPg6RcNIMuwZutiFPvrh6ZW+4y4KQF27/zMg0kh/7F1ei0cBzDA+EG5UMhamydWx0/83O/tQze19dK7qh8OJrt3xbBxec5Qz4qFSvfqRff3U280b4UB/gN1cUM0gQo/GgAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://app.tabnine.com/auth/success",
-        "text": "AI Code Completions for Developers & Teams | Tabnine",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC+UlEQVQ4jWVTXYhWVRRde59zz53vjo2JUWBNMMS8VRAElvowQj9EMMTIVFI6o0hWDIWTjslUnhiaCWdihI8eesg0C1LJiSxIeylUepkeetB6qbAfU2yij/m8373n3nN2D7cZR9xPex/W2mfvtVnAkhAICYQW6u8eauz49tHGoZOPzHUuvPX3H1VLObSEzAQKADC77u/Voc28llOIvOELqcGDmcHhFZe/n17/zfqy4gkAuvYbAJxf3eh2JuzhuLalSfmhNV8vHwSAz/saD2Q12ptHamWT/cQLBzpmrptgdtXFZNmdteFCUW9uxBRacWrkUhap3zIuxjYcX3EBAA5uTZ9sGRlJY/qzJPXq7v3xjwwA7Z3JsyVjQAhPz8dqOtPhbMPQRs/B+1h/9eFAc4/tP2cGDyRHz0cX1xaK/iqM1AGAAcAZrCwiPnHvmZt/EZblZcRJ30zHXO/xju2Z5k2ese62W7rO7H85fape787/NTSVm2p9BoBMw+dMiUDIxewLVSlkIXrz4fbZLR8se9wzJkqtdo2NpJ9qww87zflig1IDzgQhkDgFyQwIlczBwrJAaOjdZGbnO/H9wnzSK5pySmqLDXINFFF1kDwCnL52Xti9IJAAwOhoevt8G3W1VHnVRewBQANAEbF4IlgIO5OKFwEgdA6gY5a87RHt17rhQsk2QL5wET9fKNoGCFUTRMEUOpQWFBxBCsMMkBwD+fGR8glZ4856lh7HYfOkbRtuKfxURJIAJLrSQP1cGrX94EDzs9xIK0Dyt3bO3w3wvpLLW0sKk+NjyREAGNiX3VXGPFkAc4sr9B256ZOPN6Xea7I+Une4CJEKoatUdOrK1d+n6/XufHDw1za+Z9XuoLDRE768Aj1+nRcA4L3nJMlMa6hIopEm/GmbxBtgKbw40XrGa34lV/ij1PT6Ry+ZH24wk7XC1lZmGh2e6+Ra8kZm6L481v848u0Fq7ff36VPVGBh/I+9IawVXsiH3sweG5pwO3pspRUgBGt5Kf4/WxlQgIWXA3wAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://css-pattern.com/",
-        "text": "CSS Pattern: Fancy backgrounds with CSS gradients",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACd0lEQVQ4jcWST0iTcRzGv9/3fX23yTZ90zYdsw01Z3vNMCIlidBmUUpE8Q4lwjDr4KHIS1CHvcciIgg6RabpIRx16ZCWSNBFD4aUG1SXzGYza7PN992799+vQykGHewQPafn8uV5+HwfgP8t3OgFQaAAAKJRngCIRBRFjMViCADA8zwJBmMYDkdNUQSMBEcRw2Fj7ZjadKRA6D82uNrfV7GwlGqTNbO00F70yuMqmVlOJkJZOVebzxvzZ7tPpxp518lcetnLWG0ZO+d5VrRt5wMEADjX3RXOKsaQbhIrMQyZYVlCIX5QVbWWZdl5SVY8Ab/Ler69DnRgwWFjwOnyg9XbtJsWL/VULqZyYxqh3zo4V2uAwSumlU7mVL2nsNh9eWRooHNq/KGylSyGnOU1C+69py5y3upBzYQxG1c+QfN1vJDT8QRj29Izcu/O1IvZWb3jYEMinVW7crJ0fHtNYM+qovuqyh0BdSVRLC+926dLabez1D/N2JwxipCfHCgLo60BFW8MJnm/u8HGYsRmoUuePp88fPvxjAFc1TSCCd8+vun4Ep98JCXf99LHQk0ry2mpV1XyfHPrkfGb19skO+Nr+ZQxvCPDw/fnYvGBQ/sbzcTXTIu7uvFa89HOJ3kpU5dZmOMKHK7sOsRMTh82CFAMjd81zWAR0aAoGgFIUtX0yl013oIzR+ohrxFi5rNoKSojvvpQx/ob+/v6KlJytl3VSRnSlpechU6sKkqbZhhuE5nXtyIXPKikDiiyVMLaiz9zvh13rXb3xF8PSRgl7JonBJD55U34bcpRAgAgCMKGGQcxHg8TMYwqEUUKIhFARHOzwf9OPwAM/Ars4TTJgwAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://www.deepl.com/es/translator",
-        "text": "DeepL Translate - El mejor traductor del mundo",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACsklEQVQ4jW2TT0hUURTGv3PvnffeDNMUotjYTJlZmlEtWilRJBliS10VtAzJoHZBJbipRX8koiCqRRSBLVoVCGYhLdJF2aIg/+BkNTil9ofSnPfevfe0cKypPKsL53w/7vn4jsTfRQAEAAaA+OZ9R9yyqu3BbGa40BdYRoCipgWAVVtbdklJnVqbvcwMYn7KbE98f9M/VJiVAMy/AEQ37Eo7Xux03s8f9gONeMwzUggCCcGwYPDNcM4/m3/39C2KSACAeF1Te8Rx7wZG795SXcmtLbvtWOa9CI0mIcgCICK1Q0bUAae06uvSWgVAteuVlTwQQpYH/kJwq/uU7DjUKn7M/8Sj3gGoqLe0e0hCJADe6c/Yy8A3vQhI1Tiu67QT0YpQa+G5LvlhiHSynBrqd9Dw61G2lhGGWhAJBnjGd92r+J7VBQ8qvUTdxjEikbbWmlCHkkggoiQOtTajrWUPKspLcfPeQ3Pxeo9MxKMfvr4a3QRM5he/lkoSEREzg4hICgmtNebmF3DlRg+ePBvGxvVpVKWTxMyL5qeSBAAKAJDNMSfiVgjBfhByZWo1V62toPLSErTt34PjXZcwMPiCJz7kOOa5bC1bZHP8B5BKEkAOiKwxBudPddD+xgb0Dgzxsc5uTM18xmT2I0WUglLKMNsIUklCdrKQrOxgCHCOhJJsGQODL82LV6N88tw1jL/NwnUcikWjVioJCKUAfFrUFAXJW9+4zomqMyAcDLWFo4TW2gjHUUJrwyQkEQC29k6gbVd+/HHmvyQCwMrapn1QqouZ64kAa01AJBXYThjLR+dHHvUVz8uiNwEgfzYz4U+vvO2VxaYA3kYyUgJYwNiDcyP9fQXfeDlA0VHljD8z8Vwk1twXUnhgrrMSF4LpzJfCwfEyuv/qN3xFbXN9rKapYrmhX6ctKaY0v8N1AAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://futbollibre.nu/",
-        "text": "Futbol libre TV ⚽ | Canales para ver Fútbol En VIVO Online Gratis.",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAADAUlEQVQ4jQXBa2hTVwAA4PO6uTeP29wkN61ptcNq56xFRTS+OggOtZ0yEWR1CE5BBB9/fCCIqOALHwO7HyL+GYMJnbA/UxGpWq2KU+uDbbZZzWiTqE0lyU3M4yYn5+Qcvw8yVpMSSCkIVhBGmeLU2/S/6fIkBNB0h9qDnUE9JOqCCw4BhBASAKCQdZWon6q5P9/8+iL5wKpkarwKAHBgzXAGwq2RDfO3e1Uf5RRDDCmlClZSxUTf0OG49RYCaKhmk3c6ACBdnrTrBVqj072z9kfOhvQvWJ1BxliFlU4N7EnkYrpqbFz0Y0fD0oCnSdf1dCn1y62fR+y/gKM+zTXj6NrLTsWDCCE3R65OWFHD5d/99fEF6qqTR85s27Z1YGAg6Aot1L5JXC85iSeRj90YuUoIQbly9lnivqI4vPkZ8wMrzl08PfTwwfDw83h8QkCx9rvVO9btTzzM6br+LH4vV86S8exooWbxkuwMLEea7On5Njoa7eiYF4lEgARc8N4t3xut2s3slRzPTGSjJFOeYoK6cUN4wQoh5bJly/v7r5mmWS6XbNsmhFiWNatljvuTUaD5TDmFEESc84BpBhuDGGFFUXw+n23bbrdncPBed/eany6cBxBIKQAAECLS5GlxYK3AspO5ZN+FPq/fe+DAQUIIpdVrv/cn3yXdmvuDFS/yvIq1Jk8LmWnObfQ0J/P/P0/dHf3nvyevhnx+3+bNP1Tsyuwv22PjsS29W8eqL4o032rMnml+RXTN29XW89tw38up+0t6FyGMHEh1qk5G2c7tu7oj61Na9PXEIyllV1uPrhmQ1RiX7PzgvjeTw6bR2GGE57rDTtCQSWeS2XHbPzVWelmqFuaFFh9adZFABVJKMSaFqnXp8bG/3z9FGLocuipdtl3hpCoQl0J2Nof3dp1o0Pz1OoeMMSEEwYQLdmfsj8fjtz8WPzBBEUYKcgRdzSvbutfM2USQwuscIQQZY1JKACSEiBBSqdnJXCxdSgEpg3pzq6/d6XBxzoUUCCIAwGfC4XWgzCiiGAAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://jsfiddle.net/TradingView/tvmhoLr8/",
-        "text": "Floating tooltip - JSFiddle - Code Playground",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACi0lEQVQ4jY2TTUhUYRSG3/PdO3d+nL8mdcYxpDYV5iaCaleQLYIWQozYRmjhIolqpsxMokv0I5UzIYIQlIEJZQQFRhAtDGtRUG3btCruDOSMM/dajnPnfqeFjQqB+a4+zsdzeDnnPYT1pLMAINAKBgB0QgLE6zL/1XLTFalr3oTElAASwFNyACCWKR0REvtY0zRh23lmdco4R98BppoTWmZXCwCwaagQ8rpdYwy2CXgLoeQheQfAhxn0MJv0T9YYqkGBO2Z9HckEgSyQ6CBHzhh9odG1dqO3rUZFxaSs2ndzfZGXgC5o+aO4TVGVMQJmwdzCJOaNpP8iEqwsW/okEN9D0KlSP2xu1wjDhhk4Bp1sAEBzxrocS1u9G51jc9qcCN9c3LoyRCbezVU5CgCxtHVA1dzdbC+ZC2XnamkgPN80bKaUgK/V+bX4MZsM3JNEcz539UQRuEJNafMSEcWNkj8V8RYaPZr6QEK7IajaBuZD0pGTQoi9rHkeC3tpUHL10W8PzfjK4j4gXwsCtRsV/wB0qrhd7jZAfM0lvTPG2cCow/hAiug3UsEL2VPaZ4edJ0TK/lJveN4UgZMEpZPiaXPaSAWPQtdFOHQm6GNlQkC8cQTvRBVfWLAtwF2AeAGSHTaJaz+L/nfQScbT5jTFM+ZsuWIfL/Rv/gEADbcWYpqLe6TkXNYKjEOnajRTbFeF6yBL55WRDL4HgLrrC9GQTz6jaLrUpRJ1s+IZLBesbwXkytB3VQBgS5q9ZXtOnetvsGobiIzkgy7WWhRHDknGFK1EVrh6wA5YwiFiFQCI4YCImVkBgZjJIbCAUBRUnXHjfPA5rY1xZCQf/H8KIiicJnP1BIB/LmxD+sv8AWPVHepeoPYgAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://makereal.tldraw.com/",
-        "text": "make real • tldraw",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABU0lEQVQ4jY2SMW7CQBBF3846pZUmLtK4oEOiS0mLkKg4BZdIQZVrcAEkRJEmEpIrIzpLLjiACysFJAWRK2JvCnYjYwxipa+VZv/M/Nk/CngBXgEfMIDi9nGcH+AN4MMGLyAiRkRa3yzePeARKIEKkHqrqqquqXDcJ7HJUoMGdBAEej6f69lspn3f1y5e47hc1lZOCRittQHMZDIx7oxGo/+RLPfX3rF3oc3KjqKI7XbL4XAgSZLmSKp+nymoQ2ttlFJtn+e4a2kqOPPLGIwxNz29KKDUSV2n0yFNU+I4JgiC+wuInELD4ZBer0e/32c8Hp+93SxQliUAi8WC5XIJwH6/v1+B67Tb7ciyjDzPWa1WKKVaF0uaP+yIYRjS7XYZDAYURVHPaTrCxi7G0dpzD442Z+MB33Y1W0e5YqUb/csDpsAD8GyrKrdhLTM72R7wCUz/AFWlq09Ba7fWAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://www.frontendmentor.io/home",
-        "text": "Frontend Mentor | Front-end coding challenges using a real-life workflow",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABLUlEQVQ4jZVSu07DQBDcWTtYQkoi8ShSgERBAx9AxR/wkTQ0/AgVkaJIGEEFCESIIEFJbOP4bijOPkdOQdhq96TZmZ05kJT/lDZmhyfpmz8AABrzRgwASiTZYNN1GSIyzfJRkrkXB3ZNCfAyWIEnP/nrPAWgqi+zJFkWDlMzuAXqFQNRoJ9ZfnX//DRLAoXnV3/rIsnjx7GqlgpFWkA3alnSrHhVM4RhcNN/m3ynAIyxubGdqHVx1Dvd6WjpQmWDtdYYQ/LuYXx5PUizpSHnRUGyMNats7ZssGqRqt4O34fx6OR4/6DX3tvdDsOAQoh4o+Avdlep4muaDuKPxSI/PzvstrespWodV80AgCK0VK3TJQWgCJqA1Yx9gMDaTxEJG7+oSrT20WfcZNiwfgEKdPhlbQ4xJAAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://www.dropzone.dev/",
-        "text": "Dropzone.js",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACd0lEQVQ4jW2TS2iVVxDHf3PveXzRpkI2AReKIDdpS0oDluKuIBgxGquChYAWuop00S4TxZ3SrVBsFXSl+EB8IGpswHYTkC5KSC2loYvGosu8fLQm98wcF9935YbmwDDncJj//P/zkPoRvRBNPvUGXksLBj6V3hn/emXWq0ysz1x++FDmaDvyzrDN+EyjFewNQuVXAZb3xWBy/N6kfN8CqEWDmCpTKBK5UG4WKvtdlt7QlN7YlANBuRWVDSHlM59/rKffMth40Ga80agyv3Amh367Lw9Y4xz8JO8Olq96lU6vjFyYlnOy5bMKQMnBZHBqXMa3D+SusGLfRpVd3shB8wNH7dj1RzL/xUd5MGTuBmXehK3SO2QzPtEIyu1ff6zt3z6Quzpe5ylvbGrTjjd50rlC/w+PZeGrD/KdoOwNykgtNqFQiCqXANb/Z6eisqlD+SkkaRRZGlHl5yKxOWdOAsTExagQlJ0uGoQEtSZ/AESVgWBQMxm58Yv8BfDlh/loNP70xi6AdcbvLoE3NruiWbWuxosSgHeDgjqetorXCdRTKQUgroDL5dvFSmPRLD+LBN6EjhW6gGdf9+Qev8zZai7GAXymL5QMnrjYhlxJwCvUlaffvJfbh2o2KieqJIe9glMmSgCD+nIFkJj2Sr+3txO45JTxYBwf+0cWvuvOQy6xxytzdeVaJUHwFYOzj2XHWkMEcKY773XGpaq1o4eXZNEVSUqKTbaN9uVXACzBhirIJ7rrmfeDciQo+3zZvtPDz+U8tBXRZ27xulqeGkhLu61aqAWXGBt+KedarFxMTHrD/W8bc7nSPvHKG38HZSLAlUMvZb5d1htBqS1sGnPM5QAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://hypercolor.dev/",
-        "text": "Gradients for Tailwind CSS | Hypercolor",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABkUlEQVQ4jW2SsYoUQRRF76mumemZ3hkDNZM1MzAxEUQ0FDMNRdDYSFjwF4xFFPwCxcxMUz9BE0PxAwRhx+2etre76xr04PaOW9Er6p333n11+Xn3tVyhCm+sbSBXmtTsHVP8oWi011A0Qxw1PrZl2ZLY3iybUUocZwsIGQ7qLJuQkWXAUOI0YBmc7LKEmjmA69KqwiyOmbAFEE5M4vTOrcnN607JqY/Xbkxv39NsrpQEu4D7RJEvnz9bHDxBkPr88dPi4GVYnlfX/gNORtLQt25cVmm9JlurPFJKdtJopBPRWCKo6+L+peWrF9BmV66q7xSC9L9oZBnJKYVFHi/vi0Q+H+1nR4MF2EmTSfv9x+GDR4cP73ffvihGpTT8ym4H2QCLnNWSfEbIKVaEjBBsnyU6BNfN5s07H/0ykMXm0/v264VUrcmi3J0FNG399gOqKYKyePz5o/IyXJxqlcmtd0dKJsC5FY7qfsumWFJMCZutayROeWmwW9/LvQBw36vvZDMscdd8kgAxPEva1mRsVv0F623JSiSvna4AAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://excalidraw.com/",
-        "text": "Excalidraw",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC3klEQVQ4jVWTTWucZRSGr/O8k5lI00knU5tEqogUrFA/QEWkLqSNlkhB3NQ02bSiP6OgGxeuxJUatQRpKP6AEosIxa+6SUXbtE2MJVE6mabppJnMTMb3fc7tYiahnsU5cM59b27OBYCUnZB83t09Rnd3dZskSR5dMcoldTetZSkbY9ucpmq12/pfxdjRd2anssy9uvJv/OP3lhoNbWVqTZjU/nt5Kdn/5eQ/cWioJzz6WMFefGm3BgfzFqNIEqO60ubit+u6tdiytbWo9fXMz3zwRHLggFdzkN+/u5iqsRnDLz817dfLQT9cum+n3xvk4MFdbG5mfPF5lWtXG1Yq9ShN3fr6kpDLRUHvYJBQsZhYuZxYoTenYjGxajVl6qsqzWZk5kKN63NNDr9S5MOPHreBco/yBWxgIGeAgiSSJHDomT41m5nFCMHg6EiJK7ObXP55g96Csbqa8uOl+6zXUjv0dJ+KxRyoozV3MfJ6yY6NlqjVUo6NlhgeznNx5h71eiRfSKhUUr6eqlIu5zgy0m+ScLmZu0uCEMAdrl1tADBzocafCy1CMEIwGpuRJ596iFPvDDL8SAF3YQY5MwNEJ/HA0FCe6XN3+GvxQXPGy4eLjI0/TP+eHmIUIQizQJDEdg4rlTbT51aZv9ECDIBGIzJ6fIDnX+jjk49vs7DQJEkMCSQRAIUQWLub6pvzq9yYa+IOAFnqnBjby7PP7WLqbJX5my3OTla5u5oqhACgYGbcW0uZ/Kxi1+e21NlDFp2xiX28cbzM8lKbej1SLCZUq6kmP63YxkYGQJCg0BtU7M+p1cosRlOaOifH93H0tRIxileP7OHNt/aCmQzZ7Uqq+kaUmRmSFru/n52fvuPvnrqp77+reef3o2KMOwxdma3r/TO39NtsPZMkdy0h6W1JW9sMLS9tueRy9x2gunhKkprNGLvatqTxLpE6KWlBUuwYtnH2BwF19537oqQJgP8AVn8/tK5RceQAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://iconos8.es/",
-        "text": "Iconos Gratis, Ilustraciones Clipart, Fotos y Música",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACVElEQVQ4jXWTP4iUVxTFf/e+9zmzM+uaaAgxmtkEEysLwUJLDQkkkELEBLFKJ1iEFHbWdhaprK1sAsYiQkAQBRsLO//ARrbQYEIQMevszLd+791jMeuGxPVUr7jvXs65v2ujK4eP2xY/p057QA5gmLGJhDR7WbXGl8vLejYD53FblGokTyTc/v0AVZVkjmFUhQUhKdzc9yY4nzHbpTYiudtqN7VptDJhAtyMbc1WVroxXRTmm4H63rOwQG0E2EfZILsZ427K5x8c1KEd+202NTGtLReXf+Ho7i/4eLiLq09u2r2V3zXnfQsLA5SF5JZstU505P2DdurTExuea1T2DEd8t/g1AN9/cozjt36wBy8equd9E4EbZpJw3MZlSheFSWnpohAKvh19RYnKtLRs723jmw8PM+4mtp6LzVJfDz2Z03im8UTjmbXo+Kt9SvZE4w0AjyZ/ki2j9YX45uuaaS3W+PHOOe4+X8IxLixd4vIf11ho5qmKtzd4U5ti8fYGr8t73uOnA2fZ985nBOL03pMc2/0lK92YNHNPBjb8VAVdFLqogNHzhmH/PUpUuujInhgNdlJUZrkJXEhmRhCaz3M0nhnkPo1n3JyfH/1G9sRc7vNs7R9+fXKD+WagqkBIGSAUDNPArv99W5PSWihwc9p4ycXly9x6euc1SNx/8XAGEoFhZqMrRyqAO7batZuiPC6T/6JMCJkwIoMeWz8t1rbEsJljgeEbx/TuloX/HZPk/eS09bFX6hlCS2YeoaBTUVGlqFJVN8ItqgShGXguQksFzrwCX2pBllP84hoAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://heroicons.com/",
-        "text": "Heroicons",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACs0lEQVQ4jX2TzWtdZRDGfzPvuffk3N7EEASXjWBRzELFnWLpQl2KIEeTtkiVuhFdmaalJHDod9JmI4qgFESbtunxIysFiVLwD9CNCkIUFEGsVmnvx7nnnPcdF9eLUaqznI9nnplnRgAyTL9KkZlrV4Wre0KGBIDV/eWqmdXza/FhADC5kqI5MJNjGRKEW9ipfYN7I/HHdjSTpwB6ZXG5qAaLS+uTW//OFYAzs72HVHTClGkntlu1MZc0HDf6vfMCNtFqHewUJSH4DRH5qA7yoznrHr2QfC7L+4u7xcIXrWaSiEJdQ+3rTzBWXllrfApwbq5+UiJeFOGxscgRgO6gXyB6f2Tmd8dRnPSr4rx5+5iQfLmw3tgazQwwf0k2gI3j6R93hmbzQY88HkfxC2VZPqIOdjp1FpCzC5da7y+syxZAlpmCGIilqTmApXzy+/m11ntlWa06UROxu9RMp0IA3y8lTc1lmA4BhkoA5Ln4kVojMB/ARG5Tk3BdBZqRG89z8RnYrZQZAmB5Lj5puLZTEPhNFf1aFAlOZwBS0P8CGMWCcJ8oEoxv1Er/2aCqCsOeBZj5HwajmAVLB1XVrzt+E4DlfZ233zhodurp3sPDTsM5/9l96Ds2233gtee8reztXoER3dqWq7rux7G8laXWzhE/WhZAtseiHPELT1wb39HQd4NZGbRx8q9LzBSycGbu5stT7farN4rBZlF0Dizmt/+0ncHJuc4dceQuTIyNPfrrze6ho5fb58BEAAwTQWxlb39xsj12vFv4H6q6nJ+ukg82v0N33VM847Rxop24ndc7xdKRi8mJ4ZGJbXumoeP0bPf5uNk8mzSjqU6v/y2CjCfJrl7pfy7r4vCRi+13RrmMnulvnU0zJJye/X3aueQlJBxQ0SoEe7PXq1/PPhz/ZXsxwJ9WR0F/KAphiwAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://flukeout.github.io/",
-        "text": "CSS Diner - Where we feast on CSS Selectors!",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACf0lEQVQ4jXVTQUtUYRQ93/feNDM4C1eKmIZkIxRYVmaYUpFIBRqUmbkM2vYDxo2rfkELQ4RAWiRRogujVRHiIsRFhOGMDfR0tCmHccYZ3/N933da6Mig01ndezjnwuXeAxwBSUnSqsCLSrxdLgAAIYQBAO7uNkKIKCxY0EgKIVYA6JJWCEEcNQMAfb+HSr10yaTiPjTpUO1NUnn3j3lKBck6GvOeJdO6w+LCZxa+zlPltks0jfK/0MufO/Qe7FZjtP5GkoX4iko/uusXrjdp98mgcYdvm1zXSb0Ze+a7+bx/MGeD5NnDFbRSkyRZTKVc50rU+K1hsucUOdRFPmgnb9TRPQOTHLhpvN1d72DIAsmAJNkiwQEAJjf9OlCdjQu7sRFGaXB9BfzzC1oGEGyJiurFT8h9mAkAMACuaq3v2AA6YNlBANC+ByUlAQppSSAQAihgGQOQYMiCv/aTACQBWpZ1QSYSCWO0BgAEb/UjsXMCG2t/sQ0LRS1RNAI52NjcyiOZVrDaOgESgoTrusaKRCLqWlfXU9u2ZaimVhabW7A59xE5Z01k8zvIZPPI/N5CJrvHYOw5Gh4OSwswBOTs7OwLAQCJePzN6ebmQRjjGSmDKcdBdm6a6vsi4LkQTVFEevtR33ZZhIzxIWUglUotjYyMdIKkiMVidY7jLJMklTKapEcyR3KbZJGkIkl//4qZTCY9NjZ2vnRFAQBDQ/caVn4sz3iex//BGEPHcebHx8dbD1/66G+/mpjovdje/jgcDl+qqqqql1LKQqGQ9jxvaXV19W1fX987AOZYHgAIkrKsP9HR0VHb3d1dByBcLhwdHS3XVYyzXYG3pqamjsX5H7oY3kZrRQsPAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://javascript.info/",
-        "text": "The Modern JavaScript Tutorial",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACNklEQVQ4jXWRz0tUcRTFP/f75ocz46jje4MyajMDVrvERcsoIQspIimEfmBBqxa1CtwKLtoE9Q+UEEEwLloYouhzsnBVu6KdoERRKT5NTGfmvfdt4YzN6Hg2X+653PO99xzYgwAy3dLRMxlPWVXcIbwzu07Pkmiu1Kr8akBTLPyOhsMvFpLp3jJXgQDYVvqJr9WZ8zh/Rv/P7qFC2InMfdvKLudJNubAmIIwwJyZeWgnM0tTtDblwKgZzkGourbNzIjdkh6s6kdsK/N03kqdrHCfIAiIAEzGU1Y0GLjdoAJdRa803ud8+zJDWyxkRvoN4dS2u/tyYOPnMsCseexBWFS24JNz1pc/7huVb+rsllDwhgsXxC+MgNGIEZgII6sF9NLf3cKtaDj4GBFTXP38vbMyMwruIadnaIsBBKzIIxG542veKGF4bXWjO5GAfsfZrJcOgOgqZ/OxZHs+mV3/2n5c22Z2rJ7hUBuFFvB1OTIdjpg+fP/luYtK6c7qwVHw6wkAMFTmNOq6QhIlT094yOU8ycbqwSMFJsADwOBiGPlsKK5ERUwvETl3cP16AgIwF+84AfRs+e6iIKsGOCg1SB3UCOQqdTA4EBMjGlVqTLT/YdP1nonItXFoOHhGjcBQeX1R3Nzx/bdFn2GlVK+h5GpISXO6NXO23hk16+db2jMLyayeTqQvVRr5eMqat7Irc1b2FYA+KkaAHZftouffKzmlfA4MDapv68ea7/p3lee/Lv+0f8Y/DVK5xDA8WfkAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://uicolors.app/create",
-        "text": "uicolors.app/create",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABuklEQVQ4jY2Sv2tTcRTFP/f7ffWVOphQkpeYUpJGaYoFJ0U6lOwugj8IlRYpbk4OLrqIg10FFxfXDv0bSsFJWi0K/uibbSxiuvQ1eRliv9fBvhhDbXKnL5x7Duee75Fqtep9+xHfccJjgQpgOX2OFEKjPJ/Mja1ZM5qtqfBCoAiYAWQAI5BFmI+anV2byhRWgdIQxP45izDt8cc2AKqKqiIiiAgAzjkQQY7xXgyo2HSm8CxZvDQzzeLCberf9zg4iPB9n8WFW0ycz9Nut7l/7y5RdMjPxn4iYro3O6eUp4osL9UIgizOKWdGRrh54zrV+TmCIMvyUo3yVBHn9G8gAy/V0+EBAgPY/xVQBXQIeq+AQBzHWGuZKORRhfF0mlTqHIfNFurciQJe8rDG8OlLyOevIY8ePmDu2hUulEuM+j7rG29QPdmPTWcKTwFEhFYr5t32RwDyuYB6fY+Xr17zdnMbz/NQYOv9Bxr73W9ESjNXO71O3LFVay3OOZxTrDVdrK9IvwwQ/hOKMRhjuq1LyAnWQwYIjSgrQGOIwPunIcqKvTx7cSdqdnZVqAiMD1GuI4UdozyZzI2t/QbB+Zf+IzjRDQAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://hugeicons.com/",
-        "text": "Hugeicons Pro | 27,000+ Beautiful Icons",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACM0lEQVQ4jWWTu0+UURDFf2e+u+yC4MciWTFLNFEiRgqhsFAbX4UmJiaaWPAvWNv4BxgrE0srY2OiRDtNiKUNPqKYYGOwgIgmvGSVl8Desfg+lkUnuc25c86dM3NH7/1BYWFu9WJiGo7iQKx7gTwEQMQBsBz0TUkzZjwN5dpoWFhYGXb5/XpU6hLCcW2TATcQyH0HjE50rm7MpzcN55ZQyjZpFxkcEBnZt2EJUOrRbwecPm9iCHAXq8trzM+uEGOd7koH7XtLSJbnZFIyjgQXReWwcNydLxPfefHsI6W2FszE79oal68NMTBYRVheouNQDHhWkvJia4srvHw+zpXrQ/QN9OCIqck5Rh6O0V1pZ3+1c5fFsO3ZPfLp3TRvXk+yuLDMxIdpPo9/y7y72NjaYuTRGGfOH2Pw5CEsyWSCPJcioSNtZfztFOtrG8xMLdIc7k5LMXD20gBKABcSmDda71R7y+xNixkhZv1wdzxm4yiVChw+WkF5PjiW8bPuW8HorqTZndiZm7JT7tpDCLaDN75XDiSJ0dPbSWOszX8Cp/dgFxbCLmvmTSlJYpw+109PtYskERaEJcISo9JT5tSFfgphJx8Hjc7eW0fkxgVEakvr/FpapV73XFh0pG2knSVkzTXpT3Dnq8TxfFHARVpuIy238n8IGjshBJMWTHdwao1eiH+610TGIdsDzH1J0t2QdNee+M90KUZuOF7FVUAx28L8nUw34hhm2oT4I7oet+w78eovOPfdkTA4ebAAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://sonner.emilkowal.ski/",
-        "text": "Sonner",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABTklEQVQ4jZ2TzYrqQBCFv0pMhJCFuslC1JVPct9k7nPNe2UhiEHwh9BCBENip2tWCROTGa73wIGmqrr69KluKcvyj4h8AhveQ6aqH1KW5QFYv7m5xUEej4f+52YAJs45RKQXVFUulwu32w2A+XxOkiSjdXK/3/U1kWUZzjmWyyUAx+MRz/PYbDaDBp6q4pzraK0lz3NWqxW+7+P7Puv1mjzPsdbinNO2VlWZqPYtqOu6k/o953kedV0znU57cgceVFWFiPDaWESoqoowDIdX+E5jDFEU8RqPoghjzCA+aRcAz+eT/X7PdrvFGNNTEIYhu92OJEkIgqBT2fOgKAriOOZ0Oo2NnDiOKYqCxWLRHSrX63UwRgBrbfcOZrMZQRAMakY9aOmcI01T0jQdzbeU8/k8quBf0HpwUNV3f2KLzGua5q+qZr/J/IGHpmk+vgC0CDl37gvQKQAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://unsplash.com/es",
-        "text": "Hermosas imágenes y fotos gratuitas | Unsplash",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAu0lEQVQ4ja2SsQ7CMAxEnyHAQiu+lY2JP+BPGUAMFErN4lZJ6kCQOMlqc72eznZgjga4AAoMVmpck4sXjsFPCA6nwNNKjZPs/BGtCb1qaxLcgQOwyRJ09i2BOCYKvArplvZPYlAlLBkLcMy4DjgBj4xfA3trbeb8dVil4QZbz2gkwLWwLgXOkZFgA1yZYLCLFYDeMegj/ahNNiDRc+dsZ5tpppcxrkbnm9OGRCZTC1J7PUuIY2ql4X8TvAEKgz4r0Ji00AAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://satid.sat.gob.mx/",
-        "text": "SAT ID",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC2ElEQVQ4jW2TTWhcZRSGn/N9d+69M0MnyTSZ5gfGgraCiqJNWhQXtbZB1FZwZenGlairLiYBLYQREcQMNCBEwY0b6a6CuqlCiaGIaYo/FWpqN1IwTtNkIjFzJ3Pv3O+4yBg0+q7fczg/7yP8S1UDVQfA2HuDmV4GAZKEOnOT9f94AGG3jp0/RpB7XdDDGkUDpA7JBXfVpVeJW7PMv3H5n/ZuAxUQ5ZnZaWy2AkDzTx66r4g18OPPdQgD0A50khpzkxN/TyI7xeOz0+T2ViTe6Gi0xdTLh80D+4uocyzdXuOtj+acBBa1oUe7WWP+zQlQMSDK8fePEvZUJIkS3eqYQw+O2Efu7ZeXpr4wp6c+M4cOlOTh+4ettmIjSZRgbIUn3z4KogYAP38W46sYERLk4FBB568vC+ttZTPRi1/fkp5cRklVwAmgiJ4F8Djyzj5sZhSXgBGDEc3nfXlurKyyFYsXGLKhp0u3VwUrinMGbYPqKE9USx7Z3BBii6Ai4gGWg+WinBgrc2KsvHPsvkLAtws3MX5AmiYCFCEd9gAwBlRRFHyf1t11bnx4gUajiTrHwFCRzU4fWEFdCi7d/l8CHq3od/pMA2OHVWMlDGnW1/j1yiXqjZa4TofonpK2Hz8ORlRdDJqCSoN2uOyxcO4Opy5cI1s4ZVJcutGyI6OP6bPnxg0bze0Finvll4vfO5pXxPRk0hSxqLvG9erK9grx5gxB4QVnfCVM9csf7kipv1ebCYI68ukNvXT5G4EtdXGiiC/YYKabxG6QTn4yTWGkgut0SBTWl42Jf0NXfkKXl6C35OgpQWaPh+fXWJyZALpBomr4/MwE0WqNtSXP3vzYs1ffNa88+od57fkDxmbE2HzWQ52HmBqL5ycB02Vgl8pPPU0cvRqGwZEXT473t5OUT79aXHXBngXCfR/w3cz/wbQL56oa5qZLrNwaJEpgYH+dxWoXZwywg/NfxCE9XxYu+NAAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://sqlbolt.com/",
-        "text": "SQLBolt - Learn SQL - Introduction to SQL",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADVElEQVQ4jW2T309bdRjGn+/3HA79ddrSdnTrNlpAByubMlkNaRsVidlMnCYmizGamJj5DxijV0u88MYLL/TKxBlvvNBolpmRRqewLWGDUYYOLsbGKEVoT2kp9HcL55zv6xXIxd7r5/0kz5N8GJ5+bsB7WO1w+SSJy/VGo6w3SjmgoR3IMADEDn4d63nhbZ/H+W5X8Oigz+P2WqwWlQGSbhiNUqW2ncloq1ktnxCMflh9eF/bo7DPAXYtMvJtLBr56K0Lo+gOHoXDYYcsSwQARMSazRbyhS3cmZrD1Wt/pPObuXOLD2YeSwAw23F8IB6LXPnmq8um3+81hRDMMAza3dXZ7q4OXTfAOSeXUxWvvRoVnEuemzenK9vF7IQMAF29IVsmuyF+v3Gbx2NnudOpkjBNTgCREIxxDkmSyDRNPr+waNyZmhU2h00GABkAWtWacAe7cD0xzn4b+0uc7H+GBY50ktPpAOecmq0dFApFtrSUpnq9gTZFYRaLQvuAtTWNnT83wr784lOauDXFHj1ewfzCIgMEZM6hmwKq00lnBsMMMJnV5mCTd5PYB3R39+DJ8iqSswtsdCRGr58fgcxM/Jlcw08TaXx8MYyT3V4I4vjl6hhu3b4HpU1h+4BicRPR4efxaCmF6eQ/6Oz04VRfF8YmK1jP1eBoJ0xOz2Nubh6qakffiR5Mz/wNAOAA0NSbkDjHhx9cpDffGIXP40b63xyWiwr8vYO4/F0S+bKB4chpCGHCZm2HYRgEABIA9PWfDgjCJSEE7wkdp8jQALO6DiFbs6BU2oLCDXzy/ouwWGzQcgWavHufbxZKk1omNS4DwPJylsdjEQoc8dPPvyaY3WYhAc6jQS+5raeg6Ca78v2PYrtm4pDXjXj0rJiZffD/iJxjp1ptSK+8NGzGokOUWlnj1XKFtqpNlk+n6b2X/dRqDSEUPEZjiRtGoVCzAJztVWDPDfQWi+VWOJMtDHg6XDwQ8LP+Z0MCiovcjnaKnwkJVXVKW6UyX0ln5euJ8WKlUv6ssLGe25cpHA4rLcN+yX/Y904oFDjhsNs9qsOmKG0yKtWGaDSb1ayW1zKZjfHmjv516uG9pT2ZnmZz0O1zh5is2E0TYG3CKJdbGurrKQD1gzr/B4F9gjRLKgHfAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://plus.undraw.co/spotlight",
-        "text": "Spotlights | unDraw Plus",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACiklEQVQ4jW2TT0gbeRTHv+O/NGYyEpmwbGGDIIJB0EsEj17a0kOFXjz0UG979bqHvfTSm/RSepBFLatpKVhiaC/FeBAPAUdI1JMSRCshmw1RR2cCu8x+9rA6pNl+4Xt5vM/vPd77PalNQB/wAFgFzoC/gL+Br8B74DEQaWeMNvgHSb8AzxuNxuDZ2Zlc15UkWZalVCol27YvDcNYk/TSMIxq+MAt/Mb3/afFYtHwfV+pVEqJREKSdHFxodPTU8ViMU1NTam/v/+zpJ8Nw6gK6AVeeZ5HLpejXC4TBAGdCoKAcrlMLpfD8zyAN0BEwEOgUSgUKJVKIdBqtdjb22Nzc5Pz8/MwXiqVKBQKABfAjIDVer1OPp8PK7uuy/z8PIlEgkgkwsTExB1EEATk83nq9TrAuoBTx3G+qb62tkZfXx+SQk9PT3N1dRV24TgOwB89kn68vr7W8PBwuJrt7W2l02mNjY2pu7tbAwMDKhaLqtVqsixLg4ODqlQqkpTsUYdubm60v7+v0dFRraysqLe3V5VKRXNzcwqCoDNdXZJq8XhczWbzv0BXl9LptFzX1fr6uo6OjrS4uCjLsmTbtiSp2WwqHo9LUkPAu84hep7Hzs4OMzMzzM7Oks1muby8/N4QN3ok/Z5MJh+ZppnY2trS4eGhjo+Ptbu7K8dxBKharapWq2lyclKmaSoWiymZTLqS3t79/9etVouFhQVM0/xm+u0eGRkhm83i+z7Ab0D07g7uA59832d5eZlMJkM0Gg3BaDRKJpNhaWnpDv4C/NR5TPcl/SrpWaPRGDg4ONDJyYkkaWhoSOPj47Jt+1rSB0kvDMP4+r+VAPeAJ8BHoA78c+s/gQ3gadj2rf4FdVcWzBULMAcAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://metatags.io/?url=https%3A%2F%2Fmetatags.io%2F",
-        "text": "Meta Tags — Preview, Edit and Generate",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACNElEQVQ4jY2Tz2/VVRDFP2fu/b7X1oJWYlixwygkDcY/wOge48atf4E7dG9JDCv1DzDxLzDYBEgIG7pw46oNNDZpE39EjYbQCIpA2/fuHBf3QaVsnOXce+bMnDMjgLMrk4+p5YJbngQDSCD+E+4PBqESd5i2L7ZWhs/0+kq7UEbxuVtSyEQS9jPgpyEZ240IlaAd5Ec6c3GyG1GW9g6aH+67zH4ajhY5zL0wVpsbFWW2ezXgxP5B8+lX0PnlICSnLSmegdtWKJy2rm06frjbGFdO1Aj8z37q3eXCh28XOos4IgFPtIFANH16vTE/CtdeXRDhabMmzQwlcAfM2CENIRjVroW70FSMJHCmSgRGlNLHTXfmMlNmbwJXbje+2UgdH4uWqD6ntE1LUWTKTIZf/zRXN83ljeTHuzAUGGonqE9alHqihIjoue9+MqsbyY0t88ffcPI4jKoIzcYTVOmpvZQI7j9Kbm6br9eT9V/g4QG8vABffVB461Wxtp18ctXsTU2RqM14cSxd2bT/ety0tmN27pgiODYnHk/M+28G55eDlua9c4Vbv8lffjvV0qJc072tn3fR97/bC4P14rxmxpmWxj4q0+GSVRlZeFRhbkDpcDq7T4hjc7B6K3njFLzzWvHadmr1tr04H2RDOnNxsqsoS5nNAWVGZvXdRcA0Tab80gK6/8hIasNQ5Gz3wo5LKgopik3qcBVRb5caYlzRg308qsphiKKijv0/5+zuswX2kXP+F+K3Mz4JwG8iAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://uiball.com/ldrs/",
-        "text": "LDRS — UI Ball",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACZ0lEQVQ4jWXTTWjcVRQF8N/9z2SUiCEmqPixUbqRUlAEcdFUipIqbRFBEkGLVDCVuNOFQkXFFHGhrV+4CyKohQSxfhWVSurM1JiC7UJSkVZULLpKoNFazMz8r4uZlhrP6vLuPe+cdzkvnEdmIaKUb1/KujFylOJGMsifcIA3PhSznQuzKLrkmUqXPHc36+sUu4kO5QHyS4oqlfd58gdZv7M7O1PpKT/fu6T+qFwo5ZFz8tCwi5Fz18v6H/KbF2TzjGzs7LmO6BbNe8gZ3Eq+QpwTI2Ny4QbaJeUUEWLjDtnYSHxGbhUjzUJ+0k/uo1bF7fz1CDbJheOsNijnuWIH5VEQI03KDzAtM6oMPoCztHdS2cfQBK1V4l0qH9EKzm6hOiXnByi3EYN0rmR+lGx+Kusv9vZRlUdS1h+zFtl4Qh5PWX+ot7O9sjEdsjFH3xCtRSoDtDfw9y2snOFEdtnP4fBVVL6jeohWm9pttH4piBaWye9xCn20iv/KzwaXt8kkB4haNx9qVcoV/jlJ8R7l0wxeQ3Gv2D695gnjXHYdSyNiy8+y/haGQjbuI/aTp4iDxDG8RLGHzkGqBZ1xykn6j7K6Da/THiefCrlYY/kk5V5xx2s9tSmGn2Hp167tvqDdz1fXMnoTWaf8nRM3F2L9KjlB9WXZHOkZvp/lZ4mPsZ8v1pGn2fwO0U8kOSl2tS6KcmNSNv6U374qG6d7Z3tk4/Fu/fUGuZByvi2bD6+J8kxFjHVkfSuXvElnmPY0NhHLxI9U76JviZXdYvPh85z4/3ee6OPBMWI7cXWv+xvxOYuzYlfrgiD+BdiDHZinOCrKAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://daisyui.com/components/badge/",
-        "text": "Tailwind Badge Component — Tailwind CSS Components ( version 4 update is here )",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB3ElEQVQ4ja2SvW4TURCFz9xd/8SWhYVQSBCVKagREQUiDRVdqg0FkRBCkBblJSweIAUCv0CooKCkMVBZMqkSpCgSQrCJxcZL8M+u9957KGLLG3kTKBhpmtE3586cuUBGkFT/UgMAN6soIrbT+X4jp3J3AGAQJx9EpJ3FzvQCQBiGdaO15jiMTnQYhvU0c+bYQRA8JUlDkn4zpt+MzVgoCIIn560Dz/OcaNDfJmnsTiOxm6DdBO1OIyFpokHvs+d5TrrnlNLKynLZzbmXAIjsvlICUADKbkMBEMdx5tfW7pXOFNjbO+oZozsALGv3LQwEFsJrqxaAtbSH7fa3/t882Eh5kPDw42jiQbfbfXauByQFgPp5HD6Pk9HkCIyTEY96x/UUc/psmWJb769jqbYMAGjtN2X17pcsbkbg6qetOeeCfeyPBpVRHA0BIF8ozi3mS7+//vrRwO2NYZqf/kRSAEGyHb9k9eKD+agA5Z5czGoDXcxjQV++dUA8BAiIcHaC1ovSYq58IK5boNZaRNR4byuu61Kb2E96C1haH0xapm4SgpvrQ1DeqmolL5VySSrl4jhLqlrJg3xzwkwfnq4gIAD4rd6jK6F6R0HNJIYAoHKO2GG07+v+6wn33+IPPvoeeQf2jywAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://watercss.kognise.dev/",
-        "text": "Water.css",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB0ElEQVQ4jZ2TP2tTYRTGf897/wUdxAiXfAY/Qxx0EOrSoeCkdawITk79AnbpGNC10UWcbME/S4UmTg4OVnAoOgRpDHqbWotJbt57HJq0sUZofeCFFw6/5/BwzhETMrMky7LLQRDMm9kloDIqtSU1vPf1crn8WlJ/zGj86XQ6lSiKFoGbwHmmawd4lOf5Upqm7UODEfwQmP0HeFzP8jy/naZp25lZPOp8UhhgNoqiRTOLlWXZjKTHQPkUBgCZmd1wzrn5/4ARlAPn5kMzq54SxIDdXPS9q4YTozqRBgWstUpstCN6XpXwuLvTQYfC/oad4O23iCefE/peSMgBh/PcH4qXX2LefQ+nGgwK2GjH9LxwAgdtJ6k5zrXWSnjw8QzLm2d504kJBIEOOoeC9zshH7ohbrR+5miGRVHUf+TuauNrXF5rJRiwl4uVrRKdnuPiuSGRMz7tBay2SvzMhQ4MstBTl5nFd9b98tZucDe3o90eJygFRiD4NRSFMYYR1C547jlJg81usOSNVU3k1ej1vdgfCuMPeDWC+0+va+AAGnPaLjwLghrQnTb7kbqCWuFZeDWn7WM1mHluSb/PFYNbKqhOnrM5moKVJGH9xbWjc/4NuLe7rK3MONMAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://boltcss.com/",
-        "text": "Bolt.css",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABIUlEQVQ4jaXTLUvDURQG8N/+bCJqUBgIygaC4AtG2cIMVk2CsKxV2Iew+gEEm0WEabCJRUQEX7DrkmUGYSgIFhe03Mm8/IeoT7vnOc89D+cl4zsGMY8ZLGAlxI9wgTvc4q0jyHSJ17CEB9zjES+BG8E4pjGBY+x2V65hG3k/Ix9ya51AAQfIRYl92MIONiO3uaApJKjgEu3og7lQ7TzY/+ji2kFTSVBCI8VqCaeYwl4K30ApQRWtlIRZPGMyTCBGC9UEY3iPyCGMYgBFHGI4ymljLBsemYjsRxYbuA5Ne01xAZoop8QzOMFVcBOjjGYW9R7zL2IR63hK4fOoJ7gJnY6xjDPs93A+FbQ9F2k17EIavhapE/jzKv/7mOLx/fqcPwH3oD42bOyqrQAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://tabler.io/icons",
-        "text": "Tabler Icons: 5200+ free vector icons for web design - Tabler: Free and Open-Source HTML Dashboard\n                    Template",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACdklEQVQ4jX2Tz2vcVRTFP+d+f3QmTaNEDXVQwiyaForiRqiYtBsXblxYNy4qEnclrvpjJfgXNLgQ7cqIILgTcelCiGkpiArqJrXQIsHSKAkm1Exnvt/vOy4mM6YiXrjwuO/de8859z6xb92l1dONs0XBCeQOZhpo71/3ENtYdw3rmZqP73xw5hsAAcyeX7uAWBYCeRT+DzNYGANc+vXDhWV1l1ZPJ8cqQEhVFsqaZJItSYCxR9kC3EgqbBNKZ6JxtgggqXpQpWJzd6B+nZSFZFsgDStJkgUqbFdINM4WQ/hESAzqlB3vTPjd17rqzrS1s1eThfB+ew35SbKBTMAot4Ogbsw7Z7tcemWWzy8+y0vPTLPbe7gIwIEjiE7YPDbkj7787g9VTWLmkZJPlk7ywtyj/NVv/oVEGqtspgNo2dAuMz67vsnZKz+xuTPgUBFcOXeMqXaOBEUe5CHi4QG18gNwAJMS4251Mlv3K/pVIjRE0S4zDrey8Zsc6ElM9gaJ1188yvIbxyjzYK/fcPnTW5xbOMrJpybpDRpaRXD9lx2+/nmbMg+S/SCX2AYmbfvV55+gzEP3/uyz9NFNfri9y3tvzjH35MQY6OFW5q9+3HIpJLSl2bev3Qhzql+ndLwzoZefe1xffPs7t+7tcaQ9ZHgoD0bi96tk25YUdrqRO7Ge8Kkyj2b9t73i+9t3fKSVMdXOlTzU5H7d7G8iZIEk1bbDxM1wxooEtotWGdXMVOkyDzfJBjlCzrN/XFJlUyCwWYmN9+fXsC8Ml8RFnRyGODDvkQcQxgUYEhc3rs6vjaf69PlrCxJv/f935q7Rus3KxtX5NYC/AdvnLXErheA8AAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://yesicon.app/?lang=es",
-        "text": "Yesicon - Iconos Vectoriales Gratuitos, de Código Abierto y de Alta Calidad Seleccionados",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADEElEQVQ4jSXSzWsdVRjA4d97zpmZe+dONIQkTYIkxi8qblp0UT+oNFC1qAjuFLpOV7rxD3Dnx0ZQEJEupIqC4EI3LZauClqobTdV2i40qSZgbpt4c++duTNnznld5A94do8oKoLo9efvLj1YzL4jGp9taQ9HdF4UBYgGGqQfrbsVjP1lt+5/9tLF5e0DC/yxtnc8TzvnEklWvDY00RN8QBxEoA6gHYvaBGxKid8ca3X6lR9nLsutk/0lQ3IjT3rzo3boRcRqRJJZkaav2gjIIcPofsQb1BuCS4pkP5Y7vmqOGIM7k7ve/LAcemnFhV2V6VdTVr6covOCk2LNyVNnp2TutYy6RoITN4gjb9PevC/SM0Ytp/zEx+KZ1Dz0cUH3iBU7J2ILQ/qExcwY2onCFFL6KLVCa8VUhOgNp5yIrDSVl+nnMvKnnfTWEtpKia1CKmxdrNndDJRDpXjSMRxEqcYimEZqdNWp6nQgSGwyAHypxAjGCdUgsvhGxupbHUKjYIXJruqlD0p2/m4lZuYBp5FEusLe+YlMxpG931piB/zXFf9ebckfsVS7SjoFxkGxYOThEwl/nfUkuSZGgBAU96hDOrDybs5j7/UwPeHo+z0mE+X8+j7b11oE0Ki0UcUbaAziopG2ieJiR3Tx7a5wcIeVNzsM7rb4qLz8+RS9QwaNirGG/lbU4EQUaUwDe/Ss9n/1Wm0HNEKoFQ3K/duBxWMpxYIl+AO8fy9w53qrkjttRAemgQ3pZDreV739RaUI2ExQVZaPp6yupYQ24lJBI3rpq1oHQ1WyVBuVDeOtXgg4owVx60rL1Q9Lre6pGmdwmWATsM6wt636w0djbl7xmB7RizPeckF+Ptlfsp30hk3y+QEjX5Zq0zkjC8dS8gXDpFb6/0T+vOnZH6uangRNimQUxjs6aY4KwE+v772Yptm5aLPlyjSMGs+4bmkAbwTvFMkdpCmtSZnQbJZ1efqTb2YuW0Xl8J3uxonH1793JmtrYvQmdLUrOV2BjqCZ0Aj9FnOtFf3uv3K4/um3s7+Dyv+j/qTMM6lnVAAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://freesets.vercel.app/icons",
-        "text": "Icons - Freesets",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABVUlEQVQ4jZWTP4rUQRCFv+oZ3UHQXCODWTERFK+xwYariR7DI3gDvcXm4g1kTTTwH7LJormgO7szv8/kNbQDg2xB0VXd7zXVXa+KwdSWsKpqo15LcqnOAJNP/M/UpfouvtyFqy3SA+AucAN4mRjgFHgB/AG+V9XHkVRZH6sr/7XL+Ggr9WHnNqDlknvAdeACWMfn8Z5fBHM/nNbyKfaCgBafA2+At4n7vvlkx2fsq1/VjbpWf6ln6qM87Sx762C+qPudvFDfD+9TfaXeVCt+S329hTlRF20onZS4AZ4DB1VlSj0AnuWsMVirqnPgCPgGzAJaABv1jno7H7jI2SzYo6o6JwpDfapOadukHqs/1R+Jx7Mn4czmgxaMsLpMD4dKD1PFlI7Y9TMHpqpS/Tz0uds6a9cDwXwKZ7qqlH8Dp1X1YddsjJct06qTqwzT9jjvJVntGue/qftbHlAwRRIAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://www.svgrepo.com/svg/509003/avatar-thinking-6",
-        "text": "Avatar Thinking 6 Vector SVG Icon - SVG Repo",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACFUlEQVQ4jY2SS09TURSFv3N7b4st0hYCSiUMnNQGZEY0aiRRoxNHaIxDR8b4P5w4N1EHJk6ME2JigpEIiY+kjgia1gfVBCl9YKAPSm9f995zHBSqLZWwZ2fvtVbWXmeL24++jOqaPSuEGEMhOEgJFIq4JV1XNR3rmkCMH5gM7GBPGpo9rQtN6Lv9i+NBJkZ7UQriKZP5WJ6gT+fW1HCL+2opx3K2svs09H+F/V6dVK7O4kqJm2eO8jNbwWw4hIIenr7PYjuKTLHeZkbrdNfj1gj4DFyawJKqubIQ3Dh9hOunhijXnDa83ikwHPAQOebjw/ci6XydwT4DqRSPF9I0bAmK/QWWfm1TtyWTx/uYj+WbNoXg7uURFPA8+ptYstxd4PWnPBJFw5ItUL5sc+/FSgtj1vdZofeQix5D4EjIFhvInQyUgnDIy0bJomDa/xeYnhxk4LCBIxWlqsPDNymG/G7uXBohuVkj1O/hY6LIQrzQ4uz5hbnPOe6/XGXI7yboMzgfCfLuW4EnbzM8mFtjKhJEd/29uT0hXhjr51w4wJZpU6xYeN0a+bIFQKnqIAQYLoHtqO4CX9MmyxmT1c0ajoRYssyViQEAToR8JDfrVBuyu4O1XI1EtsqP9Wqrt7iyjcfQOBsOsFFq8Cy63h6iksoWWnOn2aVcpyEAooktoomtbiNLs7FnFCqO6LyxfaqJjSmXNvMHqwrhjsubxIQAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://start.spring.io/",
-        "text": "Spring Initializr",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADJklEQVQ4jV1TTWicVRQ99773vplvkkyaTDLEkkmKpI5GKaQm2KCCSesUKV0UWwMuKnUhRkRFupPIQLNQiyCI0Ariqpu2WhAXgjH1F4RUUovYCLaV1qQxTuNk2slM5vvevS6SSuu5cBfnXLiLcw7hfxj/duc2Bnd6Un8nr0oGcVw6Pnr25w2KAQgBAIpgFCHj3+96zVo7Gdd9AAIBWF8ARFWD0DZE9HCp/NcXuU19zxwdPv0Obdzo89Mj+dC5WR9JqAKvqkxEuiETkxHjyCxVF0oH+1+/2proTD7etWeAUVx/krDmCDGFKtTgdYCIAChijVGNKrRSLftCbqx9T8/B7T3Nfbmdp/P3EwC8+E1h1Fid8jV4Uc+r8S0y7JDgpFp2SJiQe1u3ykj3PmzL7GCJgapZxrELE4fsgZP9AVQmCQYNqSFhQtp773Pozwwi7dooYUOkbLO2BJsYAEREYTVuplbXk84/YDs3b36B1Q7XqvU4HbSZVwfexpZ0nnCXBYCoCACq+VtYXltCd1MfEmjpZokxIV6lIWs0dt9LuiWdp1gi8eIhuj5evUJBTEwzi2eRMmlDBC3V5nczgRD7CO1hFv2ZQYgKDNvbLkJVYMgQM9OZ3z/SJpdGJpllgdeVtRsBW8tH2IEdnFo4AqCiQkwMJibDlkr1Rf3g/BsamASGukZIAV+REl+Prk3YxYVrH2a7cs9WqLTj8s05/1BmyAJANarolfIczSxN62//nEehdwyjuX0E1ZiI7I/zX/307olPjhEAvPzDU6NrfnUqa3L+kXt28fzNy7S0Og/HCTyYGUShdwxJmyIAiKQRTy2csh//+lbh1O5fvqRiEVwsQl75bu/Jww8fPXB8drJxvXrVDWWfQE9rXtuTHahHq1SJVrRc/zu+VL8QXFqe+/TEkzNPowj+L8rj0yP5rR0Ds3+Wr4TVRsVHEnNDavAqYBAIJExskmGyngratr83fOYiADK3y3Tu0B+ljv21qku6x6BknLUSupQmXQqpIOUTLtSmllQdwm++/+jnn6EIxtfQuwOzUWdV0+FJvfFKMQBnSFXJqI9u3FFnAMC/IeJrVeh6apYAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://mvnrepository.com/",
-        "text": "Maven Repository: Search/Browse/Explore",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiklEQVQ4jWNgoBAwMjAwMEiUXPtPlGJGRhT+825NRhZsEiS74PzNx0S5AB0YqsuSbzMKkCy9/h8bHxeNzGbCpYlYy5jwSTIwMDAs27ALQwxZHRO6JDooPiqLVx5uwPNuTUZkmoGBgaHX+jEKjc7G6XRsgYWPTRGgOCGxMDAwMHjN+UK2CwjGAs0BAH7IQNBDq+6OAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://quicktype.io/",
-        "text": "Convert JSON to Swift, C#, TypeScript, Objective-C, Go, Java, C++ and more • quicktype",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC5ElEQVQ4jaWTT2hcVRTGv+/c+96b99JUqhOtoMWFlCq1BZOKMCGiVKTNsrhyoYtgF8UsWy0ugpSK4KYpLpWCghstbtJsREUQWrARrBCQaCWxJmEm/2jzZua9e89xMbS499v+OB8HzvkRgxCAAcDDsxdeFOffAjABswMDymUAP2oMVzan37/+3xnifmZm0ub+/EMqziBNMqsDoDpgImDigarum+CTzlr3PczMVPdbiNnZtOm7X0uRT2pZGtQiSOGAwwCDmULopCioZTnXCcUpTE9XAsCaUl6UIp/Ue7uVgOZFvKNwsD3hROhEvAMNZVlJUUw2pbwIwNi8/NEYHH4C6GDKsq6kFwIa3mM4ydCNNXohgCAMhsQ5zZPMAIuIaHnQpiRN09Drh6Aqrz71tD3/6OO4sfo3v1/+E4ebj+HoyH4ozLw4LG1vxIX1VaR5I9VeNeVBTCCq9WOQj196DW88c4Q/r92xs8fGceH6D9jodnH2hXFs93t4KM343cpfvLm+SovRQEx4IZ7s9fs8uO+RcPromH/z2lV8/ttNnBlt4dLLJ3Dos8v4ZmkRH7Re4ae3FrC40faZ94YQScMBoZFqhr1pJgRtaXsT6Fd2e2cL9+oKQSMA4PWDh20kL1CZmpCwwROYj7DlRpYd+rW9zhtrd/jFyVP4cvEWp46Mol3u4onhvfhjewvBIg2AADSDwjkghhVXnDz+nKTpWKjreO3275L5BM82R7i0tYml7U106xq/tNewcncHC+01q2IEQWWaOAS9+uCMJF0IgTv9noiIeZJCQkjkPsHdurLCeYqIgjQAEREtV85/+09x4vg+GcpbrEM9nGbMvZdGkljmPRJxMAC59ySpZhbc0FBi/epS5513rwgAdrQ4r2V3TvYUaYAyqgZVNVWFmQGARdVgBN2eoVTL3bmOFucB0AEA5udjeWz8q7yBIRpHmaWpmRFmA1dEyCwVRq0shtnOeu9tnDv3QKb/pfO/oJZ2/Nh121oAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://fakestoreapi.com/docs",
-        "text": "Fake Store API",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACD0lEQVQ4jXWSzU4UURCFT1Xfnm6GBkMGmiGAcSaDcUANC4ILgz9749KF76CvoO/hzqcwceHCxLhCE4WoUSAM4UeBITD9f+8tF20aMbFWJzlfVaXuPfRs4QkRiQgAAKUmIgCl+MdSFVGKij5vZiKcW1yNyaLUFLqiqx6d6SxKK4zL1QA6d7qNVmi0ERFrrDVWRIw2E3PN9sq1cgMAJiadFhOdZnulm5wm1lgi8gLfC3wQibHZWXL1/vVGK9SZJiYlIGutN+IfrO8cft+fWbxy6/HdLE6JyPVr71++2Vvv/fy66wW+tVZATAIARVK49ZoANx8u18eG4+NBdHQWhKM3HixZgTtU02lR3q5AQkTN+Zm4H6maSvrRt82D0/0TdjjqD4ZG645y4n402Z3e/bQNIi5fgx0WsRAQ09HWr9nF1tT8bH/7kLj8B2FmCAAoCInI3uftsDstYr3Aj0+ity9ei5Vwbsob9iFSHwt6qxsgQEQJAYDyXJ3kpjCHGwdLj24npxGA+qXh3sdNa2yR5MpzBRAiRRBiKtJ8vNMcuzy+9mr1x7svzAzAGpucxY1W2GiHe2s9ZiIR597EMjtOfDzwAt9qGx8PTGF0muusMNqIlfH2ZJHkOx+22GEi0POFpyCISBHnTs1xXIWLZQptcuPWa0QEgSppIvJGfLEXwlemxnGV8tzKUpA/qYTF/+rvQb8B5vpKEFbAtrgAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://publicapis.dev/",
-        "text": "A Collaborative List Of 1400+ Public APIs For Developers",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACJUlEQVQ4jY2TzU8TURTFf/fN0Jlp05b0K5igtGhLyw6NeyX+CQY1cePWNYkxbgzI2o1IokiM6B+grsFlXelCpGVHpBUTrEn5aGeqzHNRrC0C8e7evTnnnXPeuwIAg0442rgpmtsaRoEAR1dLYFULj3fqwZdQaRow6EQie/cQmQJOA8YxYA5mAwhXbKvV53mJohGOmrdA7gPBE4CHqw/kQsBufTNsKzgPnAEQEUzTxDAMlFL4vt9BKKXQWneTBBRqUB14xvd98vk8z+afsLDwlMUXz5mYuMr+/j7p9BAzM9OkkskeEg2jCrTVJtAkE3EGTg2wuPiK9fV1xi9fAqBQKHDj+jUymUyPKtCW6nEmwt7uLqXVEl82Njrt/EiOUChINnvusA3M7oPv+xQKBebmHhGOhHnz+i2maTJ8dphi8T25XBal1PEESinK5TKTk3doui61Wo1oNEoqlWJp+R3nx8ZwHAfP844mEMB1XTYqFVzXRWtNJpMml82SiMdxgg6xWIxqtdpR8k8GIIhI59lGcjnKa2tMTc9Q+/6DdHqoJwfDsoJ3/ygREer1OqVSuZN2f38/KyufWVpaptFosLm5ydbWFtK+zJNIJP5Bo8cAtNZorXuC6u75vo+IHIBBkI9Gn21rQcaBQPfwr6suQO98D+GB0fISq7bVCiBysf3H/6OEpqAf7myHZg3Y/uV5iaJl//wq7W2MnbCRLYFPCNM726FZqDR/A8DLyN/gqfbkAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://codegpt.co/",
-        "text": "AI Copilots for business and coding solutions",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABy0lEQVQ4jZWSPaviQBSG58wkF78IKqI2aiNaSApFUimIv0EQwUL8JTZqZ6WllZ2dYGEj2FgItoJoIUYh0UCiqFFEZrbIkt3mLnenGIY57/mYeV6glKL/WRgAfq4GAMwYQwhZu32glNr3f4/AGANKqdWEMfZdNysfY4wQ4hBCsix3Oh2n0xmLxc7n8/1+DwQCpmmapikIQjAYVFWV5/lqtRqJRDAALJfLcDjcbDZTqZSu661Wa7FYrFardrttmmav16OUEkKsKUij0dA0bTabPR4PXde3261hGIqiAIBhGLvdThAEh8NBCEmn04IgAKWUUjoYDA6HQygU8vv9mqa53e73++1yuTweD6VUVVXTNEulUjQa5RBC8/m83+/ncrn1ep1IJMbjcTKZBABFUQqFwmQyOR6PkiRdLpffb5BluVgs5vP5r68vjLGu64QQjPFms6nX661WKx6Pd7tdURQZYxxCCGO83+8zmczpdJpOpz6fL5vNYoxrtRrHcdfr9fl8Wj8LABxjTJKk4XA4Go0+n0+lUrndbuVy2Sbl9XpFUbQQAcAfcK/XixDC87xF1yJl62wrgBUGACtm53/nJfi3W+3atn24n6htUwLAL2QZB4qkgmuWAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://clideo.com/es/compress-video",
-        "text": "Comprimir vídeo online — Reducir el tamaño de vídeo — Clideo",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACqElEQVQ4jXWTv2tdZRzGP8/3Pffcc29taTNZnQtOusTBQSltJYNksKUBLa2DQ9xCceggykWnOnQQWnSyBilarSmYWqUGJEOhiEMbwYpbQRAhpvlx7z3nfc85X4dgQ5E8f8BneJ7PIwC+XLlI0X2ecryAtMjMsyv8l6tXAzMzDbtEfPRdl4NPrtDfe4g6QoojzJZpm3lWf/6a2dkEwGBgDAbt/wFf3HmOTHdAHfAGJ1D0DAlSvEvbfsiJySu7QcQ3t8/IssteJxcYvT6MRy1Qe97NCQFSuUSszzHz4i+4CwnAAcw8HVJhyBoI9Yaq9XlCcvWzXGkrqVqPyu2oulrm+vJZJAccdwEYoXoalUilQWzb44ff8Lp6yZvhj+pbR7nnlOulKHvWCxfs+q15Pvm2vw1ymSxOqB1JIbmsMj5d2M/Jqds+feTltt48har7tr9bSBWM15L2dk7rqXCDxcUDIDcRe1KFFCVFZ8IaBgMDF9OvXGlX/5704cO3sbRlIWUMV2PohcNZG29x7drBjBCROVi9Xetfa4/6BeDA2LEMKTiAWkdW4hYdEhnEsQzckstdTGwE3tyeKty8/JqFznv0imfYGrq717ZvT94ON3+q0XFOnF7LpPQPneBKldzU8urZh9nNj19Qp3hfITtGk/CtcSlT13pFpx2vf17XD2aZHoxwlClUfyoYbrEVWP79xc8kP0WnDT7eSIBbv1t4qkeUm++mqbcusG2BEJ65xT8stkANYp/6xRkflS1lGVXkOcEgjpe8ac7FqbkdkbQtUpZCc9eaOirQcfeaMpn25IYsV4r3mmTn49G5HZWlx1Q2fu3cl+oHeiIzFcqwpiTFH9pUvj7+/bfJeGRu1x882qpY+uCSiu6kV9VC29qNeOydezt3PhmY+WrXO/8L3dtNCHNFOOIAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://docs.google.com/document/d/11jYaz8wEWZuF6m3WIUtmg05wv5aKVchh/edit#heading=h.gjdgxs",
-        "text": "Informe_Final_Telebachilletaro.docx - Documentos de Google",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdElEQVQ4jWN0bvse////nwkMDIwCDKSBB4yMzA2MTm1f7jP8Z1AgUTMMfGCiQDMDAwODAAsyb28VN1G6nNu+wtlMFNjOwMDAwIDiAmSTiQXUdcFoGOAPA1yuGxxh8IECBzxgYmBgKGRgZHhAut7/HxgYGBoB3s8g7yv6EgQAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://picocss.com/",
-        "text": "Pico CSS • Minimal CSS Framework for semantic HTML",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABl0lEQVQ4jZ3TPWyNYRQH8N95b29vItJNhEgHC6PBIBIWYhNJE92rBhIMrJq8k8TUusVCfCRCdELExK2kiaU2jHZJkw4ShN77HsO9t73SUpzxPOf5P/+P50giS4VeZQr/U3ndrZy1F9LfgxTZtCtvmjDstJoyp+3b8IEXGhsC4JDCFZWOwri680r1QSb50m4Nz/Jtt/8LQFzwyCd7VL5pOxPnTKIN5tUyhZrjtjvms4M5p5aloTVqPQNzxsls2gY5p5Y5YGzLYr7TyZZ7q71UZKmIPtUg1+leMCpN4nLv9It0SeFJHLbEgNtZKpQyyGwZM+ysygFDtvqh0o03NNC2rPDad9dWtUSpGpD01zH+cTAXjKqcEqakxFfhIp72JawN9yNrGsumkUGns2Ux3+vk/HoTi0ETc9oOdQ9xNErtbGpkCuGBVEh3+zFGqKJUFUkRZM6asMUHoTDscd4wY9lKhFR5bknLiDcxrhNl75/oXq6SMOwVpgyp446228pueHHER+FE7Leyqas5635etdM/LpXN1vp3YD8BGPStU84H5g8AAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://pixabay.com/es/videos/computadora-tecnolog%C3%ADa-digital-36503/",
-        "text": "Computadora Tecnología Digital - Free video on Pixabay - Pixabay",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACaUlEQVQ4jXWSP0wTcRTH3/td79q7o9eqx79Q/2CBBEpw0UFlMWgwtmXBqTqxNmEiJWFhQidCCB2YSIgmwM5giGAiDDSGYCQ6IJEEKFVpay3Xv3e/ew4lhIS4vc/L+35f8t4XQ4shACAiRCQiAACA/9UA4KgBIgIBIta6Nf3lGgAYIp5PE5FlW0QkMIHb3OTmmRdADYmIEVFtScEsAKAmeWyyjarhdXl1Rec2BwDLtlRRbVQbGTKh43kHAJi22X+7P/Yg9rL7Re/1hz8LvzVJm3oylS1nt1JbPs03+XhSV/SNow3GkJXMUt+tvpH7IyfFkzc7b6vcfP3oFQe+frgevRtt9bYO3RnSVX3p2xICYnAhCACzz2aPT49H10a5zWVRjvfHDdOY2JiIP41z4vVK/cynmeXvy27JzSzb8jg9uqwnjhMI2FTXVDHLiWTCf8WfKWdWfqy0uFuSp8m1/TVFVIiInZ2ZoMqrBbOQLWUJoau+6zB/eNNzc6BjYC+753P7BjsHi2aRIRPaBtsUUQm1h/JmXkDBf9UfCUR6b/TOfZ6LBCJelzf6LiqLcqQ7sv1r++j0yFF7h2mb4fZwuC0MCEbVmE5MN6gNPY09Yx/GcuXc/Jf5gB4Yvjccex87E4iCuPh1cXV/VZXUlJFKF9Od1zo3k5sHfw80p1bl1fGP4811zQyZg4AAQGJSykjtnOx4nB6GTBXV3T+7CCgJkk22yMR8JZ8upZ2C04GERJSr5IhIFVXZIXPiBOQSXABAQIhoky0wQWEKAWFwIciQaZJWtIoVXkHAywm9iI6aQaaUYYwxZOfZvJjQi/gPwjs1dlg2X6AAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://clideo.com/es/resize-video",
-        "text": "Redimensionar vídeo online — Clideo",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACqElEQVQ4jXWTv2tdZRzGP8/3Pffcc29taTNZnQtOusTBQSltJYNksKUBLa2DQ9xCceggykWnOnQQWnSyBilarSmYWqUGJEOhiEMbwYpbQRAhpvlx7z3nfc85X4dgQ5E8f8BneJ7PIwC+XLlI0X2ecryAtMjMsyv8l6tXAzMzDbtEfPRdl4NPrtDfe4g6QoojzJZpm3lWf/6a2dkEwGBgDAbt/wFf3HmOTHdAHfAGJ1D0DAlSvEvbfsiJySu7QcQ3t8/IssteJxcYvT6MRy1Qe97NCQFSuUSszzHz4i+4CwnAAcw8HVJhyBoI9Yaq9XlCcvWzXGkrqVqPyu2oulrm+vJZJAccdwEYoXoalUilQWzb44ff8Lp6yZvhj+pbR7nnlOulKHvWCxfs+q15Pvm2vw1ymSxOqB1JIbmsMj5d2M/Jqds+feTltt48har7tr9bSBWM15L2dk7rqXCDxcUDIDcRe1KFFCVFZ8IaBgMDF9OvXGlX/5704cO3sbRlIWUMV2PohcNZG29x7drBjBCROVi9Xetfa4/6BeDA2LEMKTiAWkdW4hYdEhnEsQzckstdTGwE3tyeKty8/JqFznv0imfYGrq717ZvT94ON3+q0XFOnF7LpPQPneBKldzU8urZh9nNj19Qp3hfITtGk/CtcSlT13pFpx2vf17XD2aZHoxwlClUfyoYbrEVWP79xc8kP0WnDT7eSIBbv1t4qkeUm++mqbcusG2BEJ65xT8stkANYp/6xRkflS1lGVXkOcEgjpe8ac7FqbkdkbQtUpZCc9eaOirQcfeaMpn25IYsV4r3mmTn49G5HZWlx1Q2fu3cl+oHeiIzFcqwpiTFH9pUvj7+/bfJeGRu1x882qpY+uCSiu6kV9VC29qNeOydezt3PhmY+WrXO/8L3dtNCHNFOOIAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://flatuicolors.com/",
-        "text": "Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY & PASTE",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAi0lEQVQ4jWMUPr6BgZGB4T8DAyPDW8bDDAwMDAyMDAz/nZ4UMMBA9MZLcDYTnMXwn4EYwIRQykiUViZsgozYBKGA5e2Na3COjSwfnP377RM4+/Pb7/htwAdor4Hx1xlbOOfbxlsIky7Iwtm/Fu+lo5NI1sDCdP4wnPP2OkLizVseOPvzZURcDUI/AAAHsiQdJeG7aAAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://www.cssmatic.com/es/box-shadow",
-        "text": "Generator de sombras CSS | CSSmatic",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABhklEQVQ4jY2TsW4TURREZ+57xmstRIJkRYPoLCF3fAEU/AIu6NKB4CNc8Qekp417Ciq3fEAMtFA6CoqC7ey+9+5QgCh3PdLtZk4xmksAWCxkwMpms+fCAVqvV7yYbbScz8sh/l4RAM7Ovz4DbUpoD6P1J+QuVPDw8+3L6We+//jleBLH3+r66KRL7WDe5YjxDva7mz1HoycRbXfcFUxSd1ncHSR7AZJgRriL2nYP47br2qoo08y8uEj0EiTIzOjunopuY9qOr1i1bmYsXkAMAAAYje7FtyqX0XX9KqdQOyRI/el/AJJOWjVK+TQ6snXJCUkuH2jgPwDGAEgWmsdPv9f1vXeCJrkUuDuLO/pOLsup213f5NPY3H/0IOdMZJNUNFABAIk0SM4wyicxKY89MRhZXA4cQABISCGTVfz1+/bqaGJpXNV3/+6gf0iSw0JA1+6SIjcEgPmbsxe0MKX5HkA/AXCIlQs/zj+8/jTgHRYBYLFY2GoFa5rZQe+82azZNBdaLpflD/4s7EwZYDmcAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://www.hyperui.dev/",
-        "text": "Free Open Source Tailwind CSS Components | HyperUI",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAA/ElEQVQ4jcVRO4qFQBDsmVEQBz+hoNFExqJXMNBEL2do5i08igbCnEBQ1BmdF8zi7rLvBY9d2Aoaiq6uaroB/g0Iob8xIl+J53mGYQghTNP0fV9KaVmWbdv7vj8ZdV13GIau6wCgrmvOeVmWTdOM4+g4zi3D97oIIcZYGIYAQCkNw5BSGgQBY+wWfAwopXTdtk0IQQgBgOu6ruuSUh7Hob217FsCIURKeZ7nuq4AgDH+ea7PhGVZOOdJkuR5Xtc1xniaJoSQ7j6/elVV8zwrpZRSbdsCQN/353m6rvvyM1EUFUWRpqmmcRxnWaZ3e5nzHhBCGOPbUtO3XX6FB8g7YVk7VMlzAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://app.diagrams.net/",
-        "text": "Diagrama sin título - draw.io",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABuUlEQVQ4jaWTsYsTQRTGf29ms8YjEPaOBK0URLG4E66wE28L/wDBysJSW1vTmE2Vf0OwuOrAxn7jPyAcIqhoYRElhxdDYmKymRmL3dzmdoMWftW8b973zZs3b4QChl0vBBUK7gAIMzp2SC9oLaJivqwHo64XOaRdTDovcJ16axnl8dnJfiS4VKw8pLqNaA8AZ5a436dgl2mMdFbVyKaT1fZ1tu4fopu3ADCDY6avHmJPP5UqUZnjX8veBIe0h10vVMOuX2qM+zWAZJYTySzlSlChl3X7vMF8hDNzpkcPAPBvP8XNRyW54A70s3v6RXHD33+CPXlH8uEIN/qKql8BpbE/vxRTr6rcTiHVAN3cQzd2MYNjMAkumZK8P0Q3dtHNPaQagOQyD4iBUC7uUHv0BhVcS/22GsxePwbgwp3nVG6m17HDz0xe3sVNTwBi5ZAegOjKmRhI10qD0iVedGX1Ej0FNgZw1mDH/byR4z44A86k6wx23MdZA0DQWkT5ICm/rS/tI34tNZh8w/z4CIDeuYHULqf8YoL5/haxi069tYw2j/I/UBrlFf7rM60jq6b0ncHGQWsZr+f+AWIjvN5cM8IwAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://webgradients.com/",
-        "text": "Fresh Background Gradients | WebGradients.com 💎",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACdklEQVQ4jW2RPYtdZRSFn7X3e865uUlmmImjGR00BmEMTJlCrGwsTO9H8AekUOzs5xdYpbARG0kEwUIrC5GABgsbwcIUFqIQmGSSyzif59zzLou5YISsbhfrY68lsEB+43NPXtqqH2XqXbteEbQ8AZtemb9V1y8PvombX22rB0sA7/1wdCnPT243U14be6jDyNMQTZIN9Ifjj8cP+utfX5v+rbe+2F2aXlr+vlvNqyezcZBIg56qYBs0divZnDwa7/Yv55slnl36UGfy6tGj2ttupAADGGyBIGRsMEERR7vjkM7XuTPcKOtnub5/Qu2PXSKF9AQRAcZz6/SU6+4oPSbqSdYc9H7ZWNLmUKt2ZR4eWP0oMkALUwwEuDfeqdK+UESQRqHNEnLTpdlYgrWpvLNnPdiHeV0IBdQD4/smxoAmjG3XMSS10YRcBCF52qDLz4iti3ChM+Mc6vGCXBMSqFWn3wgbRyNoJNoQZdHd0kRsvSCeP2eGnYVzGFcj/X+gKEJNmILVZrgLSExKXFmHtbNiXOy6sPZpN0ZCUcTQZrgJXGT9l8a0Rby6CZnG1mnsWoWQI23TR1r3Jl24CLeB28RNiCZAI6ytiPXnYBh8Oo1koGbKoHvhkdvTjuhS80bQhmgTd0VuA9qEjYtypIyRwJgahcD1Vuz8Obt5vDf+srIabcI8sBux6AQXyyvnrVKMrREzdueymR+Nd+dZPo3taxf2Hj8c3j6c8fPycjbTSUYRajNchFJo2oVDSBlZzmTTH4w/JfnOtzd0mGB991kzixe3b71ymX8Cr2JWQqSQ2yLvzuCPv3QcGb/WWj/5/X5+cOdjzcD6F6bgLZVtEDCBAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://www.videosmaller.com/es/",
-        "text": "Reducir el tamaño de archivos de vídeo en línea, comprime vídeos en línea (MP4, AVI, MOV, MPEG) |\n                    VideoSmaller",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACDUlEQVQ4jYWSP0iVYRjFf8/7fvdTRC0tnKTGyLVBMIJ7i4Y2s3JsiCCEXKKGIkhoisaguggtNYgSXh2KBrmGIVEI4RBBFOTQECgoJfnd73tPg/ePNwvP9sBzDuec54H/QMKaZprnGpqXJvEADBMMpOnCKTz9pL+KNvRudU+BJrHp/CCOW8R+na3sJyG5YkOLP/7ec3XCs/5OzRQeqpQf18zxIzgbJdiInZk7jdlnXOs1AI01OACunq299S6mNUL4ALkisg07W14CIGgR1AtAHyZhNV6EqkGC+wYcwPtuYBaIVco/QlbG2WWy7D4AHzEzVHdQH4zXmB0FBpCWUXiL0Y7jBtJL1m0BwMZI9XzgsF70d9ZL1PTJEbyGkZbAeVAXwmFaQ+43pkNAQpreJHKjyA+CpmywfCeqNnGCVPcYmn/FJM6GyZoK6zvWQcu+x/joCbAMug6c3+5g+wabOFIDUSVX7QYAFanQo01MB8mSp8jHRFHaOKOZwzvHPz4QgK4OB3ggw0fdmGtBsoYDKWCGyvmI+Xk02WgZLkCy4ojaAp6IJFsl52NwOwSwNiqVLSsspLt/cgpgQ6VCjFxCLr5IyOYwaafAIt4/UCn/BbMctRiGyMiIbT9p+E5auYqPLuGicYImGgK5lXEqvR7UA5bV8mEm/HYxkE3YuTdfgduaLbzHJZ92u90DGtvx+lX8AaSM19PmIB6MAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://icons8.com/preloaders/",
-        "text": "Preloaders.net - Loading GIF, SVG & APNG (AJAX loaders) generator",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACcklEQVQ4jX2TT0hUURjFz73vz8zo6DilGeGkqBWtDAwiMggR0sCFMykl5CIETVoFkTsfLWpdkDooBJEW42RRrVy4Mto4FS0i1KciEwrKjM04f968efdro/jEyd/mbu45597z3ctgozNE0nI8wiPrjda16lW1IsceM442Ivy28rlH0wNnlwFiAKM9DcN/CAQXnzrd5YPGTgxqsRe5VHxuBfHmSN9F075PPiAaXbgtSY5zlhBvGRPNlpk1ASIzFWcAu+IzPKcjgG7XcGjEASAwsnTfUXxsUnV7hzisaUbYlhSnAkBRikoVgNbSRnqjMUhKY5AUmwEIABhnrQSibGIzxST1vCXYayMZC3PZuZM3jR/CtHpmHjakTmG1roaWa/Y7CJGELmZ1vFjwq66ikKQ4JDOd+BZNqU1fH/gy3RPb3skPMwlMdVmFumIA0PZ80eE9Xn4yG/tTJbtK6gn801SvL3agcU3j0DRxyMA/Fq3iwggrDveFnJEKveur7bGZk20tCOci0+MoLrtkZhPM4Sq5ExhZub6buDfiguJAUB8OjOr9MiDNm5mk6SyrVI2/WzEuhA4Qg8YOHdcO5fMv85DiDAD8w3qL6ipqymVyr6YHqpePEh5JYFS/cWs8+sQ/Fq3avQbvDJEEogIvlhhAjAEahzYEf6V+WZblOafnBNKx9c/h/rr2QiE3g/obRiid2qhth8YEB4YIGhN5RU6TsEwiAQBZAGgJ6p6u8bW7gWe/zuwHg+zlyHtz/thb871jZKnVSG42WEmaAAAPMOiu8A0m8/oXgK4CjML9dd04aLDP+3v1swBmbWk/M4mtHQE2b//Cdv4B7CMQ2o8q5psAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://loading.io/css/",
-        "text": "Pure CSS Loader - Optimized Spinners for Web · Loading.io",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADUklEQVQ4jT2TS2hcZRiGn+//z5n7TCaZpulEYpQUqvSCaEtja1tLQ8GiVqMlVmwXKiJdKYWCtIJ4A6sLFS914cJSwYWXhQsFoaCUIpQmXnKxaZLGmSQlMZ0kk2QmmTPn/1y0+uxfeOF5X/n1/Dcv/PzDd6fHxyfTxlqMMSyW583BQ4d57OhLVJfmeOPlI1wbL5JKpV00nkCdo2VNtrx9155XbUcu8svIWCHteR6AACJi5MbMdTr37CeZaaIhm6X19vU0ZpNMFgtirS/z5cV4aXb2Ie/vwkQiGo2oqgqgqirGetSqiwTVeTTTxNbdB9i6GwhX5PizT2ilUhXf93V65h8863mqqiIiqoqAKqgYG8X6cUSE5VIBV1uhr69Pq5WKGGtVVcX3ffWMMTjnFG428HxfFuZKbNrcSbppHWjImfdeZ6owSiqZlFqoGvNE9CaYxfKCBEEgoQOnKgtzJbKNOR5/5hgihqsDvYyOjPDc0/s59cpTbNnYJpXqKsYYUVUxBw/10NjYQNxXkvEI27Z3cuLN98m3b0BVGeq7SG2lQvttOXwjdO24G2sMAhhjEFXVpfINgso81o+TybXyH6FTXG2RT945SWtDyKHunbjqKqc/+5GBK5PEYxFkZXlOo4ns/yHVkLHBPoZ+u8jDh58Hk6D3wvd88dG7vH3qKImox9T0PNOlRXxrseFM/2uZhiz5tjtZnivy8Vsn+Parc/zZe4nC6BWsrPL1ubOkUzE671tP1BoyzRny7c20tDbhjV0rMlEsss16GA0ZGx7iyUd2sGVzOxcuDvDlmQ/INmU5/uIB0qkYtZWA3y9dpXi9hDGCl0yldHpihMrCrPRdvqzGi8jeHRuIZZP0dO/k0a57UedIJGOUFyp8eva8Do1cF0AB5FhPl6sHNUmn01qpLElQV910V5vs3bWRzR3rEBFwjpXQ8eHnP+ng8JRkMnFFEQT1VJ34kYguV5bFGE+jUZE/Bov0/zVBxx1rOdJ9P63ta+m/NMzg1UnJZBJaD50IaBg6THOuYSkIArHWU26dIZGIEo/59F+ZZKa0BBGfwlQJEOXW3oOgLs1rsmp2PrjvZD7fUqvXAxURAJxzKBCPRbDWIqoYa296FsE5p/mWXG3fA/ec+BfRdYc5D6LAxQAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://zeabur.com/login",
-        "text": "Zeabur",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABbklEQVQ4jcXTv2pUURAG8N+59252V2KSFbVdBG18CUWJhY0oWFn4FAE7Y2GrRdDaVkJaQRDxDcS02iirEQ34B1lzs3vOsci9sNFYqTgwcObjzMw3853D/7awP8xhD7s1g91sr+XmkBv/BwzO2RiWjhxjMqWDicogvPRg95V7NSpsN04DIBeEtODknaNOXanFKbnKop6utxYTxkExl6W7uIECqYKrhHWU+gvz+iqqdtgeupYy+oQSS7PsK1gnQe3Tww+2Xke5rnTjvMG3keen33t8qUSQNjNP4l6BdIAKv9hlLOMNHmHzd0tsGM9dKzmf5cli5czKMJ04OyifDXtxNBHD12gwGnt68YW1TAjkZokKRHaXE9czugUrQ6pevLBHFh0ObQtYa3PaAu3D+JwZY5qyzrta53iQUqIIpjnq7ERfZnPaAm2P27iPuDNRbGzpHe4IE5RBnkZl/d3HZuY258/sZxX2xasHqLT6t//CDz+Kfn9x6lnjAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://app.koyeb.com/",
-        "text": "Koyeb",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB9UlEQVQ4jaWTP0iVURjGf+85duVGXL/jHyx0kAaHSHLKrYLmaOiPYyhIEkQhrW2NJRQN5aCuiUVD0NRgYGM1RboFFQYX7+eFvHyfeZ4GT2EREvUu7/C8z3Pe8+Mc+M+yPTTf3d19DKBer78F4l8HZFk24L2/LGkMkKQ5SQ/zPP+wZ0CWZZmZjZrZVeDILl3AO0n3JC3keZ7/HlAJIZw2syngJLAvmVbSzGDqW8CSpOlGo/ECKA2gs7PzHDAL1FLgF0mzkhYAzOyimY0DvUlvAuPr6+uP29i5ZI+Z1YBNM3saY3zgvQ8xxtuJwV1Jz51zk5LOAjVJPQBt6YRtYNnMpiWtmdlEjPE8cCDpI8CipPtmtihpKnl2GHR1dfWZWW+M8QwwAfSlVTdT35/6J2DGOfcMWKvX6589QLVaPSppBhhNHL5Jeum9vwE8MbNDQD+QAackjUhabrVaH11icAwYThutSLrmnLsSYzwsaQCYNLPrwGqaGU6eHQbOudUY42szW5I0b2aDkmaB4wniKHBH0gUzG5N0wnu/svsdWK1WCzFGX6lUbpnZJUntv7w4s0LSfFmWN51z281mswHI/xgoiqJVluVWtVptAQcTi0fAGzPrl/QKmNvY2HhfFMXXP32BnxVC6AghDAEVoD2EMBRC6NjT9K/1HS656SIrBOuYAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://console.clever-cloud.com/",
-        "text": "Console - Clever Cloud",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB40lEQVQ4jX1SPWtUURA9Z9697yWbXePuGuIHGNjEGCIaIWpjatEyraK/QAjiD9DWIk0QixSmE1st/QkptNCI6wcEWYgKIjFhN2/3vXss3kaXIDnFMDOc4cwchuuTV0kqy8JeCjMEAQAJBQyAcWyJV5ADGXo9X68OnWko7TJ2EJDnTGIIgAAKSjdb3a3v9N4hy1y9Ov10WVJ86nj32w/z3tdr7eZnRhEAZXk0WvFj9Y93ljofvri8s1c+Oynh7bWbM88et5ZX4/Gx+uL15q27UaUCCBLyfPblWvny3O7rd44k8qCQVy7NxSfGyxdnfa2WnBwfXbgSlUegAFr2eyd0OsgCSQdS3d5QY+L0g3t5u31s8UZx5cTD+yAASlKelc5N/3zxCmYOCkzizkazeXsJJM0AQIIRAgAYs+2dqdVHViohBAeBpCRJICH1jQz7iaAgBImE5EBKIkkSRTwAkkaSlEBa0TlI+i9IAAZAf9c4FAXN9Yssl9S/eFBPgFlBKBpOAkhXOwop+7VtkUn7M4ULQEi7UfUIjZKcJXG6+dXVqzPPn6StLXoPiP9UFLLcV0dH5i9srazZUML1qQV1e8PTjfL8eRglGKmBxQHQ2H7/affNhnnH4r1Dmob23mEOJXFUGpb0B0rN38aqimTiAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://dash.zeabur.com/projects",
-        "text": "faccings - Zeabur",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABy0lEQVQ4jaWRPWgUURSFv/ve7GR/4k7CprAQCy2UVIKNjWBvZWFhJ9Yigq1gmcrOwl6xUCRio9gEDAh2mkJERSMIKubPze66mZ33jsXuxClkm5zq/rx77nn3wAFhZXAR+WkPH65gnNtPZWbhoMv/KTiNaqfgisFMBKmiLALZHFpaZ9jMAuABcuCBmY0SgJPQAO7OTAasQl8IGik0M8rhEsvAmGAXlMLWADKNORyACQL4QYH+dCka7RjBCeiVLAnAAtDMCA5CENEMmWE46G6x7RMwRwdcKS4Hwj7BUegfv8xZi/jEI4D11WG/2NnS9ced8wsnklv1WW/E0VoswlNX7C1ba64/9bof9XXxl4r72wpvfircXvmtM/zHagOQlMaCG85Rj0XM5d0xvn24NHx050f+9tVzff+y4Zv1ms1mDZfW0xBCP9tcu2nP2CsJ2sBO1YD85RN2r15Q+3DbaolHEiEEvIOdQlG93nznNd2komYAtMokbTRJ2t76ERiOxkVJ3pkBPTYrLkwu+h44hBRl5kZ5XlO91aLRgqjJfxVx5kzqzh/pRT5VJEtKy/gdsPjiXo3Pa619w6sY1TR7bWnDGDt2INi0pqb0y+1/ASEwwch7teLnAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://bolt.new/",
-        "text": "bolt.new",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAByklEQVQ4jY2TvWpiURSFv31USBBSpLhoMYSAWKS0sRsERax8hkBqy3S+gtrJdNbpJG8QBAn4BjMXi5nCH8RaR+5ZKebcoOIMc2DD5py1f89a8OfcAS/ACkgAb2bezAQI8MGSgHkJMQDcAz8CMAXrL3b89h24zwDfgK/Ab8ABBujm5obb21tzzrHf7xWKWQg+ABFQ4KjtJK2SzWY1mUy02WzU6XRkZsrlcjKztIMUv+C4vRRQLpeVJIkkqVqt/msMueAAmHPOACqVCmbGcrmk3W7z/v7OaDSiWCwCWFhuWvwzo89kMgI0GAzkvdf5GY/HAo5H8Vza9mQykfde0+lUj4+Pms1mOhwOWiwWyufz53jSrAIURZFWq5W892q1WgLU7XaVJIniONbV1dVJgmxwzMwkyR4eHoiiiCRJqNfrFAoFnp6ecM7x9vbGbrfDOSfvvZ3sIJ3/+fn54vzr9VqlUumkW8BnAznw3gug0WiYmdHr9dhutzSbTebzOf1+nziOASQpJZUBbFJiXF9fazgc+lqtdpHKF4i0AXgNl3vn3CcbzezzW51z/ix4H/xXgBIQH1dxzv2vmEqpIu+AEfAzlfMZ+FjOvwL2C8AHb95FOep+C1UAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://stackblitz.com/",
-        "text": "StackBlitz",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACEklEQVQ4jV2TO2tVURSEv1nn3Ieg0SQkJtqJCql8BCxtBUFQtAj+AEFsFDt7i1TpxVqiIAg2WlmnCTYWImpjiEbxEYPcxzl7LPZ96a73t9bsmdmaul+tlK1ijeR5bAAJBADGhpBIBoRtrBCEduo+tzWzWn9RGfPupyQRTBzbhESvNmWAJAzGWI0IV94JoXlXyYgw2OAhXIb41TWnDotj06JTY4EQ4SpZMB/G1mg4CDSEf3bM8iLcOy+2dk1DFmApDzJ2jOWO4SLEXs8sHoBnK8GbHfN5z7TLzGer8omhYZNwp28OtjI8vQ8ebpoQ7HZNGiwaMuX/hnUr0yjg0bXg9AJsfDLNAs4eCVoFvPsOvTrfBdDsau2cEFQpb1i/Ki6eFHUyVRL9BPub4uFm4u7LcSJAjk0DE2xYuyAungz2elAnUYbZ34TnbxN3XuSnDOGRAoBk0yrE8Rno1lnmg0vi3FHx6iNcfZKoEzQLkezRkDL3LbetW5vNbehW5sSsOLMgXm/D9aeJqoZ2Iz9rUkEYcrjgEEy1RG24sSy+/YHLjxO73X/hUdlg3IM8VO5UZvGAWJoTV9YT27+zgZPwhAA0u5psOyFCQKfGS7OoXcLGlplui2oSBg3WJ0lRJvtrNGPOvZQs1C7Qhx+mn+BQawyPyjb8TM2I1EtfI9m3MO8p5EGSBtEqRG0zKde5bzlL8z45bv4FckUxAEeu1rcAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://www.minimamente.com/project/magic/",
-        "text": "Magic Animations CSS3",
-        "imgSrc": "http://127.0.0.1:5500/video/null"
-    },
-    {
-        "href": "https://www.javascript100.dev/",
-        "text": "100 proyectos de JavaScript - por @midudev",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABrElEQVQ4jb2RzUtUYRTGn3Pe28yd6x0dVCJpPpCIZFaCCG5cmwjRx6IQdCF+tSrBWrmodu102aISQQnbthGsf6CCDFpU2CwsQbyMxOXO1fk4p8Udrgpu3HRW7znv7zzn4RwKS3mcJ/hc9H9psE4mqgqAiOJHXIzr1pkyEUMEkZgHsxLRqYZY0nEYijAU2yZOUvR76Kuq8mlhFdGkTbOPvfln5WSGf2zXxmb2r9/ZW1n1mz5P3kFEVNGSNrnenYud5uOHruLAbhBqzxXr81b100ZXIWudbSntcqaVG4F+365P3Gt5+aKz4gkzqjXliIjGRZYAiOjhkV7oMA8m3VdvgmLfn3ebobHo+A7NlVnkpFgEREQE1HTxecfKUnt4pHdnvNdrvu0yxzQzlQ9k61vVZFgUxpD/V9bfBmOj6dLXbP6yWV4PiBRhKV/5lfN/ZtUrzE25AG4M2QCePmr98v4SgKvd5vZICsD9cVe9gll42NYcIlq8lggrUtppjN505qbbcjlrsD/pleX3buPWsPNkPmOIjteqqokEGZugAKEaaKOuqTTDAgQAahWt1/UfGurRITgnR0YAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://getuikit.com/docs/modal",
-        "text": "Modal - UIkit",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACUUlEQVQ4jXWTsU9TURTGv3PufdQioJDSFiiLxMRB/wZhc3UwUQYmjZMuBqOJgReJob5iYoRFByYnjLsjgwsqbk7GBRHBAJLWtrzXd89xeKWlEc94zj2/e+53vgv8Jwb9Lz2jz8O5ofnDK63kihpA6fg5Oql5uFi7bqwNCDIKshBxrzc3Nm5i8XwIALimBm/IAYA98Xone2rpK8SNgmg9FlkeymXy3ovo6p9y/Hb/EX3vnMBXhg8FSI9z8vOV8e296sdCpneS2Dxlz/RL1NgBYaG+W325GwxWOAGQAKTwlVtAANsPe1exkKsBdAqEA2k4qERZ7kmX0pne2wDAGFc7HNRuDE7/yiegI2AbtPmgezHCwSVlCoi8hkZwIE0ngFWK2cUz6ZGBz4VS/VaHsO3J7M50vipOl4kgAFiUXQIAAJXfZM0QE90F/H8340MAkDHcpwSCKjElF3FTSQsHgWoZ/iyfAADQ1FehIIJokuBmKRkrGTtu7TrpIGytG4DUOSkT4Rit7YOUNhqOVC4UiuF9Odxb2vKp1ty04hUa2UDHDEUzGseGFFCC19aAeItSnoGLB9jyU3M6s1YohZMAkPMr2UIpLKZQ/0TAJLH1wCAi/dl8vlJ/EX09NroDcfeIzFmVGMQW6qL3AIa5q/ucxiHAHhS6ppE83oxS7+CTdCienTscS3XbGY3DKWaGigDEIONBxX0TjYMftQ/L8CfiTiuj84Pkg/rlLjazqjoBcbvK3lK5Wlss+2f229Zvmq0zlFp2hs8jz+Kp3JPKxVZ55Wgz7fgLNqISZYZsZqAAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://www.lightgalleryjs.com/demos/thumbnails/",
-        "text": "JavaScript gallery with thumbnails. - lightGallery",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACyUlEQVQ4jVWTXYiUZRTHf+d533dmdj5cd9tGdi3JD9hVsMTMdjIsIXEhQdA2ixA/iiAMkrwo8WZiIaILIyLaTUOIkG37uInCVPzqYqFAEsW2ILpQt3S3bVZ3dt7Z932e08XsuLP/u8N5nv8553/OHxqgIApmLlbRT8href9evjiXB5CGz0bAAejjmx7FJd9iyT+n2frrQSxjON6RVzlTJxJQaKgm4LTw9AotbO4nkfyZ2H+Ejb+tw6MTeBLhlB7jax1grYDqEN69DnT1sy3kooPAfjxvIZGBxX9/wLZLL2HI1/qaxTQh0/TJm7wL1GbD3OjAdBzGOVCNiHSEwshFZliD5SzCmAsIbQtJu4hUlGX56HV6Oh7kpGjhSBNtXfuZONqJll/BBGBnDsjw6Q8bxfpL6V5wl++rIRr4NNuQSrKJJYbJOxZXPUTzLg9XOYOLS0xGn2l9PEX0HP5Dw1yuTjLcmuU+F+KpEpfLeIaZVgE3TiKzm9xzw8S3N8u181N1lUVQNmHlCSrt37ErusuVdBYRIVZFDXFOas8iQ2rZa7R8XKrfQOOutYiRDW/k3y+v+jRlmYwhEcc4Q3tGQBPOWfCDtihx64dr2y+2Sy+GOomCFHGeX/q8b+ap1y+VcgNpyN4O8AzJsoJYUw1h4noYVMrLVv554QW+EquIAIKgjOzpsalgnaRsZ3e4Y7mqeTufwdaE6vnmsb6HV+670poLbqbS5d9zGf5tSiZx2krCPUDV62d97/Ok79/CVCjk0x6jZgurPzrlA8jJHb+wV9cD77GALFXAAp7Afx4s/fIngqZnUPURM83Y9NG2oHJ1HMQADPUOebpT+ptL1TVmgmOUiYlnSXw7yOJvN+JnkkxVv0BtN13HD4x3DY4yu6kaijrnshNaYND9yHG9xfkTe/njxSGuvryhwbbzHNngZ5V5RAPajs45FkXmxcD/P3omW6B+D1oAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://spoiled.vercel.app/",
-        "text": "`spoiled` animated spoilers in React",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABYElEQVQ4jaXTT0tVURQF8N879z0zKjMUHVSDSkcRSIOaFs0ig0CaCEFEn6Fx0KA+gBNnTv0AIigiDRSCpg0cFEFRSGIFWv59TdaFx8NAcMPhbvbZf9Ze6x5OaI2cdr7ilw6/jh92+PXdf5sex3rq5Ev4gsto4SPu4DQ+4UZypvEAT/Aar6CJFcziKm5hCvcxhFX0p8EiHiX+HDtoVxjFMHqxlibf8D0DfuMU5nAXmzjAPqqCMbxM8Ay2UIXInazyK03OZc0q+cMlZDzLrgd4l8mC6hB/07AHu4m30C54j4uB9hRvMRCZ9nP68TPFYxnSwucSpxfrGMcy/iS+m8l7uIeFoPuKDawXXMmUH5hI0WqH3gXbIXcpkk+Gr8GCvkBuYjBFa7iN8yGx4CEe40K4WsH1BmZwDW9wM4oM4AXmw00bI/gQlbaC+GwNsdn9nx7XGkf49SOpuh5MI5LqyjuZ/QPv1FFp6x976gAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://app.diagrams.net/?src=about",
-        "text": "Diagrama sin título - draw.io",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABuUlEQVQ4jaWTsYsTQRTGf29ms8YjEPaOBK0URLG4E66wE28L/wDBysJSW1vTmE2Vf0OwuOrAxn7jPyAcIqhoYRElhxdDYmKymRmL3dzmdoMWftW8b973zZs3b4QChl0vBBUK7gAIMzp2SC9oLaJivqwHo64XOaRdTDovcJ16axnl8dnJfiS4VKw8pLqNaA8AZ5a436dgl2mMdFbVyKaT1fZ1tu4fopu3ADCDY6avHmJPP5UqUZnjX8veBIe0h10vVMOuX2qM+zWAZJYTySzlSlChl3X7vMF8hDNzpkcPAPBvP8XNRyW54A70s3v6RXHD33+CPXlH8uEIN/qKql8BpbE/vxRTr6rcTiHVAN3cQzd2MYNjMAkumZK8P0Q3dtHNPaQagOQyD4iBUC7uUHv0BhVcS/22GsxePwbgwp3nVG6m17HDz0xe3sVNTwBi5ZAegOjKmRhI10qD0iVedGX1Ej0FNgZw1mDH/byR4z44A86k6wx23MdZA0DQWkT5ICm/rS/tI34tNZh8w/z4CIDeuYHULqf8YoL5/haxi069tYw2j/I/UBrlFf7rM60jq6b0ncHGQWsZr+f+AWIjvN5cM8IwAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://skeletonreact.com/",
-        "text": "React Skeleton - Create Content Loader",
-        "imgSrc": "http://127.0.0.1:5500/video/null"
-    },
-    {
-        "href": "https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice",
-        "text": "Crossing the uncanny valley of conversational voice",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABl0lEQVQ4jbWTv0tbURTHv+fem/de8uIogltppYP+Ce6lUwZ9nRwcnIW2BDLVa0QIEvwPCh1KO1TEQXQpOAtdioOL/gm10pCf791zHPoeJiaaZPALl8vh8v3A+Z57gGcQiYCyQgRkLdTE5mnfTHorAFzdX1/S0tpysWx/qvy4sHul3TBUrxoN+VKtHJ2mEOkHKACwNq06rmCC3grr9kH0PsorHb/2C+5dzm+f2L239dRMowD/qR5zp9VLCLywOFt8IeDbZrObsMTdfJE+VuuljYeQLBwBAFbBNUj98YMcQZQCkSFSRpiEnWOlk01rI68fMpCu/fD5RsRbY0fnoFaiFZiIBcI6jmNi5pfw9fyoEO8h5cOfAM6shXD+jSYiYSEhASBCPkzmIQAyNF9roWAh1oKTrveL2SitSUQAZlCSxNkUZKiFFMBIQ+3dznzttNxVkDc+AJeeAT32wwQA1Wrf/jqnV3ud3GUYFozRKoSvM89wiKMgO5Xj3zf/5pbbjaAM53138Br9LYzVNHvwlCiKIj1mVyaH9Rd3miCpz9AJvkUAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://new.email/sign-in",
-        "text": "Sign in | new.email by Resend",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACCklEQVQ4jXVTO0+UQRS9d3YhmhhcCY2Va2ev0hgKtCb8JQr/grEwNlaGVuMPsKM1QRqihfEBQT52ZV73MccCvnUh66lmcs+ZO2fuGaJr2NlB6NcARgBuzO3Ddf4V7O7uDoiIplk31Nr7Kn4o6p/N/VXX5fEFB4OFYuCiMI1ly9wFAKo6xAAAUPPvMcqjee68OBAR5aybopaKqMUizQFYA2KuEHWo+emfrE+v2AHAREQpybp6O1NzdwCp6kkq9SAVOUhFfzqAqgZzj9NYt2daAJxzHov50SWhVbG3Mca7AJb297E8BdaK+Aszb6WqVzFLSZ/MLJzn+gYAiphmsZPJBKuL3ihX+SJqDgC56gciogBgJTBveKM2HA6GaO336Sml3lrvl5kdRL+WhoOgDSDgAYCVMJlMBkQUGv0TjMeLhgQmIiYiCsQgIiciC6PRqCPiT0uB2cydA98homVmBoBw2R3MDAatqrc2CBQa4yMzJyIiilEeilotom7mLRd7CeB23/74+PhWrvpczF3UUdSPui7fIyKejTHGum3mqarBGpBK/Zaq7KUqe6nIV2uAqEHNz1KS9fkIzEJxfp6fiXon6khF0CNXRRUzUUs56+bCf9HHczKJj6v5DwAQayjiAADzVqexbC2M8vVDznK+b+6vRf2giB+atXfTy+D0H+6/mL8agJtd140W1Xr8Be5ZFK1laIN+AAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://jsfiddle.net/echfvat5/",
-        "text": "Edit fiddle - JSFiddle - Code Playground",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACi0lEQVQ4jY2TTUhUYRSG3/PdO3d+nL8mdcYxpDYV5iaCaleQLYIWQozYRmjhIolqpsxMokv0I5UzIYIQlIEJZQQFRhAtDGtRUG3btCruDOSMM/dajnPnfqeFjQqB+a4+zsdzeDnnPYT1pLMAINAKBgB0QgLE6zL/1XLTFalr3oTElAASwFNyACCWKR0REvtY0zRh23lmdco4R98BppoTWmZXCwCwaagQ8rpdYwy2CXgLoeQheQfAhxn0MJv0T9YYqkGBO2Z9HckEgSyQ6CBHzhh9odG1dqO3rUZFxaSs2ndzfZGXgC5o+aO4TVGVMQJmwdzCJOaNpP8iEqwsW/okEN9D0KlSP2xu1wjDhhk4Bp1sAEBzxrocS1u9G51jc9qcCN9c3LoyRCbezVU5CgCxtHVA1dzdbC+ZC2XnamkgPN80bKaUgK/V+bX4MZsM3JNEcz539UQRuEJNafMSEcWNkj8V8RYaPZr6QEK7IajaBuZD0pGTQoi9rHkeC3tpUHL10W8PzfjK4j4gXwsCtRsV/wB0qrhd7jZAfM0lvTPG2cCow/hAiug3UsEL2VPaZ4edJ0TK/lJveN4UgZMEpZPiaXPaSAWPQtdFOHQm6GNlQkC8cQTvRBVfWLAtwF2AeAGSHTaJaz+L/nfQScbT5jTFM+ZsuWIfL/Rv/gEADbcWYpqLe6TkXNYKjEOnajRTbFeF6yBL55WRDL4HgLrrC9GQTz6jaLrUpRJ1s+IZLBesbwXkytB3VQBgS5q9ZXtOnetvsGobiIzkgy7WWhRHDknGFK1EVrh6wA5YwiFiFQCI4YCImVkBgZjJIbCAUBRUnXHjfPA5rY1xZCQf/H8KIiicJnP1BIB/LmxD+sv8AWPVHepeoPYgAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://materializecss.com/icons.html",
-        "text": "Icons - Materialize",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACSklEQVQ4ja1TTUhUYRQ9937vd8afHK3INBCdZQVBq4g2bQpaGBhNrnQjrYS2bd6qdkKLFka4yMFAVy1LF7qyICsSLReVMZTp+DfjvPl5733vtjAhJVqUZ3ngnMM93AMcNjzPY/E8FoD2OIGQeB6LCP1V/C/Y5+iJ8OBw9rRlk6Xtxi8Nt66tA0Dh8WiXa9op39JrTZnM8u8aBgDxPAaAO/eHrvLS4uto4eNLVdx+1COi/OHRE8H8/Kvqm7lZY6UwIzNv07tn7YbzbvSuW7i1fSnJbMSOG5v19d3ZF7Pp6sr3Cw2WnaoxSeLosVOV3Nezv8rabyAihhjqYqUWCLsOmYYJhDUD+XybRQTlJkJ2E0KQK9LTozA9zQBgAAB5XiwAo1LtiggwW1rCIAw5joK7fLwl7a/mhTs6IhAZcRi20sSE3uvA2Bh52u4o+1yxuH6Stz6ltEjBbU71xpVgzKlFNwO/DG2ZEEsNViuVDJvmma17Q33JUvF8ubHpPSdcR7GiB47GQ9YalEis2vGT5wDPS7EQBr4fhXEcxXX2ZEzIObbTapZKI1QNb4OxyW6mexlKLVKlDEcpglLv6MaEJsPIo1o1DYFBlr3S3N+fY1ZTsV9CrezLdhgUqCk5xQAQ+/5cVCiEWnEIxZMAEGs9Vlz74SctMyTFzwBA1yUXypvrORfQ7NofGrTeIQCQ8XE3qMadpSiKU329S0SkxfN4p70zXZ9MmijkP9PAQBkANrLZthQ7KThHvtH1yxuH99MiQgfH8kcOIO/A2P4LPwGI5RWidVKdrAAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://preline.co/docs/sidebar.html#",
-        "text": "Tailwind CSS Sidebar | Preline UI, crafted with Tailwind CSS",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACZElEQVQ4jX2RP2jddRTFP+d+Xx6vtCbR/lOwQ6oSCBgMWLtlEHVI5wQsXVL/VUzBobgJgqAVWxC0Uor9MymSUXDRiigWpChENPBorYqLaUsgLbUx/r73OPgq8RU9cIfLPfdzhiP6Ne2yc+OVnaVoF/IIANZPtfr8pRtbLzGvut6u9cv9zy7dp1oOgh8H/gSu9k5bgAHQJy717Ysntv94G+CBpy5Pgt4CloXeifBi00QLoNXKJlNjxnPAXeAXL5zc9sU/gNGnl8bT8T7SZzXiSGnqFOJJzLZezGXMB7VVPi6Zh7AfDeXe7nvbv9O9079u6Ax2TgeKpsShyOZVWbuAU5K/BrC1G9hv+XxG6+VWzSOJc/Xa6mx0htuTwISTo9HUWVnjTvahWEgzk2YGxYKTfbLGo6mzTo4CE53h9mTIZY+gqwFWJKYlH1ZhFOe80JzQHM55FUYlH5aY1gArgq5c9gT2GHiRJkcsJRELmAPA0LqChjAHiFiwlDQ5Al7EHgvwRsR1h4blvNGsZe3V1q8tYafsmwSDRr/L2hAgKTH+u5F2dpYF3/Z/C76pVsEMirgicY8jl6LPpti0+kdmvA6cRdzszacUvSY8hbhWq37DfgjrXPQnra2UuHh682Kb9ozST6TyMddmb9Z80OYFoXel+giwKcxHtwFu6YeTQ8u1OJWxO2LgmNAbEsdq1AtIL0k60z21tdv6LwBAWA8jpoy/D3S8wh1yOS75nJITAP8LsMpZ7F9k353meckTlj5ca1pv/nzmzus9gBOFkY2d/yJk7hc8J7hq+as0z+zYsfnLz19Rc8vyF81ZINHF6S3XAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://magicui.design/docs/components/marquee",
-        "text": "Marquee | Magic UI",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC+klEQVQ4jV3TP2hdZRzG8ef3e9/zvu8595x7Y0yU/KGlUGjBCg46SEEah8xCcXFxKIUOOjikWyBzCzroUCjFIZObc1BSCuroJBTFKulNaaIhyc2999zz731cVLTP9B2e9SN4YV9t8qo38YZHvWbieNVLg4HDsDD1btD2wcrti9/99y//xJdbDHOIdxNpb6ZKr90IXmYMUiPTTgZOkWpVBa3u+9FoQ7bWZgAgBOWzTxAuDuqvB8GtV9PDGKSOmWnUxUpS0yBow1SrGGKtvblcGU939p8cvbf66fszFQgvD8o7C8Gtd9NhPdASfTszvXYs/byWIplKoVMpODHZoEOs92spuL76mrkjIpRvNkdvu6R7ZOMYXmoNphZflcjPOVn84BJ5NEHc/l7s+T5x/S1g+Jz49lGUQtBK9Y7Nksmt3KplO25TbSWwQpijzL+7RHStSF3C9CPj64uiMRLVmUBOgSy1tp3e0kJm1wKP2deZFnaGohljbm2Z8vipsO7AJ3vglVdEn/5GAMDwFyCrFHJGpOU1TeVsOZMxCjuTQT1ifrknxtTCg0NobiCpQJpjRFMLvREp94leI7BjwE6Wta9T9LVEoSVCUkLfXAF//AmylIJtC85n4PPHkOUFYHIC8FgQKsCVgO+gc0nzLHc1bHdMXnlZoA3laI+YT4A0g0wOIN0hdP4lajMmklPAN0TmwSx/piaZPJSsE4QqyhsXgN9/Bf1UUASKKuTPnyF5S3ovjDPQdYBLI/KBMAkPNdrmHnTUyrwC2hIne9B+S7QjweiAEg/ItBE0RwRbMBSE74HGtzEN9wQAuL39Ofrmo1ie1mIrK6YSJA0YVMgxYA2RpEDoM3ZNa5dedbFsvjCXPvxYScrQ/3GbPNnRheiQTAR+2jEpCTkjfEr4nLShIyLs6orrGtlRd26DpPyLibtbAW16F0l1E44enSCqI62DOi/Sy0HjKhpzX7m4IRf+xvQiZ/6weRWmd4PGrcVoVmETSNobIvG70SYPkvPX/8f5L1OldOZTOCOPAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://www.formity.app/docs/advanced-concepts/animations",
-        "text": "Animations - Docs",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABUklEQVQ4jZ2TvWoCURCFP9ZlIVjrplAI+AjZTmy21ToP4AP4GOlsJGARwlbJO6QIiOwbiIVYhAi3sVBYdYWw2Ukzij/XEDwwxZ2Zc5g791w4hgeEwAswBb41ppoLtccKH3gCVoBciJX2+DbyO5D9Qd5Fpr0+QEFHegQe9LxHsVik2WzSarWYz+csFgsAB7gDboAP9F5nY7uuK91uV5IkkdFoJPV6/XSSBGigyzkjV6tVMcbIYDCQWq0mnuedCuRAH93wUTEMQzHGSJ7nst1uZTabSRAEtn2M0Wc6KlQqFel0OrLZbCSOY2m321Iul20CqVUAkFKpJMvlUqIoEtd1L71I6gBfl4zxD3w6wPBKsgBDB3gF1lcIrIG3AmCAW+BeTbJHlmXEccxkMkFEDks/wDMQ7RJXW/kQPtBTh+UWYq61no28g6f27KtJUo2x5hqn3/kXKDPHUM3gRpAAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://originui.com/layouts",
-        "text": "UI Layouts built with Tailwind CSS and React - Origin UI",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABSElEQVQ4jXWTUUoDUQxF7yu0droG+6GgW7BIl6BbsPij21EQhNaP6gp0AepCSrUWiyvQcZxpjz9J+3h0AoEh794kc5NIiQE9YAzMgcJ8brFeio+JHeAWyNnYytwtB26ALCYGIANeI9IfUEbE0mKe7AVoA8GTDO2hAKqI+GPuVhkGYOjkPrC0Kk5+BwbAnvkAmEVJSuP0BTxYa4UFp0B3i0Zd4M0whXHuZdX8vwHOjNAyfQLQsti5YVyPqUxZVzu3lsNaoI3QAdhP8N8NSSvDBUlIWtbOevO2Tt6Q9GXflaRMUi+EgKRm1EnTYkeS2oaVpIWLSCTiBNitEXESiQgw9jFWyRhnwAVwABwCl8BHNEb3Y89+XbNIv+bbFukqVnjH1tNBdavsyZ99zOkx3SXHkx7TChgBnVSgeOanwBOwsKoF8Ak8Aicp5x8wf8OsK84E+AAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://www.tremor.so/",
-        "text": "Home • Tremor – React components to build charts and dashboards",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABB0lEQVQ4jbWRoU4DQRRF753ukO4aUBUERLEYUrclJHwGnoS/IEzxCDwBg+EPkLiyroIvIGtAYMhmm+z0PUTTUKCz3UK4apJ35uS+GeCPYd2w7947MK0jlep26NbfFjEmdDk9L05AkxO4FNgkxEWhgVFsgbR1DRcKDp22Kx13FLIx288Am/tnpbFsvz44jmsFVVTuQTDk3PMYgwxQVKZMATx+abqs4rL8EFgfjybCrqrczVHpRNi1Ph5954PfmA6KK0MeA4AXbGcuyRs1WDX/JyAgs3ML3FldQHzuTLnvD8qnA1f0Ggu88FoVL1MZY1J3JeJaY0HmkpyqPQVPVfVGFRfw+hzif50PRbhUEMAs2lwAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://toolfolio.io/",
-        "text": "Toolfolio - All the Tools You Need in One Place",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABdUlEQVQ4jbVSMYrCUBCd//MlsVILY5MqoAcIqNjrEWxsAlpEQfAUIhbBwl68gZWFYBD0AmJhoWiRRg0YDVEIkny3SAi7Issu7L5qmJk3j5k3AP8N9CaFUBg8n88wppR+acIY/1rBHykIAsuyj8cjGo1SShmGAQCMsa7r9/sdEEIIoXK53Gq1fM5gMJjP59Pp1Lbt0+m02+3W67VhGNVqFQAIAHAcpyhKoVCglPb7fdd1AaDT6SSTyev1WqvVJEnyPI9l2YDgOE69Xh8Oh91u17Isx3EIIZqmAUClUslms8fjMZVKhccIEIvFxuPxfr9frVaTySQSiTQajdvtNpvNcrncdrttNpuBQiaTyefzpmlqmiaKYiKR2Gw2xWJRVdXlcinL8uVy8Q8QEEqlUq/XO5/PnufZtg0AhJDFYtFut0ejka7rgiCE/iAAiMfjPM+7rsswjG+IZVmHw+GzRel02jAM0zS/8whj/LroS83H274f/sFf4ANZLaBVYLJS1QAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://flowbite.com/",
-        "text": "Flowbite - Build websites even faster with components on top of Tailwind CSS",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADHElEQVQ4jUWTO4jcVRjFz/fde//3/md3Nuu+1BhfK2wRRZMtAim0iKJBSSH4KIIgdukiKUQIYRQLq9hFBUG0EUIacUMQBUF8YbGFCVk0ICS6rGtms7Mz83/ex2cRNp7ycH6nOodwRz0Geum+z2QWGY6NCxwtSnk4JDIgrELwPQa4gB6VgDBACQDoNiwEkCx/JS8WA3m/qGmpiMDQANEDiIBqAV2ny1w071bvdS7slij0hPEd4eB8dWZ0TT6q1orpeHlH9Np2ozaKNrjMw2htyig6qHsMmVc6B98q61+yH9ETJgDYf6Z8udzJzzfbo0CcGLVnGdaJBqUk72P94J7QLs0ZpTSbKoqWTEtZPX/zw4lLNHN8ayqfMKtIdhGqFXhpZTgGgnZSRaTBrUhbBVKmQjqwN2FhKjNtxlqqtbsOdw+pzpF3XpUsf0NUI1K0bVq9HrDecErV57A8YOkuigTGuGZe34Gem0pEUMrYhU4er3K0eNbnLG0ni/HGlqStsYN2Lm6Ovv3n64eOIJWnwOiTm+IUE1MRalIcJbFEwlH2jh7wORAscYri2JpEHS08k08BPd744ZGzm6s39qVYf8Iz3YRcT0rpAfFIk2ZBt7mKrABEhrFKyBrAZaBkEtBLC09dO87WPA1Fj5LRSmpPaFuieYt2kpT2lv9iA8CziNMEp4lyS6Q72/MHfntdy8Sn8AQJAeIr8JAgXV3VS9b5GusailcS5DVkxOI0yGVKbCPoj9+mqnk8pn6CQiCQRgLq+7tV+eS9UI6IKlzUcFhBRVe5K/tpjx1Rv+mKIyGbL0uxDbQBlMikmbwpD+0N48fmGDk6NMQf0uAiAYD+QJ5xs/jGXa+b7Oc+YTrPyKgq/nlTZKfUYd+0r5+4W7UzTkctnDJieBzDSVoh9ITRozT7sZzoTOIcfi0Q//WeJzWSIoqZ8u2EMl4Jh07GvgvEgFN4k87emfJuyeIX8oJt0auvlMth6Dglj2Q1fK7gHeBtutJATsfT+stdhv5/823j8E+Sp7/x0uj3+rlyIywGIDSWN+vcXhoNbp3HuYXxbhYA/gNjNaTZZZbylQAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://tremor.so/",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABB0lEQVQ4jbWRoU4DQRRF753ukO4aUBUERLEYUrclJHwGnoS/IEzxCDwBg+EPkLiyroIvIGtAYMhmm+z0PUTTUKCz3UK4apJ35uS+GeCPYd2w7947MK0jlep26NbfFjEmdDk9L05AkxO4FNgkxEWhgVFsgbR1DRcKDp22Kx13FLIx288Am/tnpbFsvz44jmsFVVTuQTDk3PMYgwxQVKZMATx+abqs4rL8EFgfjybCrqrczVHpRNi1Ph5954PfmA6KK0MeA4AXbGcuyRs1WDX/JyAgs3ML3FldQHzuTLnvD8qnA1f0Ggu88FoVL1MZY1J3JeJaY0HmkpyqPQVPVfVGFRfw+hzif50PRbhUEMAs2lwAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://ui.aceternity.com/",
-        "text": "Aceternity UI",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABfElEQVQ4ja1TsWoCQRScvRPRCIoEbQxYKWglgmAjYuUHaGFv45doedhHRKxtBcEiaKuNrZbHlYc2K6fnTYpoYswdGpIHr9nZN7tv3jzgI9IABgBMALyT5vluGlfFbw8U3ubbhWRwDQghfkMyUAG8AngCgEwmg06ng3w+j0AgACklpJQgCY94AQDnwlgul6nrOh3H4eFw4GazYb/fZ61WYywWc/uBg+sDVVWZSqVYr9epaRoXiwX3+z1t2+ZyuWSr1WI4HL4lce9PCMFoNMpKpcJut0td13k8Htnr9W5J7oslhGA2m+VsNqNlWaxWq5+Y4qXOdYRCIeRyOSQSCex2O5im+Q33fDkej7PRaHAymdCyLBqGwWazSUVRvFuIRCIslUpst9tcrVa0bZvb7ZbD4ZCFQsHNJ19jTCaTnE6nlFLydDpxvV5T0zQWi0X6/X7XMfrO3n6+9COlxGg0wng8xnw+h2EYcBzHSx7zh5WDwSB9Pt/DVv6XZfrTOr8DO2s4GgPdaIgAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://ilus.ai/generate",
-        "text": "Generate",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACQUlEQVQ4jW2TP0tcWxTF17l3Mu8+EObVtxHsdBDrNyESSNCvYSqxsvAr2GkVUzgIeUkjCjai4EsXUlhoJVg6zjwVy+TiHzC5d+/fKzwzDpIFuzprbfbZey3pGYCXwD9ADyhjdYGPwMvn/GHhn8AH4IEIM3PAecIDsAZkw8IQxV8AqqpygLm5d7a7u+uxkZlZaWYG4O5foib0m3yI4p+AdTrnnue5r66u4u6Dps+wJkkB+FvSN0ly9yRJkmRpaYnZ2dlQFAUzMzNqNBrh7OyM799/KMv+YHx83Ov1uiS9EvA5jlUC3ul0fGFhAYCdnR1OTk4AePPmLZK80fjLz8/Py/i1T4mk15Iws0RSaLfbMjMkKc9z9Xo9AXrxokatVlOj0dDIyEgiiRDCa7l76RG3t7eW5zlZlnF5eUlRFLTbbQBarRaSaDabVlVVX1LWQggyM6VpGra2tri+vpYkLS8va319XWamm5sbzc/Pa3p6Ws1mU2maCng8o7v/5+5+d3dnY2NjLqlfnJ6esr+/z9HR0WD1V1dXfW840EuqqvoaQgiHh4der9c1OTmpqampMDExwfb2tkZHR9XtdiVJe3t73N/fS1KI9XVwxrIslaZpEh8kKZgZRVHo4OBAWZbp+PhYKysrAB5CeDxjNNJanPAnYI9Xda+qCoDFxUWv1Wp2cXFhMRsDIw1b+d9+BCLJogN9c3PTNzY2Sp5wAGQDK8dGGfB+OExDyyKa7SFynsL0m1S2YnS7wC/gl7t3zewj0HrO/x8fZW+LbJ3eyAAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://docs.metroui.org.ua/forms.html?horizontal_form_r1=on&horizontal_form_c1=on",
-        "text": "Forms - Metro UI :: Popular HTML, CSS and JS library",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAVElEQVQ4jWP8//8/AymAhYGB4TcjI5oo6///DAwMxiuF0MTPhr9jIsl4BgaG4aCBkdRgJdkGFgYGBqNlV9FEz0VpMzAwMFxEjx8G/f+DMJQGYTwAANBVFBmVFLR3AAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://css.master.co/",
-        "text": "Master CSS - A Virtual CSS language with enhanced syntax.",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACW0lEQVQ4ja1TTUhUYRQ993vfe988ffm0yWZKI0jQQKTAXWlJuGsRBs5W2wUhbVwEUsyqNoURJLlKt69Fm7ahiE4bF0VEkmBgoaFjjs7fezPvfbdFTBYaEnR395x7DmdxD/C/h5mJ2TOYQXsY9mF/ER9ycMCN/H0hAvufxs+oOtWdL5ZmGjpGswCQX37S7NiyD4VokWjk8x+amisR2P/4qN1U5pywrYQuBe+Ev90DNCNUYUbWq66oXPkWMl+Ktd1ermlEzWlxstvkMBgXuprIr2WLwsK5AGq4it1hqdCVX88WDV1Ncqn4eHGy2/yVoObEX6fj5a0vHofVK5VQh6ZBFDHnCIAgaqxGzJYUkqT52j7anqJTqe/MIEkEBoCV2enBqBo8TZy9mLVNSu0WKqEwKA4AOuKwwbGkH0TexvuMB2NmEMAkEZgAYOXFtV7Xic3lS5WSNGM3bMd9FobajbRmADCEICnFTrm8czP0gymnzrSL5Urv6esv5wUAxNzjd7XVFDXET8Sk7fYXc5tTpi4Iv5DTfiGnTV0Q5Z3N59Jy+4/EE4qtpkg5x+4BAG1n7gyQEF45CKNE3FG5YvBqfWn2lhJqKdQc+5mAfKGDs00dlydcJ3Z1Yysf2Mo0WOuUUI2JMTfZKt1ki6oa9RnbckY6hxZW/d3NB+RnifwsBfnN+21DC6vCtkdCw3njJluVm2yVqrF5jPyViQ5is9NSRg4tq7NEac0AEcBvH57sAYDzo2vzNczzPGPgQqlPB77LpD/80zsfyO2VJy32cWkITmM/zmnBnmcw86HdOXR+AJuSJ+Vb2OHBAAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://www.pexels.com/es-es/",
-        "text": "Fotos de stock gratis, imágenes libres de regalías y sin derechos de autor",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACF0lEQVQ4jY2TP0sjURTFf3feDIlRg0VAogSMska0S5E2IPgRDIGQLyGo7fbb2VgLC/75BIIgLIKVNqlEDYFYKHaRidHMvHe3WByMyuKBV917DvcczpN8Pl8WkV+qWgUM34MVkT+qummy2exvVV0FvI9bqopzDuccACLyNvKAooj8kJmZmaGqBh/JzjlyuRyLi4uk02m63S6dTgfnXCIkIpH/FRlgbW2NjY0NlpeXCYKAx8dHDg4O2N3d5enpCRFBVQMzOTn5c8SctVQqFXZ2dlhYWOD6+prb21tmZ2epVqs45zg/P0/2P/n2fZ96vU4+n+fo6Ih6vU6j0WB7e5swDFlfX6dYLCa5jAioKplMhlKpxHA45PDwkIeHB15fXzk+PqbVajE9PU2hUEgEfGvtiABAEAREUUS/30dVieOYXC7H1NQUURQxGAySIP1yuTwiMDExwdjYGMYYlpaWABgfH6dWq7GyssLl5SU3Nzd43r/jJQxDfW9DREin03iex8vLC9ZafN8nlUpxf3/P1tYWJycniYDfbrdHQjTGMD8/TyqV4u7ujsFgQBzHXF1dsb+/z8XFRUIGkFKplFygqmSzWfb29pibm6PZbNJqtQB4fn4mjmOMGW273+v1PoVorUVVCcOQXq+HMQYR+UQG8D3Pi9638V3fEZHkfQURiTzg7Mvp93DmqeqmiJwCSSHefuF/YEXkVFU3/wI3t+8OuVC2zgAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://animista.net/",
-        "text": "Animista - On-Demand CSS Animations Library",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACvklEQVQ4jWWTv0tsRxTHP+fM3Lss/kDBFfS5KKsQLEzjk0RZsLJMpyTNIyFVQHhpExu7FKkChjT+A5YJBJNORZJNodiIoMWy+OQtrlEXlF333jszKXTlvZdTHWY+35k5c75H+CDK5fInqvoFMB9CKHrvxRjzxntfsdZu7e7u/vMuL91kfn4+H0XRDyKyaq2NvPeEEB4hEVSVLMtS59wvzrnvK5VKG8B0xdbarTiOvwwhmCzLSJKELMtwzpFlGSEERMTEcfwp8PHQ0NBv9Xo9NQCTk5M/RlH0VZZleO9J05RisUipVKJQKCAiNJtNrLWEEIii6CMR6T0/P//TlMvlWWAT0K54ZWWF2dlZjo6O8N6ztraGiHBycoIxBoAQwstSqfSHAq/iOLbdmo0xLC0t0Ww2OT095fj4mOvra1ZXV+nt7cU5h/eeOI5tCOGVisiC9x4AVcU5x+bmJu12m76+PjqdDldXVwwODpLP558/9unCBQu86C4CxHHMzs4Ow8PDzM3NcX9/z8jICM6599r9pHmhH/qg0+mwvLzMxsYGURRxdnbG3d0dqv9DH18tIm9FHu2QJAljY2Osr69TrVbZ3t7m5uaGh4cHusyzgUQIIbxV7/1f3dOdcxQKBQAajQZJktDT08PAwMDzfrfcJ83fplgs/uu9/9oYoyLC7e0tU1NTlEolGo0GExMTVKtVpqenqdVq1Ot1RATnnFPV1/Lk/59yudy3WZaRpinGGGZmZlBVarUal5eXjI+P09/fT7VaRVVJ03Rjf3//tQVot9trxpiStfYzESFNUw4ODlBVjDHk83kuLi5QVfL5PEmS/N5qtb57noV6vZ6Ojo7+6r3vDSG8zOVyGkUR1lqMMagquVyOEELmvf+51Wp9c3h42HpvGruxuLg4LyKfO+cWvPdjgKjqG1WtAFt7e3uVd/n/ABm4T2QjfJR6AAAAAElFTkSuQmCC"
-    },
-    {
-        "href": "https://split.js.org/#/split-grid?rows=2",
-        "text": "Split.js - Split-Grid",
-        "imgSrc": "http://127.0.0.1:5500/video/null"
-    },
-    {
-        "href": "https://daisyui.com/",
-        "text": "daisyUI — Tailwind CSS Components ( version 4 update is here )",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB3ElEQVQ4ja2SvW4TURCFz9xd/8SWhYVQSBCVKagREQUiDRVdqg0FkRBCkBblJSweIAUCv0CooKCkMVBZMqkSpCgSQrCJxcZL8M+u9957KGLLG3kTKBhpmtE3586cuUBGkFT/UgMAN6soIrbT+X4jp3J3AGAQJx9EpJ3FzvQCQBiGdaO15jiMTnQYhvU0c+bYQRA8JUlDkn4zpt+MzVgoCIIn560Dz/OcaNDfJmnsTiOxm6DdBO1OIyFpokHvs+d5TrrnlNLKynLZzbmXAIjsvlICUADKbkMBEMdx5tfW7pXOFNjbO+oZozsALGv3LQwEFsJrqxaAtbSH7fa3/t882Eh5kPDw42jiQbfbfXauByQFgPp5HD6Pk9HkCIyTEY96x/UUc/psmWJb769jqbYMAGjtN2X17pcsbkbg6qetOeeCfeyPBpVRHA0BIF8ozi3mS7+//vrRwO2NYZqf/kRSAEGyHb9k9eKD+agA5Z5czGoDXcxjQV++dUA8BAiIcHaC1ovSYq58IK5boNZaRNR4byuu61Kb2E96C1haH0xapm4SgpvrQ1DeqmolL5VySSrl4jhLqlrJg3xzwkwfnq4gIAD4rd6jK6F6R0HNJIYAoHKO2GG07+v+6wn33+IPPvoeeQf2jywAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://midu.dev/",
-        "text": "midudev 👨‍💻 | Frontend, JavaScript, React, CSS, Performance",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACp0lEQVQ4jXWTzWtUZxTGn3Pe9975yqRMzJDpDIJoEaTt3+BCaAtNaZFOcFEXBU2MNAuV0lIsvYtsFHGTSMii3XTlTEuptKXRQFfdFTdR8aMFBR0zySTRkBnv3Hnfc1y0Uj8mz+48i+ecB84PeFmq9IqHft6/si9MkTKIZHimXeZU+hAbNnGC+qNJurtdwP/JNTUYI1+Y6b6dythfOcM7QYC0ZaUnvH9tgm5ifD7AxqKgXvcvBlTVoE6+MNd9K50KfgdTRbsuAchz3mT8pv+2ecwe6XcBI1JG/b/NgV0AUUVi70AcKGBV4cigAACVsenTler0yecbEAAMzeqbYUYuE3NZEu+IYFUhRPCcM0G3g4/CH6fyYWnv95rESHbsObO84+BXiEi4eEFLQSCXyHJZut4xwQIQIihnTeAeJ+fWjtLPlB9JqXeQdmsLI/tOFSuYR6TMHKDKad4tT7wjhlGFAFAKjXExvlk5nvoc4/NBo376O792b1reOJCgtE+CEEeKr8ukhYoBGIA+a0VKhvn6Yhzc+MUBAMp7FSDtfaibHGIIPUnADAJyNDyjZRPKn5ziXRJ7R9YYuvPHur11JU8Dw6FLOmcata+/LM51x2wuvIjYx5Q1ad/2F5swh7k1RY1E3AfqfIMHjMWDpVVza2FAU9lQkk7PpnNfVN45NgoOi5wBKGfS8kR/aD40n2CCehaR8sYkXSuc33ovtLkF0/qnBCJRJSUVqPeOBkc+XQUOldZdUZnj5gM+i4gEULKISFBVs3GSll6b1dEco8ZBZo9AEgCemTOOTAsT1FsGopceWRkAUCePas08/oyuJo3b7wuZv02YDTmVzfhu534XyXkAwPhfAWpq+rPwDKaIZPDdE0P5wcLHAJmk7X9a/S1a3g6mPuqL7rY4PwUelCOj+7zjCwAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "http://localhost/",
-        "text": "Laragon",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACzElEQVQ4jT2TO4hdZRSFv7XPuXMf8zagYmFMijSKkEhiFJkuhQGLGDAYhigWgpWtUUsloghCiBYxCFqm0Ag+uiBBwSIOKlgpqOkU4kzuzJw795x/L4sZLdbXrbU3e7PUnT/wIdJzmQ5JGIQFAv6jMQLM/4hQ4nJF7fmDtgFkIpCLsHHU4PRuTIhsd71VbbCxAzvDJmFvwvY6SBPqmYma9UIWyBTNRlFvtlV/NNXkTqGUAKWRamlvqXZSqhMvb/nRc5V7w4hfvtwsn78xCnfWM+9u+eGTsxhY+2ybL94cOrNWhGurEs06Wnmx6U6+tlgnVG7bPH5uFMRGTMadj6/uq9qmgJxPvLCQWcZce33IYLEKnKLqT6ujZ0oP2x+t/tNdeHwSO5utj60u5MpLS4Gn3cWnNssHp1uVLusjpyr6CyZb1QIbcDcVCPWGuN1W/vVbp8V7KyLIP9a2/efaiH33owhjbIQs6lRFdE3PP3+9o/2PiGcvDvXpq1u+fHbO2UnCbidzKKo4/PR6USzr12+7mGzMeLjoEMaKjLsP7P78+qVp3ri87GzFYH6s/twm8/c09AaZv98cCIq7iSAFUMtF7o06P3C0A+ybV42lOHtpGodWZpwlGP+9yYXHGt/6cTa6nakfPFF3o+Wka+vaBOREbsZVZSsPHs+YXb4dh1aWHFWiKLF036IfenJDda+j6i2y02yRHSioLVmlm/F3H0939h+hPvPesk12IuL6pXG5fUucfmug56/clUAL1DeuFCabNcMl1+Fi9+elH64O6uBOHDsrDebc/fSV/M37Q6ZNL8Q4Dp+SbMratfT3n8zSn5dcrOkrBxPZEGIyJureDgrnTjNgOA8KaO6gujcVwt10xsMF2G2QakEH6hknwwUSBrJhdmhcAGC0hHHfADPDxEmIsJlGVH4nggaDnJC2vXcFe09FZJq0ydztfNCE/Pa/fO6fkxV8POkAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://pixelhunter.io/",
-        "text": "Pixelhunter — 🧠 AI-powered image resizer for social media",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADOklEQVQ4jT2TS2icZRSGn/N98/9/JpO5JDaZ3LRYlVCrRsEL0WitLtqim1rjJZBVwG4U7EZF0IUtVYOIuFAEcSlI4kal2traMWmUdlESailVJMbG2mSaGueSZv6Z7zsukvqu3nM45zmLlwPrSgDNQCqfz6c2ehw9Vnjz2yPHD1yvu7tpzudJbcwG1xcTwD1hyFocU19cXPQvjT6+o39r5tEbO5ueda4hn77zyO2/zlemxj4+8x3gwpCmOCYFnBUgCdwC/PL2a8OtIyMPfdLelng6zDop/XlZRVc1ncfoygqXi8tHT/00t2/P/pk/ooi+Wo0rFgijiOaDB4d1ZGj7iZ6tnY/ZayVYLbsorNsoqIlWK060RrrD3tqW0j0D/Wbi82+uunSahunu7qZWo/787sEPe7bd1M/ySk29A/UJvFO8U1Fn1cfCP5W4Y3Ni88Cduc+AQARvS6VSY+78j08OP/PwG7beAF+z4mMDsaqvCb4mQk3Fr4nqmpG1VZduqd/m6/FcrueJSSMi2n9H585wU8bivEcQDIr3IigiHrwXUBU86hwkG2zprOwaHx93Mjl5cizfnno5nzpnsunI+Lgs4sqIr4Arg69Ao4y6MuqqGP7VUnnNL7W8rwvFpg9MEASaTCYb/C8DYgBZ9yogBhGDyLpXFaIo8kEUqBkYeODVwxPvfp3tbbPq1BljVcQqYtdBYjegVsVYVR+4bJexU1/smh588L5XjKrKzLm/Co2rFZWEFcQoGEESqpJYB5iEIglRSSA2gDhivthybGhoyMpAb2/y54WFrouzH4313rVlry6vxLhqIK4s+KriyuCqglaURrVOOg6XfitO5bdPj2azXDHzCwsSRZivjpx+cfHCxd/lhmwoJvCehMMGgg3FS+CQyNGaCZcvNYqnz1dHgWveY20ZrHO0H/5+Zu7+bT1fbmrN9bVkW/okE5pSseTrde+jjiYLapYurUzPnll6ave+UxeiiK7VVVZl45nuDUNKccwaYA68/tzevpvTO+4efGGncw1mC4cKfy9VC/vf+mECqIYhyTgmB5y9nl0SaM1kaMvlcrmNDKVQOHno+Imp9zaOAGQzGdqAViAF8B9JWnIJ2ImLEwAAAABJRU5ErkJggg=="
-    },
-    {
-        "href": "https://app.clipchamp.com/editor/3f6f9c15-01e6-4a42-8d58-2b320a199436",
-        "text": "Clipchamp, el editor y creador de vídeos gratuito",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACmUlEQVQ4jWWTvYpdZRSGn/V9e++zz8xASGEMMoVKEB0VEU0jFopE9ALOFCqChUI6KwtB3APp9AK8AoszV6CN0zmQIGkiiVFJISYkakjO/9nfWq9FMorj07zV8y4WrGX8hy6N2LE7rz1iBwevF47xxZs/nxpo85koi1sff/fkNQA7EqGL48In564+1lp+qbL0ciNeabCnN6zdVlne2MyT597/9oVZ9bAgADv/1q9PpWwv1h6vNtjZWtoZpHZraDU5epKvIRY6WZ14vF/ZWeCgAnjv7eufbtbtO1ZWZzbS5mCQ8j9CijU5wYY11LkmfOkl5lcx3QQwdaSPLl2/VnPyDOu7UQs1IhpIDWYDpVtVxE8N6WL2crixrn/44PCJG0drmsbjfPH2G5e8tM+vlgsRygowIYSa2m62bf7l9r2YLmcR7moozYnlevXNu1892lXsjuL015M0qJs8XxR3N/MiIsLcjRT1ttFst0BCFBXqash6+ccp0F5Fh61LmClY9xAhyQUyCOFeVKLXYlVYr0HCPZSTuA9YtXtl3z47fY6oxWwhwsPWvZjOwYtwdysuJhPRr8AdEpFnKyVA1Xg8isMv72qdgukyUAmmK/H7n0EUo7goBSIMd+EFDDHvBUDFHmZbsmRGNpAZOUFlRpiBgSWjxAPBLCGMDEaHJev27a85TIuY9OJe/yCXEgsFC4l5BLMIpi7uRzDxYFIkOlR13UiXf7vj2cJnK3lfglJEcSgOfXmYDqVACbkCVn0EQPqcPcLZEm1W1I3RZlObTcNMDLOpzWiYTcNstJkYNMZGjkhbAJV1XVz48Pz3xRcLj5UXV+pd9u9EKCF6B3eTi5ByFnEZTHZ0kuPROP/47EjHP/J/dHtcGe3Y/v6uA/wNQkCm94+iUWgAAAAASUVORK5CYII="
-    },
-    {
-        "href": "https://es.vip-cdkdeals.com/microsoft-windows-10-pro-oem-cd-key-global-one.html",
-        "text": "Buy MS Windows 10 Pro OEM CD-KEY GLOBAL-Lifetime at vip-cdkdeals.com",
-        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABkklEQVQ4jYXST2tTQRQF8N/kPVAi1oWCFIX6B7H+wYU760pEXImrIqJfQ3Cna9d+CiEfwJWCC0W0og0Vmqg1UrFUJKYQm5pkXGSeeY1Cz+beM3PvmTN3hu2o7MD/i6LoLh4jJD6N53u43ObBCk9b1N5zc1IgT/EeIqqJX0Hcy8U1Giusf+L7T+JHrsE8WQXD1PAs5WcTn0V3g1ebVHs87HH0F+0ht+EMsSywlOyfTvwUWuj1yTOqs2x0eBmYgfsMy0P6hrV0MpzDGxiQofKEPNCJpeEWSTG4dyUHR5IrkSzSvUQ/cCywOSmQpfgaJ7EP+7EYCYGtjENNbhzkfKrzaNz3V+gW1nEVHcxE8gZLX4irxBb1D5xIzkLRGFNcwG9cxw+sYhCY2qIWufCVueM00r1jPiHwGW3MJ7F+QJNdqB/mRaSSrhXL1gt0sYwDeJvW8jB66t1p+pUwPnCbQDGQZQxQLzYC/ThyMyy5/UegwGISayY+jExXmBrrjZGX8kGKNcwZ/cJC4E5Mn6pUtyPCziX8AcX9fSK2clU1AAAAAElFTkSuQmCC"
+        "text": "JavaScript\n                                30 — Construye 30 cosas con vainilla JS en 30 días con 30 tutoriales",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACtElEQVQ4jQXBTWgUZxgA4Pfn+2Z2djJudLOLNSZbg2bTGI2wtXoqVhRUBL1UT4K2YAsq9FBKDz0JWmh7KrQ99CCt10Kvtg1YPBXrIooSUFGzITGb4Mbdzc7szM68r8+Dw1v2iQIBApIhIEYVSYUUlBQAgQkBVBREAEENAhERKBjGMKIwZscRPycMqCiMGg9sMiDPTZiQ2LLvjyOQYdoInX07o4snl/OONpoesyHUXt+ZGuvvr3ZXWm6mho3Dfr7CDBuhPVprffv50yjE7z5bXFh17z7ZHA/48umlS6carh0cnOndrheNyQgRVE3gw56J7oVrUz/+OQ4M05VO1OP9U+HZj5Y//eG9L36Z3rVto1btRn1LiAxIlvHGrbHHz4u1apTEMFcfAbXnjiz9c29koVnwXDPfCI4dWI1ThxCZmDPlKPa2jyZffrxwdz5/q761WBrM7OjceVguDDGiu/zaHy0mTExABpEScStb45tfP0CU6lh09fzLzUNaCvqv2r51LBGnYuOBSQUNs6uaEVMi9qtfZ9JUbn//3+Rou1RIrdVMDBMp2GKQNN84QJYICdE4hrr9/P/z7+ydiD0Hbs6Nr617ra5FNczGWpzc3rv/bMQ1SEzGMFvGdm/owO7O9QuPX67aR41yqk6r4yJSknKl3K+Uu/UnI4En5LAxZOOBd7y29Mc3/0YxXv7pg25Y6MX5xtqmbaWkuTZ85sMXdx6VV9qFnINGwT205/mh2cXxcufGXzt+n5vs9P2CJ+3Q/bv+7on3F0tBNjvRvPLzwWKgoowz1U9E+qXh9ZX13Ou2P+SL66BkhCRRjIdnn9V2rf42V33VCvKuigLunb44yNI4AcOS83IioGkCqikKKGyEmKSSd7Oco6IgKobYWCRjVBVEGTRBNgBgVBB0OMgQWDLIRA2CAL0FhDM71S7+/XQAAAAASUVORK5CYII=",
+        "type": ""
+    },
+    {
+        "href": "https://github.com/wesbos/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-FINISHED.html",
+        "text": "JavaScript30/index-FINISHED.html\n                                at master · wesbos/JavaScript30 · GitHub",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcUlEQVQ4jY3TO2tVURAF4LXvzeOqEATBQqsgCGLhAyWx0V9hYSv4Y6IEtUhA0EJrUUSwsQn+ATshgo9bKJaCMSJJ/Gzm4OFgxIENs/eaNe+dJEFLCS7hAd5jGz9Kv4+l7CeYxWoROvlVp5NtrGDUJ44wj+f+Xx5XwFHn5E4BL3ENG9jCR3wo/VVhL8p2pSMv4yd2sVZvMziOSZ1jmCvsdtl+x7mZJDeSzFVFuxgn2Wutfeq16DNaYbtJxkkOJrkevK1GbeNkry/9ybTujkV8K87rVH0wxey+Y/rjbIzNcvB1lKQlkeRQkgP9yH8htySTJAvFG4+STAs/kmSptaaaOCxhprUmyXKSoxV0GtyrdLaqjFP/yOA03mCvyl4PztflLp6U/hRnBsSHvX7t1OjPdgbrBVzArVqoxZ6DE4N1htXhKm/gHa7i4iD1Cb70nDwrzmho9KhndLiHLVSfdrDWbeVwPJ1+GTcx6b3N1y+8MuT8Bs7LR9lce+lpAAAAAElFTkSuQmCC",
+        "type": ""
     },
     {
         "href": "#",
-        "text": "PowerToys",
-        "imgSrc": ""
+        "text": "React Developer Tools",
+        "imgSrc": "",
+        "type": ""
     },
     {
         "href": "#",
-        "text": "TablePlus",
-        "imgSrc": ""
+        "text": "Live Server Web Extension",
+        "imgSrc": "",
+        "type": ""
     },
     {
         "href": "#",
-        "text": "Fake Filler",
-        "imgSrc": ""
-    },
-    {
-        "href": "#",
-        "text": "Refined Github",
-        "imgSrc": ""
-    },
-    {
-        "href": "#",
-        "text": "File Icons for Github and GitLab",
-        "imgSrc": ""
+        "text": "Documentos de Google sin conexión",
+        "imgSrc": "",
+        "type": ""
     },
     {
         "href": "#",
         "text": "Dark Reader",
-        "imgSrc": ""
+        "imgSrc": "",
+        "type": ""
     },
     {
         "href": "#",
-        "text": "Copyfish Free OCR Software",
-        "imgSrc": ""
+        "text": "Fake Filler","imgSrc": "",
+        "type": ""
     },
     {
-        "href": "#",
-        "text": "JSON Formatter",
-        "imgSrc": ""
+        "href": "https://www.excel-easy.com/basics/ribbon.html",
+        "text": "Cinta\n                        en Excel - Tutorial fácil de Excel",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADi0lEQVQ4jXWSW2yTZRyHf+/7nVr60RVKdxAc7pAVlBkCAhlORMAYDwjBAypmyUzEZMNkiZqgN8YLo8HEQ9xIXIYzUYhEkYhO4+JgYwE2JnQb2daxA1tby2rbdYW2dP2+7/17sUDwwufmd/Ukv4uHYQFGABhAJzqGt7hcztpD3/dVxRLJUiLQPZ4l197au/7CwNVwa8PejWcJYGzBI9zBU6e/9GF7oz+QyF0ei1Off4Y27G+1quu+tQYmonR5PEZD1+K5Z95ra4SnTr+tcRAxItIrd24+qSlKvSdP48fa+42KFS7ToWmU59CoOF+3vvu93ygu0Lndptav3V19koh0EC0c8YfmmjoGY7R6X/Ot5p99FhHRkbYBa01Ni1lZ02L+2Om3iIi++KHPXPXKV7fOXInTaDDZCACcjNT27oHg/vuWSaZNlZWLI2EYphAbvIXQFM4WO1S2tjwf2Zwpzg0GmcOuKSUeyeweDLxBqdgOSS7f9f6u6vJ1eQ5N/NQ1yp+uKqPJ8BzylziYYRHWVxRhqdMO31gEqiJTLJlmNU9UUqFbl5t+HRWs5OWvR57cWOxtathOo4E4AKD5lA83Mjl8emAHiAivffwb1lUU0O5HvLCpEistcrE3vzyNtp4pP/focunY9D80HkpgeDoOb7Gbx5JZ+vOvAF2PpzAyHUPPUJgis2l2/8qlUu9wGNMzSfJPRsijS+WyIoMFoymaSaRZMHID7xw+LTJZgzlsCh061oOcYSHPobFYMoP6z9utVcXLWDB6E6Foitx5NnCu2CYZk3inLyBe3LYav5yfoLHQLGSZs3NXQugbnYGmShiaiqPjUgDPPepFx6UpwSSJS4p9QhaWuLBYt3u7fNPU8MJD2Lm5jA2MReneAp0pMocQhHTWRCiaoofXuJmmSujyBcipL2KmZfXIIHGEc/ZqMjXPIokMfVK3TcJ/WIhcCCLOGZsIJax01mBc0UyJsRYGAOX7Whs/qnu8fk/V8vkTnX65d/hvNjObxrxhgQRBVSSsLHJR9YMr2FObysxTvdfVtxv/aBo/WntABhEbf+yDg89XLX+gb2Ju62fHL1r6ItWUJM4ZiANAet4UsZGw6O4PSB63W312U1HX6+9mDt5JGQCI4s5szjpsCZGj/8G0RC6Ts5ooHnfe9thdSwBgGLTl+JmrtZORm1XpdKoUABwOfbKs0Hl+z9aSb+yKcvZu518TQNwtlu/9SQAAAABJRU5ErkJggg==",
+        "type": ""
     },
     {
-        "href": "#",
-        "text": "Live Server Web Extention",
-        "imgSrc": ""
+        "href": "https://edu.gcfglobal.org/en/excelformulas/#",
+        "text": "Tutorial\n                        gratuito de fórmulas de Excel en GCFGlobal",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADAElEQVQ4jY3TS28bZRjF8f87M56Lp3Z9iZuG4DQRBEgbUhpBGzWVCl0gkBBrhEQ3iAV8Avas2cESdkhIBZUFolJRQQiVVoQmCFDUUqvKtXHiemxnbM/1nZddIBKLPh/gtzjnPILHuHhn5SXaf52mPLdsjp9eVkrpgCGEiIzHAUTYqci7X1/WJ7ya6jX2ZePaTLr58+vAB/8LKKX0FjiyjwMgG5/PqaA9lt69clk2vnlbycTSJl+9CnAI8JQ62hnEE0ud4WQrTJ/2pTpZ0DUuuJNT1shsifZqRfV3EcX679r44o1DwLofnbrd9N9Y3Y/fbMbJGUfTrIWKw5RrIkYuYkyeh70VssZ3qOFehp6TB8B9Pzp1ba//0XaYXuqlWWEzSNmLUr586PNiyeadepGFch537ByBe4Lh1q8TanPpLeCGsafUkSsP2h9uhemFrt8qhMM2tgKyIlDkt27IMUvH1TX204xukqfgnilmSWUGwHjQCV9oJdnFtV6vOhvf46y5Ripy/BjWuZrNAbDcDeklGZtBgqtrzJfyupmfqW4Ph3Vj1Q/nbSGsME3IM2BUD/CEdqiVZiRpRgEAY7ZOJ5H6s0fM0i9e8orRT7OSowtREjGWTFBZhqMlnNRbWKywTpk40xioHDscJVMFNKCa07UglQVjzDLW7j9qyvPib6ZNj5wuEJrkOD0yJVk0N5BC52Y0zn5mIyngpxmNQRy9PFr401ismj+Vt24FltolUwofC4nBnWSUH5imlgQgBDvKpY3LcU1gaSIeyOzhdMleNsZseysemfrsevuJd/2gc+KpcJuyiFDABlU2sn+zKJsaNdNg3Dbunas4Hx8Tom8IIaRS3ifPFVj3tm69X+wOF1wi5q0W18MuO6JENacx7hiMmAYTjnF7vpT/9FLN/fZgSEJUep63+4dn+U3PcrxUqwxGZbv+nnaHL5zXGLX0wZSbWzpbyn/1fDn3/ZOWtSmEiADEwQP5fi3QY9uRZhjosR32H80CqNozNwEqkAKJECL5b8X/AKzUXpIKrGOCAAAAAElFTkSuQmCC",
+        "type": ""
     },
     {
-        "href": "#",
-        "text": "Shazam: Identifica música desde tu navegador",
-        "imgSrc": ""
+        "href": "https://getbootstrap.com/docs/5.3/components/card/#about",
+        "text": "Cards\n                        · Bootstrap v5.3",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB8UlEQVQ4jW2Tv2tUQRDHP7Nv73K5iDkjIooigoeFnVbBWFpYiFhqI2gKxX/ATkQRixQHYiNpYqNlbCNYxSJai97JGbBIIJeYw+TC/Xhvx2LvrXucA+/Nm9n9znznx5PaEZ3D6CJQdahxgENx6rXm9qh2TmmAm5faUdcAqiMXVUdAY0E02HUbgzMURzrULsoqeDGoCjoMquh5i/9AgYwBlx5mXH0yRS5pV9n5lfLhRYevy4JhYgj2j40NpxnOpAAs3dmg+wdKFeHyfIVbr6dZ+Nbid90gFEJSG9FB1QcBaK526e2WUBybjS0efTrDqYtC63uGERsw1kVgH8qLimAooMC5uQLZQGmudUGKw6ZGJbjIkYd4sHwSlwp2Upg5bVm6v8FO01AQCdldKEH/OXJZe9emvy9MHUuoXilxu3aCTmub9VVForJNDtZoGgBf3u7z+c2Ajwt9Xt1osbXe5/rjwzh1I1MwsRGXgIDRAglFhCK9jmNyOgmLlTO349n9+8K1Mv09AZSzs4eozpZZebkbtjJnbuN1VYG0ZzhoO24+PR760d5Mef98m5XaHkYqI1OQZzMDzfc8Y0BfD0g1CxfyM88wwcgEqA1+q+gPharnkGCljPn/Hzis20SMtW5E5a6iP0MTNQEMMK6VBD9EUGgK3PsLVyhZsU/0LHMAAAAASUVORK5CYII=",
+        "type": ""
+    },
+    {
+        "href": "https://github.com/mlc-ai/web-llm/blob/main/src/config.ts",
+        "text": "web-llm/src/config.ts\n                        at main · mlc-ai/web-llm · GitHub",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcUlEQVQ4jY3TO2tVURAF4LXvzeOqEATBQqsgCGLhAyWx0V9hYSv4Y6IEtUhA0EJrUUSwsQn+ATshgo9bKJaCMSJJ/Gzm4OFgxIENs/eaNe+dJEFLCS7hAd5jGz9Kv4+l7CeYxWoROvlVp5NtrGDUJ44wj+f+Xx5XwFHn5E4BL3ENG9jCR3wo/VVhL8p2pSMv4yd2sVZvMziOSZ1jmCvsdtl+x7mZJDeSzFVFuxgn2Wutfeq16DNaYbtJxkkOJrkevK1GbeNkry/9ybTujkV8K87rVH0wxey+Y/rjbIzNcvB1lKQlkeRQkgP9yH8htySTJAvFG4+STAs/kmSptaaaOCxhprUmyXKSoxV0GtyrdLaqjFP/yOA03mCvyl4PztflLp6U/hRnBsSHvX7t1OjPdgbrBVzArVqoxZ6DE4N1htXhKm/gHa7i4iD1Cb70nDwrzmho9KhndLiHLVSfdrDWbeVwPJ1+GTcx6b3N1y+8MuT8Bs7LR9lce+lpAAAAAElFTkSuQmCC",
+        "type": ""
     }
 ]

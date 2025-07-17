@@ -1,13 +1,11 @@
 ---
 import tools from "../data/tools.json";
 import ToolCard from "./ToolCard.astro";
+import ContentCards from "./ContenCards.astro";
 const allTools = tools;
 ---
 
-<main>
-  <div class="container mx-auto px-4 py-12">
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
-      {allTools.map((tool) => <ToolCard {...tool} />)}
-    </div>
-  </div>
-</main>
+  <ContentCards>
+    {allTools.map((tool) => <ToolCard {...tool} />)}
+  </ContentCards>
+  

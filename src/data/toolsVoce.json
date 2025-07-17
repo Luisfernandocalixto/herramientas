@@ -1,0 +1,14 @@
+[
+    {
+        "href": "https://fakeyou.com/",
+        "text": "FakeYou. Deep Fake Text to Speech.",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACkUlEQVQ4jX2TTWhcVRzFz31vOhmSiNSkGkNpUly5Mt24EUqKLv2gyKCbQl0ULd2VltpAYxddVQRBUmzAuFIkEQklpSCixk8MlpGYpMXGaNuYTDLTyUQyX++9+/+5SGJTEzybC/eee+7hx/9KWwS4jfVxzL4Bnty6v8UXaCcBDkhhNsa6zv7vhZ1SiaLjAPwy6a1YnBiG9EZwsOHLJPAaEG4PKZUejmGRQtHHJ05iheLat7B78/wPyBiMUa0tA6ntr3t/HCA50x9Fz2eNet1iuEC1upfJ27vr8AWNiHhwaOYU+ZZtDWowwWLe4jPnYv/1dwYYQANWatgcAO9/kMSn+35sp/DQg+Tr9Sc8RFQqWJIYgI9jzHvPnXn4bY7GYqHOkWOWvHfpE0GI5AJJ64Sbmp4OYJc1N8vC0OE9LpWSC4LApqYtPnvOl5b+DnWgx4Vd+3Jyzuv8+VCbMPC+DzBbW4solQFo/PATVl7FqlWz10/Y3U+/tKWp+Zjc9z2b7QNJSJLMWpFcw3s+frOP8sqK0kmieOCyaGpy7uWXHIm5n2/+dVU9z0xKcs65+wMSpVJVF8VkqrVdn1ukru5ujUU1pY8ekSoVePa5aCbew/To+IRzst7e3nATYihJVZJXaDSw/gs+P/KZHew9ZK3pNDempgGorJk//OJp9rXvf2ED/IPTmc/nH20klCkWE3K/GkDuq3GbHr1i3vBJnPDh0Ee31a3Mjn9Akv6cLb3NvzLPf1VapfDGqWOSNJzNhpKU0joNADc2eP2t0r2Ors69bdnHOjOBJM3cnBFe8kmopdnCrXu/13OSlB0ZMUly2+pIGhy4fvSRtpZXOzqanyqvllpvzc4tzN9dvvbOu5cvSrmFrd5/AAoJCfh+cszgAAAAAElFTkSuQmCC",
+        "type": "voce"
+    },
+    {
+        "href": "https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice",
+        "text": "Crossing the uncanny valley of conversational voice",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABl0lEQVQ4jbWTv0tbURTHv+fem/de8uIogltppYP+Ce6lUwZ9nRwcnIW2BDLVa0QIEvwPCh1KO1TEQXQpOAtdioOL/gm10pCf791zHPoeJiaaZPALl8vh8v3A+Z57gGcQiYCyQgRkLdTE5mnfTHorAFzdX1/S0tpysWx/qvy4sHul3TBUrxoN+VKtHJ2mEOkHKACwNq06rmCC3grr9kH0PsorHb/2C+5dzm+f2L239dRMowD/qR5zp9VLCLywOFt8IeDbZrObsMTdfJE+VuuljYeQLBwBAFbBNUj98YMcQZQCkSFSRpiEnWOlk01rI68fMpCu/fD5RsRbY0fnoFaiFZiIBcI6jmNi5pfw9fyoEO8h5cOfAM6shXD+jSYiYSEhASBCPkzmIQAyNF9roWAh1oKTrveL2SitSUQAZlCSxNkUZKiFFMBIQ+3dznzttNxVkDc+AJeeAT32wwQA1Wrf/jqnV3ud3GUYFozRKoSvM89wiKMgO5Xj3zf/5pbbjaAM53138Br9LYzVNHvwlCiKIj1mVyaH9Rd3miCpz9AJvkUAAAAASUVORK5CYII=",
+        "type": "voce"
+    }
+]
