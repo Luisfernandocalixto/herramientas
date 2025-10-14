@@ -1,5 +1,34 @@
 [
-
+    {
+        "href": "https://edu.gcfglobal.org/en/excelformulas/#",
+        "text": "Tutorial\n                        gratuito de fórmulas de Excel en GCFGlobal",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADAElEQVQ4jY3TS28bZRjF8f87M56Lp3Z9iZuG4DQRBEgbUhpBGzWVCl0gkBBrhEQ3iAV8Avas2cESdkhIBZUFolJRQQiVVoQmCFDUUqvKtXHiemxnbM/1nZddIBKLPh/gtzjnPILHuHhn5SXaf52mPLdsjp9eVkrpgCGEiIzHAUTYqci7X1/WJ7ya6jX2ZePaTLr58+vAB/8LKKX0FjiyjwMgG5/PqaA9lt69clk2vnlbycTSJl+9CnAI8JQ62hnEE0ud4WQrTJ/2pTpZ0DUuuJNT1shsifZqRfV3EcX679r44o1DwLofnbrd9N9Y3Y/fbMbJGUfTrIWKw5RrIkYuYkyeh70VssZ3qOFehp6TB8B9Pzp1ba//0XaYXuqlWWEzSNmLUr586PNiyeadepGFch537ByBe4Lh1q8TanPpLeCGsafUkSsP2h9uhemFrt8qhMM2tgKyIlDkt27IMUvH1TX204xukqfgnilmSWUGwHjQCV9oJdnFtV6vOhvf46y5Ripy/BjWuZrNAbDcDeklGZtBgqtrzJfyupmfqW4Ph3Vj1Q/nbSGsME3IM2BUD/CEdqiVZiRpRgEAY7ZOJ5H6s0fM0i9e8orRT7OSowtREjGWTFBZhqMlnNRbWKywTpk40xioHDscJVMFNKCa07UglQVjzDLW7j9qyvPib6ZNj5wuEJrkOD0yJVk0N5BC52Y0zn5mIyngpxmNQRy9PFr401ismj+Vt24FltolUwofC4nBnWSUH5imlgQgBDvKpY3LcU1gaSIeyOzhdMleNsZseysemfrsevuJd/2gc+KpcJuyiFDABlU2sn+zKJsaNdNg3Dbunas4Hx8Tom8IIaRS3ifPFVj3tm69X+wOF1wi5q0W18MuO6JENacx7hiMmAYTjnF7vpT/9FLN/fZgSEJUep63+4dn+U3PcrxUqwxGZbv+nnaHL5zXGLX0wZSbWzpbyn/1fDn3/ZOWtSmEiADEwQP5fi3QY9uRZhjosR32H80CqNozNwEqkAKJECL5b8X/AKzUXpIKrGOCAAAAAElFTkSuQmCC",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://www.excel-easy.com/basics/ribbon.html",
+        "text": "Cinta\n                        en Excel - Tutorial fácil de Excel",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADi0lEQVQ4jXWSW2yTZRyHf+/7nVr60RVKdxAc7pAVlBkCAhlORMAYDwjBAypmyUzEZMNkiZqgN8YLo8HEQ9xIXIYzUYhEkYhO4+JgYwE2JnQb2daxA1tby2rbdYW2dP2+7/17sUDwwufmd/Ukv4uHYQFGABhAJzqGt7hcztpD3/dVxRLJUiLQPZ4l197au/7CwNVwa8PejWcJYGzBI9zBU6e/9GF7oz+QyF0ei1Off4Y27G+1quu+tQYmonR5PEZD1+K5Z95ra4SnTr+tcRAxItIrd24+qSlKvSdP48fa+42KFS7ToWmU59CoOF+3vvu93ygu0Lndptav3V19koh0EC0c8YfmmjoGY7R6X/Ot5p99FhHRkbYBa01Ni1lZ02L+2Om3iIi++KHPXPXKV7fOXInTaDDZCACcjNT27oHg/vuWSaZNlZWLI2EYphAbvIXQFM4WO1S2tjwf2Zwpzg0GmcOuKSUeyeweDLxBqdgOSS7f9f6u6vJ1eQ5N/NQ1yp+uKqPJ8BzylziYYRHWVxRhqdMO31gEqiJTLJlmNU9UUqFbl5t+HRWs5OWvR57cWOxtathOo4E4AKD5lA83Mjl8emAHiAivffwb1lUU0O5HvLCpEistcrE3vzyNtp4pP/focunY9D80HkpgeDoOb7Gbx5JZ+vOvAF2PpzAyHUPPUJgis2l2/8qlUu9wGNMzSfJPRsijS+WyIoMFoymaSaRZMHID7xw+LTJZgzlsCh061oOcYSHPobFYMoP6z9utVcXLWDB6E6Foitx5NnCu2CYZk3inLyBe3LYav5yfoLHQLGSZs3NXQugbnYGmShiaiqPjUgDPPepFx6UpwSSJS4p9QhaWuLBYt3u7fNPU8MJD2Lm5jA2MReneAp0pMocQhHTWRCiaoofXuJmmSujyBcipL2KmZfXIIHGEc/ZqMjXPIokMfVK3TcJ/WIhcCCLOGZsIJax01mBc0UyJsRYGAOX7Whs/qnu8fk/V8vkTnX65d/hvNjObxrxhgQRBVSSsLHJR9YMr2FObysxTvdfVtxv/aBo/WntABhEbf+yDg89XLX+gb2Ju62fHL1r6ItWUJM4ZiANAet4UsZGw6O4PSB63W312U1HX6+9mDt5JGQCI4s5szjpsCZGj/8G0RC6Ts5ooHnfe9thdSwBgGLTl+JmrtZORm1XpdKoUABwOfbKs0Hl+z9aSb+yKcvZu518TQNwtlu/9SQAAAABJRU5ErkJggg==",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://javascript30.com/",
+        "text": "JavaScript\n                                30 — Construye 30 cosas con vainilla JS en 30 días con 30 tutoriales",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACtElEQVQ4jQXBTWgUZxgA4Pfn+2Z2djJudLOLNSZbg2bTGI2wtXoqVhRUBL1UT4K2YAsq9FBKDz0JWmh7KrQ99CCt10Kvtg1YPBXrIooSUFGzITGb4Mbdzc7szM68r8+Dw1v2iQIBApIhIEYVSYUUlBQAgQkBVBREAEENAhERKBjGMKIwZscRPycMqCiMGg9sMiDPTZiQ2LLvjyOQYdoInX07o4snl/OONpoesyHUXt+ZGuvvr3ZXWm6mho3Dfr7CDBuhPVprffv50yjE7z5bXFh17z7ZHA/48umlS6carh0cnOndrheNyQgRVE3gw56J7oVrUz/+OQ4M05VO1OP9U+HZj5Y//eG9L36Z3rVto1btRn1LiAxIlvHGrbHHz4u1apTEMFcfAbXnjiz9c29koVnwXDPfCI4dWI1ThxCZmDPlKPa2jyZffrxwdz5/q761WBrM7OjceVguDDGiu/zaHy0mTExABpEScStb45tfP0CU6lh09fzLzUNaCvqv2r51LBGnYuOBSQUNs6uaEVMi9qtfZ9JUbn//3+Rou1RIrdVMDBMp2GKQNN84QJYICdE4hrr9/P/z7+ydiD0Hbs6Nr617ra5FNczGWpzc3rv/bMQ1SEzGMFvGdm/owO7O9QuPX67aR41yqk6r4yJSknKl3K+Uu/UnI4En5LAxZOOBd7y29Mc3/0YxXv7pg25Y6MX5xtqmbaWkuTZ85sMXdx6VV9qFnINGwT205/mh2cXxcufGXzt+n5vs9P2CJ+3Q/bv+7on3F0tBNjvRvPLzwWKgoowz1U9E+qXh9ZX13Ou2P+SL66BkhCRRjIdnn9V2rf42V33VCvKuigLunb44yNI4AcOS83IioGkCqikKKGyEmKSSd7Oco6IgKobYWCRjVBVEGTRBNgBgVBB0OMgQWDLIRA2CAL0FhDM71S7+/XQAAAAASUVORK5CYII=",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://futurecoder.io/course/#BasicTerminology",
+        "text": "Futurecoder",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB8klEQVQ4jW2Sv2taURTHz73vOiq80fRJMEIzNCWuJVAQXoiTq4KDwaAP5w4hJFIUjH+BoSkBQwangjVgRjHgD3BwE4KlIElIwUkpgrHeczrc5GmTfrZzud8v33O/l21uvt/a+nBy8pUxRkTwCpfLFQqFdF2fTqeVSgWy2TQRHR3tAwDn3L7HGAMAwzC63S49k81mwedbGwxuEGfb24FljcPhAIB8Pk9EvV6vVCo1Go1gMAgAYJoBKR9vb394PG9sb0W9XpdSxmKxRURlmckcElG1WgYATdOEELlcrlqtDodDROx0OuVyuVAoeL3ehebq6jsRZTKHAOB0OhGRXhGJRBb7eTzG/f1PKR9NMwAApmmmUql+v09ExWLRsqxwOCyE+CdYIPBxOv19d9fXdV2dN5tNIopGo/YKApbQNM4YkxIRUXtGJRRCcM5ns5lQkRDR6129uDjXNBGPW+PxmDGQUqoqEXE+nyvxk4CITk8LbvdqOr1fq11zzhHx/92r9MfHn4no8vLbcneMsXa7TUTJZFI995NmZ8ck+jMY3KysuF8U12q1EDGRSNhGfH397dnZFyllPG49PPzinNsxGGNqVN7KSESjYcPwHRx8qtWuNU2TUtr2RDSZTDjno9FIjQAAGxvv9vZ2XySx8fv9lmWpj6j4C10nAEF6+6bDAAAAAElFTkSuQmCC",
+        "type": "tutorial"
+    },
+    {
+        "href": "https://www.codinground.com/speech-recognition/",
+        "text": "Python:\n                                La guía completa para el reconocimiento de voz - Coding Ground",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADNUlEQVQ4jV2TbUjddRTHz1Wvuu0as+bjNY2rM3Uu3abNh+ZsKq3Yi0BmExUqGoT4skFPr9qbgkFTKdakoWzZdE8FujWittKFY3sRyY3Q+dykrqh0r3rv9f//nU8vui7r++YcDud7+HL4fkVEBHBIBMFg8AC2/eVCIDAzcP+eDarAjDGmBziwsbeZszFwGWPaFV0HaD7xLnsP1xMOrbMJQaAd2LaZ6AASVPUGwPLSitbWNVjiiDZF5Wn6YHpUVdUAqKpGDl0HEh6pMMZ0APj/Wgm/1vqKKTwYR12jm4xdsdp/9YICjI56N1SEI/W0iIhY1lqlqgmH1gN2R2+zqT62Vfe/4NboeKeWlNawtLhER+dZdW5N1q5zX2hEiQ2ELMuqEDDnAdreesNKy3WqMz4FkRj2l9Wwshrg1OkuRFwUZSfjKdzN5ZvfK4AxijGmR0CXBwZvqiM6wUQ5k1UkXp+rqsXv9/Nxx2eU5GznZKOHDxo9WlxcoInZ+Xr9m2sbP5kRgG87Wjm872kVSSJnZzE+3wLdFy4i6bk8X5jMkVI3mTnP8ISniMy8p6h5OVd7+3tRxY4REXPx9mz0D96HUnwoSk60vS5JSTtkeOiOOP6ck1v+x6Wt9U3pfqeNnycmHHNj04TXVhHiJBDwEyWwEEjLI7gurC2HsYPrCEjti7USW5AvH3adks6P3pe793+R4e5uEpemZXxySkZ/G5PJmdl5Qe2vzvT2IRJlOVwZWn60haBtMT49w8kzZwEYHxnm7YMlHM/PoCApRSV+h/XJ5z1gzHmxsA5NTUyG97a8amfVN5iEwn1a9VK9eu/d1ZBvnoG+PpqKdmlZaqrufDJH3TnFpv/KNTvihcqIG825Ia8XiU0Mi7jMkSw3x/fkU51XoM6Y7ZqY4mF3WTUNTU1mZOSnMIBlWe2brexiLfjdjaE7pOftUU+8yxLZYuIec2tVdZ3WH20wJaUVdn//Jf2HbA/6fD4X4HiUqD9gW5Jop/fXsWNXvx7ccvvWjzL/cJ6szHTJ9ngcLc2NUlH+rGXb9qeLizHvpaY6Vv8TqH97qwa1L4dCwakHE5PW3NzvFjALesmyrMr/c/4GhLliDkm+Ny4AAAAASUVORK5CYII=",
+        "type": "tutorial"
+    },
     {
         "href": "https://es.digitaltrends.com/computadoras/como-volver-windows-10-desde-windows-11/#:~:text=Microsoft%20ofrece%20un%20proceso%20para,plazo%20era%20de%2030%20d%C3%ADas).",
         "text": "Cómo volver a Windows 10 después de instalar Windows 11 | Digital Trends Español",

@@ -1,4 +1,29 @@
 [
+    
+    {
+        "href": "https://pypi.org/project/pyttsx3/",
+        "text": "pyttsx3\n                                · PyPI",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACO0lEQVQ4jX1TTWsUQRB91R/TvbNJNtGA5OBNvARPkn8gOYigKB6852+FgCAED0oM5EcEcnVF2Li6JCabjJtkdzKZne4uDzOzbha1oA7VVa/q1SuamFkAABEFVLa/v39/ZWXlRRybDYBsnudvB4PLj6urq5/rmho3bbLT6Tzp9082B4Pk2PsxO5ezczkzO768HPw6P+9/6Ha7L/f29hZqELXb7cdLS611a+0bY8wja2N4P4ZzzjMz1QOllFJrC2aHq6vh9yzL3ydJskPfDjsnrcWFe1EUQSkVADAAwcy36AkhwMwhhMDOOQkIStPrgWo2GzGBi9FwWBAJL6VUxlqltdJ/9g0Yj8fjonCeSHhjrGg0GjqKjFAh+CBEpK01mpnZB1+ko6EjErmxxhAJLgpXGGPF3FystNYWAAGAcw6KSFApKjMzCyVVpKQCM4d0NMpai3fl/HwrJqKJHgBCeTgiVYvJDBARuFyeiUhEWmtjjK7AoZpMzIy64eSWVf9aOQLAoWQVpt5RNZ8ECrdtmibN+GweFYOS8mziPzZdy6LSwjMjzBT8E1ytFYQQQnjvQ7PZVNYaSUS1wuXeZVx7AOABgIgkAFkURa6Go2zdFcfPjYlex834YaNhkWUZQmDPIWCqgaxppGn6Jc/z7SRJdibcdnd3487X9rOjox/bpydHZzfXV3zW/+lCKG+RZdnpxcXFu16v93Rra8vWOPrbdz44OHiwvHznlSDaaM4t3HjvN7vd7qe1tbXDiRgV7je/80IOZpe6HgAAAABJRU5ErkJggg==",
+        "type": "code"
+    },
+    {
+        "href": "https://github.com/mlc-ai/web-llm/blob/main/src/config.ts",
+        "text": "web-llm/src/config.ts\n                        at main · mlc-ai/web-llm · GitHub",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcUlEQVQ4jY3TO2tVURAF4LXvzeOqEATBQqsgCGLhAyWx0V9hYSv4Y6IEtUhA0EJrUUSwsQn+ATshgo9bKJaCMSJJ/Gzm4OFgxIENs/eaNe+dJEFLCS7hAd5jGz9Kv4+l7CeYxWoROvlVp5NtrGDUJ44wj+f+Xx5XwFHn5E4BL3ENG9jCR3wo/VVhL8p2pSMv4yd2sVZvMziOSZ1jmCvsdtl+x7mZJDeSzFVFuxgn2Wutfeq16DNaYbtJxkkOJrkevK1GbeNkry/9ybTujkV8K87rVH0wxey+Y/rjbIzNcvB1lKQlkeRQkgP9yH8htySTJAvFG4+STAs/kmSptaaaOCxhprUmyXKSoxV0GtyrdLaqjFP/yOA03mCvyl4PztflLp6U/hRnBsSHvX7t1OjPdgbrBVzArVqoxZ6DE4N1htXhKm/gHa7i4iD1Cb70nDwrzmho9KhndLiHLVSfdrDWbeVwPJ1+GTcx6b3N1y+8MuT8Bs7LR9lce+lpAAAAAElFTkSuQmCC",
+        "type": "code"
+    },
+    {
+        "href": "https://github.com/wesbos/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-FINISHED.html",
+        "text": "JavaScript30/index-FINISHED.html\n                                at master · wesbos/JavaScript30 · GitHub",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcUlEQVQ4jY3TO2tVURAF4LXvzeOqEATBQqsgCGLhAyWx0V9hYSv4Y6IEtUhA0EJrUUSwsQn+ATshgo9bKJaCMSJJ/Gzm4OFgxIENs/eaNe+dJEFLCS7hAd5jGz9Kv4+l7CeYxWoROvlVp5NtrGDUJ44wj+f+Xx5XwFHn5E4BL3ENG9jCR3wo/VVhL8p2pSMv4yd2sVZvMziOSZ1jmCvsdtl+x7mZJDeSzFVFuxgn2Wutfeq16DNaYbtJxkkOJrkevK1GbeNkry/9ybTujkV8K87rVH0wxey+Y/rjbIzNcvB1lKQlkeRQkgP9yH8htySTJAvFG4+STAs/kmSptaaaOCxhprUmyXKSoxV0GtyrdLaqjFP/yOA03mCvyl4PztflLp6U/hRnBsSHvX7t1OjPdgbrBVzArVqoxZ6DE4N1htXhKm/gHa7i4iD1Cb70nDwrzmho9KhndLiHLVSfdrDWbeVwPJ1+GTcx6b3N1y+8MuT8Bs7LR9lce+lpAAAAAElFTkSuQmCC",
+        "type": "code"
+    },
+    {
+        "href": "https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio",
+        "text": "Archived:\n                                Python Extension Packages for Windows - Christoph Gohlke",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB3UlEQVQ4jX2TsWsUURDGf9/bvdvkYhI4UohgKWkUsbIyoI3YKNHSTrEXexHBQrTRVhEhWggi2NgLIihYKP4DVmIRIYnn3e1d9n0Wb+8uGyHbzOy8x8z3Zn4jrr2oMCYgDAgOtNR+xAjlWAYZR3B960BLnSkYm5xgYYMQiim96lJTuzfuqQSEAvZM2vRzw2h/fOLaBKTZjYlECyykCBhXeapugcMsq0RDQTuMyVQhmblsiKs2VBkrnS0YtQmKFGHUUJBxav0OASg7ennpMS0Mznh24Qkffxzn7ZUH3DvzmuWFHkcXtrh1+h1vvq9Ba0yagmY9ObK4rSKrLAc6Ranba6/YHnV88ukjloo+54994fChHRFlyTiKHINk7MBoN2O1+5OyKhAwjhmhft9CPiIoNnstCNOm5WMefrroy6ufuX92g+dfz/nu+6vuzv/l242brJ/4wO/+Ir96S04ICAzi+kZFlAlRjOeYL3q0QsXOYAlCmsJKZ4fNP13UHtJWRelWIjFYOZ6MMaDWkEFVMNgVapcJPsRmfxmKEsdA6SyNVEl5PkVUYIf6MCa/hk7ZbpK8l0QnUpsgif+a1ORPzTOJnFgvE/UyyYm2CXn7/5nG6mXSnmWifttBdlLdaZn+AVRW7fQu+tgGAAAAAElFTkSuQmCC",
+        "type": "code"
+    },
     {
         "href": "https://transform.tools/",
         "text": "Transform",
