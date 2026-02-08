@@ -1,80 +1,62 @@
 [
     {
-        "href": "#",
+        "href": "https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi",
         "text": "React Developer Tools",
-        "imgSrc": "",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACxklEQVR4nKRRzYsURxT/varq3plpZ5jMZOMiGDas5pBbdkkgkENIBHPKLSQELyH4HwSSkOQQAh48JBfRg/+BBxG9eFBQEQRBF3cVEXVERV3W0dntj5nuqa56vlo/8O5rqqve9/v9nsE7itnY2PiIiL6YTqdedHLOkdaaxSaXDnqIYxH32hf0OI6V2C4Za+03vV7vaJ7nUEpBErcqV1XlvPc26BIYNRoN/bprKJokCYbD4X4lQVWapk6OlWlsWZauKIqrKysrc/1+vx3O6urqnNiuBN9oNLIhNuRI8crITwWR0UJ3qus6jLBrcXHxUJ6mhYd8tU8mVbVbfMoYQwFPyAm5Rm5+ixPyzrHM3BHnDyxFwQJLO3BdQ4jx0m4Lk0iAzIGDQAx5ZtIvrcSNJqdF4TnPXxZPElLb2gqTMcE79jKrQKeQa8Lor5gBtxLyRYbq9EnYq5eVGz5FwKN6fZhPP8fMnm+hk22EongztRF2ERmN2vTA9wfI/zsAd+8O6TiGABYIEjVcR319GXTxDLd//Rvx/AKapLa2psIyKYoRPV3n8YG/4KSI7r4n1BGoyCHd4Ky8oy7sjbvY/O131A/WoKRBJOWNlVUnSuOf6ydob7bGu5I2jdNN7szvhPvsK0Tbm2hXl1DlD6GiBUb+HH7tGPPHfwgdwkG30eXH6Tofntzk4dJO+vfsQ24tfULL3x/EscEsYRP4cek73tv5k5DdBPQM8fSCs5OfmRsfyI6qurWaPiKXbrrjCx1/bc748st9/v/lWR7ceuYGg2fu4KlZfzv7qcbEeZdRjXLk1PQuTSrdUBhP1/K6hGpGcdU05sjXH5pRd06TLLTT7+lOr6cphs6i7Qbvt7TuKEMdE3tXIsvxxGDHL6fya/v3NKza4W1pz89Y2kdDNO2UsqrcWlesE7T8E7iNjBy3PCGKJuPJo93zOEd4R3kBAAD//6+vUHAAAAAGSURBVAMAsfGG9HCjUr4AAAAASUVORK5CYII=",
         "type": "extension"
     },
     {
-        "href": "#",
+        "href": "https://chromewebstore.google.com/detail/live-server-web-extension/fiegdmejfepffgpnejdinekhfieaogmj",
         "text": "Live Server Web Extension",
-        "imgSrc": "",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACxklEQVR4nKRRzYsURxT/varq3plpZ5jMZOMiGDas5pBbdkkgkENIBHPKLSQELyH4HwSSkOQQAh48JBfRg/+BBxG9eFBQEQRBF3cVEXVERV3W0dntj5nuqa56vlo/8O5rqqve9/v9nsE7itnY2PiIiL6YTqdedHLOkdaaxSaXDnqIYxH32hf0OI6V2C4Za+03vV7vaJ7nUEpBErcqV1XlvPc26BIYNRoN/bprKJokCYbD4X4lQVWapk6OlWlsWZauKIqrKysrc/1+vx3O6urqnNiuBN9oNLIhNuRI8crITwWR0UJ3qus6jLBrcXHxUJ6mhYd8tU8mVbVbfMoYQwFPyAm5Rm5+ixPyzrHM3BHnDyxFwQJLO3BdQ4jx0m4Lk0iAzIGDQAx5ZtIvrcSNJqdF4TnPXxZPElLb2gqTMcE79jKrQKeQa8Lor5gBtxLyRYbq9EnYq5eVGz5FwKN6fZhPP8fMnm+hk22EongztRF2ERmN2vTA9wfI/zsAd+8O6TiGABYIEjVcR319GXTxDLd//Rvx/AKapLa2psIyKYoRPV3n8YG/4KSI7r4n1BGoyCHd4Ky8oy7sjbvY/O131A/WoKRBJOWNlVUnSuOf6ydob7bGu5I2jdNN7szvhPvsK0Tbm2hXl1DlD6GiBUb+HH7tGPPHfwgdwkG30eXH6Tofntzk4dJO+vfsQ24tfULL3x/EscEsYRP4cek73tv5k5DdBPQM8fSCs5OfmRsfyI6qurWaPiKXbrrjCx1/bc748st9/v/lWR7ceuYGg2fu4KlZfzv7qcbEeZdRjXLk1PQuTSrdUBhP1/K6hGpGcdU05sjXH5pRd06TLLTT7+lOr6cphs6i7Qbvt7TuKEMdE3tXIsvxxGDHL6fya/v3NKza4W1pz89Y2kdDNO2UsqrcWlesE7T8E7iNjBy3PCGKJuPJo93zOEd4R3kBAAD//6+vUHAAAAAGSURBVAMAsfGG9HCjUr4AAAAASUVORK5CYII=",
         "type": "extension"
     },
     {
         "href": "#",
         "text": "Documentos de Google sin conexión",
-        "imgSrc": "",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACxklEQVR4nKRRzYsURxT/varq3plpZ5jMZOMiGDas5pBbdkkgkENIBHPKLSQELyH4HwSSkOQQAh48JBfRg/+BBxG9eFBQEQRBF3cVEXVERV3W0dntj5nuqa56vlo/8O5rqqve9/v9nsE7itnY2PiIiL6YTqdedHLOkdaaxSaXDnqIYxH32hf0OI6V2C4Za+03vV7vaJ7nUEpBErcqV1XlvPc26BIYNRoN/bprKJokCYbD4X4lQVWapk6OlWlsWZauKIqrKysrc/1+vx3O6urqnNiuBN9oNLIhNuRI8crITwWR0UJ3qus6jLBrcXHxUJ6mhYd8tU8mVbVbfMoYQwFPyAm5Rm5+ixPyzrHM3BHnDyxFwQJLO3BdQ4jx0m4Lk0iAzIGDQAx5ZtIvrcSNJqdF4TnPXxZPElLb2gqTMcE79jKrQKeQa8Lor5gBtxLyRYbq9EnYq5eVGz5FwKN6fZhPP8fMnm+hk22EongztRF2ERmN2vTA9wfI/zsAd+8O6TiGABYIEjVcR319GXTxDLd//Rvx/AKapLa2psIyKYoRPV3n8YG/4KSI7r4n1BGoyCHd4Ky8oy7sjbvY/O131A/WoKRBJOWNlVUnSuOf6ydob7bGu5I2jdNN7szvhPvsK0Tbm2hXl1DlD6GiBUb+HH7tGPPHfwgdwkG30eXH6Tofntzk4dJO+vfsQ24tfULL3x/EscEsYRP4cek73tv5k5DdBPQM8fSCs5OfmRsfyI6qurWaPiKXbrrjCx1/bc748st9/v/lWR7ceuYGg2fu4KlZfzv7qcbEeZdRjXLk1PQuTSrdUBhP1/K6hGpGcdU05sjXH5pRd06TLLTT7+lOr6cphs6i7Qbvt7TuKEMdE3tXIsvxxGDHL6fya/v3NKza4W1pz89Y2kdDNO2UsqrcWlesE7T8E7iNjBy3PCGKJuPJo93zOEd4R3kBAAD//6+vUHAAAAAGSURBVAMAsfGG9HCjUr4AAAAASUVORK5CYII=",
         "type": "extension"
     },
     {
-        "href": "#",
+        "href": "https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh",
         "text": "Dark Reader",
-        "imgSrc": "",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACxklEQVR4nKRRzYsURxT/varq3plpZ5jMZOMiGDas5pBbdkkgkENIBHPKLSQELyH4HwSSkOQQAh48JBfRg/+BBxG9eFBQEQRBF3cVEXVERV3W0dntj5nuqa56vlo/8O5rqqve9/v9nsE7itnY2PiIiL6YTqdedHLOkdaaxSaXDnqIYxH32hf0OI6V2C4Za+03vV7vaJ7nUEpBErcqV1XlvPc26BIYNRoN/bprKJokCYbD4X4lQVWapk6OlWlsWZauKIqrKysrc/1+vx3O6urqnNiuBN9oNLIhNuRI8crITwWR0UJ3qus6jLBrcXHxUJ6mhYd8tU8mVbVbfMoYQwFPyAm5Rm5+ixPyzrHM3BHnDyxFwQJLO3BdQ4jx0m4Lk0iAzIGDQAx5ZtIvrcSNJqdF4TnPXxZPElLb2gqTMcE79jKrQKeQa8Lor5gBtxLyRYbq9EnYq5eVGz5FwKN6fZhPP8fMnm+hk22EongztRF2ERmN2vTA9wfI/zsAd+8O6TiGABYIEjVcR319GXTxDLd//Rvx/AKapLa2psIyKYoRPV3n8YG/4KSI7r4n1BGoyCHd4Ky8oy7sjbvY/O131A/WoKRBJOWNlVUnSuOf6ydob7bGu5I2jdNN7szvhPvsK0Tbm2hXl1DlD6GiBUb+HH7tGPPHfwgdwkG30eXH6Tofntzk4dJO+vfsQ24tfULL3x/EscEsYRP4cek73tv5k5DdBPQM8fSCs5OfmRsfyI6qurWaPiKXbrrjCx1/bc748st9/v/lWR7ceuYGg2fu4KlZfzv7qcbEeZdRjXLk1PQuTSrdUBhP1/K6hGpGcdU05sjXH5pRd06TLLTT7+lOr6cphs6i7Qbvt7TuKEMdE3tXIsvxxGDHL6fya/v3NKza4W1pz89Y2kdDNO2UsqrcWlesE7T8E7iNjBy3PCGKJuPJo93zOEd4R3kBAAD//6+vUHAAAAAGSURBVAMAsfGG9HCjUr4AAAAASUVORK5CYII=",
         "type": "extension"
     },
     {
-        "href": "#",
+        "href": "https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo",
         "text": "Fake Filler",
-        "imgSrc": "",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACxklEQVR4nKRRzYsURxT/varq3plpZ5jMZOMiGDas5pBbdkkgkENIBHPKLSQELyH4HwSSkOQQAh48JBfRg/+BBxG9eFBQEQRBF3cVEXVERV3W0dntj5nuqa56vlo/8O5rqqve9/v9nsE7itnY2PiIiL6YTqdedHLOkdaaxSaXDnqIYxH32hf0OI6V2C4Za+03vV7vaJ7nUEpBErcqV1XlvPc26BIYNRoN/bprKJokCYbD4X4lQVWapk6OlWlsWZauKIqrKysrc/1+vx3O6urqnNiuBN9oNLIhNuRI8crITwWR0UJ3qus6jLBrcXHxUJ6mhYd8tU8mVbVbfMoYQwFPyAm5Rm5+ixPyzrHM3BHnDyxFwQJLO3BdQ4jx0m4Lk0iAzIGDQAx5ZtIvrcSNJqdF4TnPXxZPElLb2gqTMcE79jKrQKeQa8Lor5gBtxLyRYbq9EnYq5eVGz5FwKN6fZhPP8fMnm+hk22EongztRF2ERmN2vTA9wfI/zsAd+8O6TiGABYIEjVcR319GXTxDLd//Rvx/AKapLa2psIyKYoRPV3n8YG/4KSI7r4n1BGoyCHd4Ky8oy7sjbvY/O131A/WoKRBJOWNlVUnSuOf6ydob7bGu5I2jdNN7szvhPvsK0Tbm2hXl1DlD6GiBUb+HH7tGPPHfwgdwkG30eXH6Tofntzk4dJO+vfsQ24tfULL3x/EscEsYRP4cek73tv5k5DdBPQM8fSCs5OfmRsfyI6qurWaPiKXbrrjCx1/bc748st9/v/lWR7ceuYGg2fu4KlZfzv7qcbEeZdRjXLk1PQuTSrdUBhP1/K6hGpGcdU05sjXH5pRd06TLLTT7+lOr6cphs6i7Qbvt7TuKEMdE3tXIsvxxGDHL6fya/v3NKza4W1pz89Y2kdDNO2UsqrcWlesE7T8E7iNjBy3PCGKJuPJo93zOEd4R3kBAAD//6+vUHAAAAAGSURBVAMAsfGG9HCjUr4AAAAASUVORK5CYII=",
         "type": "extension"
     },
     {
-        "href": "#",
-        "text": "Fake Filler",
-        "imgSrc": "",
-        "type": "extension"
-    },
-    {
-        "href": "#",
+        "href": "https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf",
         "text": "Refined Github",
-        "imgSrc": "",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACxklEQVR4nKRRzYsURxT/varq3plpZ5jMZOMiGDas5pBbdkkgkENIBHPKLSQELyH4HwSSkOQQAh48JBfRg/+BBxG9eFBQEQRBF3cVEXVERV3W0dntj5nuqa56vlo/8O5rqqve9/v9nsE7itnY2PiIiL6YTqdedHLOkdaaxSaXDnqIYxH32hf0OI6V2C4Za+03vV7vaJ7nUEpBErcqV1XlvPc26BIYNRoN/bprKJokCYbD4X4lQVWapk6OlWlsWZauKIqrKysrc/1+vx3O6urqnNiuBN9oNLIhNuRI8crITwWR0UJ3qus6jLBrcXHxUJ6mhYd8tU8mVbVbfMoYQwFPyAm5Rm5+ixPyzrHM3BHnDyxFwQJLO3BdQ4jx0m4Lk0iAzIGDQAx5ZtIvrcSNJqdF4TnPXxZPElLb2gqTMcE79jKrQKeQa8Lor5gBtxLyRYbq9EnYq5eVGz5FwKN6fZhPP8fMnm+hk22EongztRF2ERmN2vTA9wfI/zsAd+8O6TiGABYIEjVcR319GXTxDLd//Rvx/AKapLa2psIyKYoRPV3n8YG/4KSI7r4n1BGoyCHd4Ky8oy7sjbvY/O131A/WoKRBJOWNlVUnSuOf6ydob7bGu5I2jdNN7szvhPvsK0Tbm2hXl1DlD6GiBUb+HH7tGPPHfwgdwkG30eXH6Tofntzk4dJO+vfsQ24tfULL3x/EscEsYRP4cek73tv5k5DdBPQM8fSCs5OfmRsfyI6qurWaPiKXbrrjCx1/bc748st9/v/lWR7ceuYGg2fu4KlZfzv7qcbEeZdRjXLk1PQuTSrdUBhP1/K6hGpGcdU05sjXH5pRd06TLLTT7+lOr6cphs6i7Qbvt7TuKEMdE3tXIsvxxGDHL6fya/v3NKza4W1pz89Y2kdDNO2UsqrcWlesE7T8E7iNjBy3PCGKJuPJo93zOEd4R3kBAAD//6+vUHAAAAAGSURBVAMAsfGG9HCjUr4AAAAASUVORK5CYII=",
         "type": "extension"
     },
     {
-        "href": "#",
+        "href": "https://chromewebstore.google.com/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe",
         "text": "File Icons for Github and GitLab",
-        "imgSrc": "",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACxklEQVR4nKRRzYsURxT/varq3plpZ5jMZOMiGDas5pBbdkkgkENIBHPKLSQELyH4HwSSkOQQAh48JBfRg/+BBxG9eFBQEQRBF3cVEXVERV3W0dntj5nuqa56vlo/8O5rqqve9/v9nsE7itnY2PiIiL6YTqdedHLOkdaaxSaXDnqIYxH32hf0OI6V2C4Za+03vV7vaJ7nUEpBErcqV1XlvPc26BIYNRoN/bprKJokCYbD4X4lQVWapk6OlWlsWZauKIqrKysrc/1+vx3O6urqnNiuBN9oNLIhNuRI8crITwWR0UJ3qus6jLBrcXHxUJ6mhYd8tU8mVbVbfMoYQwFPyAm5Rm5+ixPyzrHM3BHnDyxFwQJLO3BdQ4jx0m4Lk0iAzIGDQAx5ZtIvrcSNJqdF4TnPXxZPElLb2gqTMcE79jKrQKeQa8Lor5gBtxLyRYbq9EnYq5eVGz5FwKN6fZhPP8fMnm+hk22EongztRF2ERmN2vTA9wfI/zsAd+8O6TiGABYIEjVcR319GXTxDLd//Rvx/AKapLa2psIyKYoRPV3n8YG/4KSI7r4n1BGoyCHd4Ky8oy7sjbvY/O131A/WoKRBJOWNlVUnSuOf6ydob7bGu5I2jdNN7szvhPvsK0Tbm2hXl1DlD6GiBUb+HH7tGPPHfwgdwkG30eXH6Tofntzk4dJO+vfsQ24tfULL3x/EscEsYRP4cek73tv5k5DdBPQM8fSCs5OfmRsfyI6qurWaPiKXbrrjCx1/bc748st9/v/lWR7ceuYGg2fu4KlZfzv7qcbEeZdRjXLk1PQuTSrdUBhP1/K6hGpGcdU05sjXH5pRd06TLLTT7+lOr6cphs6i7Qbvt7TuKEMdE3tXIsvxxGDHL6fya/v3NKza4W1pz89Y2kdDNO2UsqrcWlesE7T8E7iNjBy3PCGKJuPJo93zOEd4R3kBAAD//6+vUHAAAAAGSURBVAMAsfGG9HCjUr4AAAAASUVORK5CYII=",
         "type": "extension"
     },
     {
-        "href": "#",
-        "text": "Dark Reader",
-        "imgSrc": "",
-        "type": "extension"
-    },
-    {
-        "href": "#",
+        "href": "https://chromewebstore.google.com/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj",
         "text": "Copyfish Free OCR Software",
-        "imgSrc": "",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACxklEQVR4nKRRzYsURxT/varq3plpZ5jMZOMiGDas5pBbdkkgkENIBHPKLSQELyH4HwSSkOQQAh48JBfRg/+BBxG9eFBQEQRBF3cVEXVERV3W0dntj5nuqa56vlo/8O5rqqve9/v9nsE7itnY2PiIiL6YTqdedHLOkdaaxSaXDnqIYxH32hf0OI6V2C4Za+03vV7vaJ7nUEpBErcqV1XlvPc26BIYNRoN/bprKJokCYbD4X4lQVWapk6OlWlsWZauKIqrKysrc/1+vx3O6urqnNiuBN9oNLIhNuRI8crITwWR0UJ3qus6jLBrcXHxUJ6mhYd8tU8mVbVbfMoYQwFPyAm5Rm5+ixPyzrHM3BHnDyxFwQJLO3BdQ4jx0m4Lk0iAzIGDQAx5ZtIvrcSNJqdF4TnPXxZPElLb2gqTMcE79jKrQKeQa8Lor5gBtxLyRYbq9EnYq5eVGz5FwKN6fZhPP8fMnm+hk22EongztRF2ERmN2vTA9wfI/zsAd+8O6TiGABYIEjVcR319GXTxDLd//Rvx/AKapLa2psIyKYoRPV3n8YG/4KSI7r4n1BGoyCHd4Ky8oy7sjbvY/O131A/WoKRBJOWNlVUnSuOf6ydob7bGu5I2jdNN7szvhPvsK0Tbm2hXl1DlD6GiBUb+HH7tGPPHfwgdwkG30eXH6Tofntzk4dJO+vfsQ24tfULL3x/EscEsYRP4cek73tv5k5DdBPQM8fSCs5OfmRsfyI6qurWaPiKXbrrjCx1/bc748st9/v/lWR7ceuYGg2fu4KlZfzv7qcbEeZdRjXLk1PQuTSrdUBhP1/K6hGpGcdU05sjXH5pRd06TLLTT7+lOr6cphs6i7Qbvt7TuKEMdE3tXIsvxxGDHL6fya/v3NKza4W1pz89Y2kdDNO2UsqrcWlesE7T8E7iNjBy3PCGKJuPJo93zOEd4R3kBAAD//6+vUHAAAAAGSURBVAMAsfGG9HCjUr4AAAAASUVORK5CYII=",
         "type": "extension"
     },
     {
-        "href": "#",
+        "href": "https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa",
         "text": "JSON Formatter",
-        "imgSrc": "",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACxklEQVR4nKRRzYsURxT/varq3plpZ5jMZOMiGDas5pBbdkkgkENIBHPKLSQELyH4HwSSkOQQAh48JBfRg/+BBxG9eFBQEQRBF3cVEXVERV3W0dntj5nuqa56vlo/8O5rqqve9/v9nsE7itnY2PiIiL6YTqdedHLOkdaaxSaXDnqIYxH32hf0OI6V2C4Za+03vV7vaJ7nUEpBErcqV1XlvPc26BIYNRoN/bprKJokCYbD4X4lQVWapk6OlWlsWZauKIqrKysrc/1+vx3O6urqnNiuBN9oNLIhNuRI8crITwWR0UJ3qus6jLBrcXHxUJ6mhYd8tU8mVbVbfMoYQwFPyAm5Rm5+ixPyzrHM3BHnDyxFwQJLO3BdQ4jx0m4Lk0iAzIGDQAx5ZtIvrcSNJqdF4TnPXxZPElLb2gqTMcE79jKrQKeQa8Lor5gBtxLyRYbq9EnYq5eVGz5FwKN6fZhPP8fMnm+hk22EongztRF2ERmN2vTA9wfI/zsAd+8O6TiGABYIEjVcR319GXTxDLd//Rvx/AKapLa2psIyKYoRPV3n8YG/4KSI7r4n1BGoyCHd4Ky8oy7sjbvY/O131A/WoKRBJOWNlVUnSuOf6ydob7bGu5I2jdNN7szvhPvsK0Tbm2hXl1DlD6GiBUb+HH7tGPPHfwgdwkG30eXH6Tofntzk4dJO+vfsQ24tfULL3x/EscEsYRP4cek73tv5k5DdBPQM8fSCs5OfmRsfyI6qurWaPiKXbrrjCx1/bc748st9/v/lWR7ceuYGg2fu4KlZfzv7qcbEeZdRjXLk1PQuTSrdUBhP1/K6hGpGcdU05sjXH5pRd06TLLTT7+lOr6cphs6i7Qbvt7TuKEMdE3tXIsvxxGDHL6fya/v3NKza4W1pz89Y2kdDNO2UsqrcWlesE7T8E7iNjBy3PCGKJuPJo93zOEd4R3kBAAD//6+vUHAAAAAGSURBVAMAsfGG9HCjUr4AAAAASUVORK5CYII=",
         "type": "extension"
     },
     {
-        "href": "#",
-        "text": "Live Server Web Extention",
-        "imgSrc": "",
-        "type": "extension"
-    },
-    {
-        "href": "#",
+        "href": "https://chromewebstore.google.com/detail/shazam-find-song-names-fr/mmioliijnhnoblpgimnlajmefafdfilb",
         "text": "Shazam: Identifica música desde tu navegador",
-        "imgSrc": "",
+        "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACxklEQVR4nKRRzYsURxT/varq3plpZ5jMZOMiGDas5pBbdkkgkENIBHPKLSQELyH4HwSSkOQQAh48JBfRg/+BBxG9eFBQEQRBF3cVEXVERV3W0dntj5nuqa56vlo/8O5rqqve9/v9nsE7itnY2PiIiL6YTqdedHLOkdaaxSaXDnqIYxH32hf0OI6V2C4Za+03vV7vaJ7nUEpBErcqV1XlvPc26BIYNRoN/bprKJokCYbD4X4lQVWapk6OlWlsWZauKIqrKysrc/1+vx3O6urqnNiuBN9oNLIhNuRI8crITwWR0UJ3qus6jLBrcXHxUJ6mhYd8tU8mVbVbfMoYQwFPyAm5Rm5+ixPyzrHM3BHnDyxFwQJLO3BdQ4jx0m4Lk0iAzIGDQAx5ZtIvrcSNJqdF4TnPXxZPElLb2gqTMcE79jKrQKeQa8Lor5gBtxLyRYbq9EnYq5eVGz5FwKN6fZhPP8fMnm+hk22EongztRF2ERmN2vTA9wfI/zsAd+8O6TiGABYIEjVcR319GXTxDLd//Rvx/AKapLa2psIyKYoRPV3n8YG/4KSI7r4n1BGoyCHd4Ky8oy7sjbvY/O131A/WoKRBJOWNlVUnSuOf6ydob7bGu5I2jdNN7szvhPvsK0Tbm2hXl1DlD6GiBUb+HH7tGPPHfwgdwkG30eXH6Tofntzk4dJO+vfsQ24tfULL3x/EscEsYRP4cek73tv5k5DdBPQM8fSCs5OfmRsfyI6qurWaPiKXbrrjCx1/bc748st9/v/lWR7ceuYGg2fu4KlZfzv7qcbEeZdRjXLk1PQuTSrdUBhP1/K6hGpGcdU05sjXH5pRd06TLLTT7+lOr6cphs6i7Qbvt7TuKEMdE3tXIsvxxGDHL6fya/v3NKza4W1pz89Y2kdDNO2UsqrcWlesE7T8E7iNjBy3PCGKJuPJo93zOEd4R3kBAAD//6+vUHAAAAAGSURBVAMAsfGG9HCjUr4AAAAASUVORK5CYII=",
         "type": "extension"
     }
 ]
