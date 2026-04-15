@@ -107,5 +107,12 @@
         "text": "Home • Tremor – React components to build charts and dashboards",
         "imgSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABB0lEQVQ4jbWRoU4DQRRF753ukO4aUBUERLEYUrclJHwGnoS/IEzxCDwBg+EPkLiyroIvIGtAYMhmm+z0PUTTUKCz3UK4apJ35uS+GeCPYd2w7947MK0jlep26NbfFjEmdDk9L05AkxO4FNgkxEWhgVFsgbR1DRcKDp22Kx13FLIx288Am/tnpbFsvz44jmsFVVTuQTDk3PMYgwxQVKZMATx+abqs4rL8EFgfjybCrqrczVHpRNi1Ph5954PfmA6KK0MeA4AXbGcuyRs1WDX/JyAgs3ML3FldQHzuTLnvD8qnA1f0Ggu88FoVL1MZY1J3JeJaY0HmkpyqPQVPVfVGFRfw+hzif50PRbhUEMAs2lwAAAAASUVORK5CYII=",
         "type": "code"
+    },
+        {
+        "href": "https://skeletonreact.com/",
+        "text": "React Skeleton - Create Content Loader",
+        "imgSrc": null,
+        "type": "code"
     }
+
 ]
